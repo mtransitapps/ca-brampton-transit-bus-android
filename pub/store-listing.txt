@@ -2,10 +2,11 @@ Title: Brampton Transit Bus - MonTra…
 ----------
 Short description:
 Brampton Transit buses for MonTransit BETA
-Schedule. News from @BramptonTransit
+Schedule. News.
 ----------
 What's new in this version?:
 Schedule from January 4, 2015 to December 31, 2015.
+Tweets from @BramptonTransit.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
