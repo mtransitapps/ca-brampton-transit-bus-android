@@ -14,7 +14,7 @@
 160,'','Orenda Rd / 237 Orenda Rd',43.697067,-79.722832
 170,'','Orenda Rd / Titan Rd',43.698074,-79.720299
 180,'','West Dr N/Of Orenda Rd',43.699688,-79.718048
-190,'','West Dr S/Of Clark Blvd ( 55 West Dr )',43.702705,-79.723122
+190,'','West Dr S/Of Clark Blvd (55 West Dr)',43.702705,-79.723122
 200,'','Clark Blvd E/Of West Dr',43.7047,-79.726936
 210,'','Clark Blvd / 185 Clark Blvd',43.706436,-79.725029
 220,'','Clark Blvd / Terese Rd',43.709263,-79.724022
@@ -127,8 +127,8 @@
 1508,'','Steeles Ave W/Of Misssisauga Rd',43.626732,-79.776947
 1530,'','Hereford St W/Of Mississauga Rd',43.620708,-79.768356
 1540,'','Hereford St S/Of Ironbridge Rd',43.618439,-79.76738
-1550,'','Hereford St W/Of President''S Choice Cir (Loblaws)',43.617088,-79.768318
-1560,'','Hereford St Btwn President''S Choice Cir & Edgeware',43.615604,-79.771835
+1550,'','Hereford St W/Of President''s Choice Cir (Loblaws)',43.617088,-79.768318
+1560,'','Hereford St Btwn President''s Choice Cir & Edgeware',43.615604,-79.771835
 1570,'','Hereford St N/Of Edgeware Rd',43.618984,-79.776497
 1575,'','Hereford St Btwn Edgeware Rd & Steeles Ave',43.62051,-79.778549
 1640,'','Kensington Rd E/Of Central Park Dr',43.720219,-79.719841
@@ -343,7 +343,7 @@
 4270,'','Bramalea Rd S/Of Williams Pky E',43.733528,-79.729866
 4275,'','Bramalea Rd Btwn Williams Pky & Central Park Dr',43.731464,-79.727089
 4280,'','Bramalea Rd / Central Park Dr',43.729893,-79.725014
-4290,'','Bramalea Rd N/Of Goodwood Rd ( Chinguacousy Park )',43.727604,-79.721794
+4290,'','Bramalea Rd N/Of Goodwood Rd (Chinguacousy Park)',43.727604,-79.721794
 4400,'','Bramalea Rd S/Of Clark Blvd',43.719467,-79.71093
 4410,'','Bramalea Rd / Balmoral Dr',43.715504,-79.705681
 4420,'','Bramalea Rd / Algonquin Blvd',43.713543,-79.702965
@@ -363,7 +363,7 @@
 4570,'','West Dr / Finley Rd',43.692314,-79.709328
 4575,'','West Dr / Steeles Ave E',43.690952,-79.707497
 4580,'','Tomken Rd S/Of Steeles Ave E',43.689819,-79.706047
-4590,'','Steelwell Rd / Laila''S Whse',43.687683,-79.706749
+4590,'','Steelwell Rd / Laila''s Whse',43.687683,-79.706749
 4600,'','Steelwell Rd / Hedgedale Rd',43.686153,-79.707642
 4610,'','Steelwell Rd / Nissan Whse',43.683975,-79.706146
 4620,'','Steelwell Rd / Westcreek Blvd',43.683426,-79.70446
@@ -581,9 +581,9 @@
 7990,'','Delta Park Blvd / Nevets Rd - 1A',43.742641,-79.689995
 7995,'','Nevets Rd / Airport - 1A',43.741276,-79.692032
 8000,'','Coventry Rd W/Of Airport Rd - 1A',43.740612,-79.692993
-8015,'','Coventry Rd / 21 Coventry Rd ( Wal-Mart ) - 1A',43.739956,-79.693855
+8015,'','Coventry Rd / 21 Coventry Rd (Wal-Mart) - 1A',43.739956,-79.693855
 8020,'','Conventry Rd / Walker Dr',43.73885,-79.695518
-8030,'','Walker Dr / 299 Walker Dr ( Bell Building ) - 1A',43.73893,-79.697777
+8030,'','Walker Dr / 299 Walker Dr (Bell Building) - 1A',43.73893,-79.697777
 8040,'','Walker Rd / Gateway Blvd - 1A',43.73764,-79.699303
 8050,'','Gateway Blvd / Queen St E - 1A',43.738457,-79.70063
 8070,'','Queen St E W/Of Tim Hortons (2433 Queen St E)',43.736446,-79.70433
@@ -1004,7 +1004,7 @@
 12770,'','Vodden St W Opp Talbot St',43.689304,-79.77874
 12780,'','Vodden St W / Pleasantview Ave',43.689159,-79.776352
 12790,'','English St / Talbot St',43.690472,-79.775993
-12795,'','English St N/Of Alison Crt ( 41 English St )',43.692173,-79.774216
+12795,'','English St N/Of Alison Crt (41 English St)',43.692173,-79.774216
 12800,'','English St Opp Murray St',43.693382,-79.772865
 12810,'','English St / Main St',43.694405,-79.771729
 12840,'','Main St N / Market St',43.689198,-79.764572
@@ -1221,7 +1221,7 @@
 15610,'','Lockwood Rd Opp 204 Lockwood Rd',43.667381,-79.776443
 15615,'','Lockwood Rd Opp Chadwick St',43.668407,-79.777977
 15620,'','Lockwood Rd / Queen St - 56 ONLY',43.668541,-79.778938
-15630,'','Queen St W / Sobey''S Entrance (WB)',43.668068,-79.779907
+15630,'','Queen St W / Sobey''s Entrance (WB)',43.668068,-79.779907
 15650,'','Chinguacousy Rd / Burt Dr',43.670258,-79.786285
 15660,'','Chinguacousy Rd / Flowertown Ave',43.673641,-79.790894
 15670,'','Chinguacousy Rd N/Of Major William Sharpe Dr',43.677082,-79.795601
@@ -1265,7 +1265,7 @@
 16130,'','Chinguacousy Rd / Major William Sharpe Dr',43.676605,-79.795464
 16140,'','Chinguacousy Rd Opp Flowertown Ave',43.673737,-79.791489
 16150,'','Chinguacousy Rd N/Of Davis Elm Dr',43.670307,-79.787117
-16170,'','Queen St W / Sobey''S Entrance (EB)',43.66769,-79.780052
+16170,'','Queen St W / Sobey''s Entrance (EB)',43.66769,-79.780052
 16180,'','Lockwood Rd / Chadwick St',43.66851,-79.778343
 16190,'','Lockwood Rd / 204 Lockwood Rd',43.66732,-79.776596
 16200,'','Lockwood Rd / Carrie Cres',43.665661,-79.775627
@@ -1308,7 +1308,7 @@
 16630,'','Bovaird Dr E E/Of MacKay St',43.738331,-79.750504
 16635,'','Bovaird Dr E Btwn Fernforest Dr & Bramalea Rd',43.740154,-79.748489
 16645,'','Bramalea Rd S/Of Bovaird Dr E',43.743694,-79.743561
-16650,'','Bovaird Dr E / Professor''S Lake Pky',43.7486,-79.739532
+16650,'','Bovaird Dr E / Professor''s Lake Pky',43.7486,-79.739532
 16665,'','Bovaird Dr E / 2280 Bovaird Dr E',43.751587,-79.736862
 16670,'','Torbram - Zum Bovaird Station Stop EB',43.754868,-79.733177
 16680,'','Bovaird Dr E / Sunnyvale Gate',43.757492,-79.730179
@@ -1483,7 +1483,7 @@
 18300,'','Central Park Dr N/Of Howden Blvd',43.724873,-79.727097
 18310,'','Central Park Dr E/Of Hilldale Cres (W)',43.726376,-79.727753
 18370,'','Bramalea Rd N/Of Trillium Crt',43.740532,-79.738785
-18380,'','Bramalea Rd / Professor''S Lake Pky',43.74155,-79.740204
+18380,'','Bramalea Rd / Professor''s Lake Pky',43.74155,-79.740204
 18425,'','Bovaird Dr E / Sunny Meadow Blvd',43.749687,-79.73925
 18430,'','Sunny Meadow Blvd S/Of Thunderbird Trail',43.750191,-79.740868
 18440,'','Sunny Meadow Blvd / Peter Robertson Blvd',43.751659,-79.741737
@@ -1579,8 +1579,8 @@
 19650,'','Kennedy Rd S / Glidden Rd',43.682148,-79.731186
 19660,'','Kennedy Rd S Opp Tullamore Rd',43.684151,-79.733871
 19670,'','Kennedy Rd S / Stafford Dr',43.685577,-79.735725
-19680,'','Kennedy Rd S Opp Dean St (At 110 Kennedy Rd )',43.686737,-79.73732
-19690,'','Kennedy Rd S Opp Research Rd (At 90 Kennedy Rd )',43.687935,-79.738945
+19680,'','Kennedy Rd S Opp Dean St (At 110 Kennedy Rd)',43.686737,-79.73732
+19690,'','Kennedy Rd S Opp Research Rd (At 90 Kennedy Rd)',43.687935,-79.738945
 19700,'','Kennedy Rd S / Clarence St',43.689651,-79.741226
 19710,'','Kennedy Rd S N/Of Orenda Rd',43.692787,-79.745468
 19720,'','Kennedy Rd S / Eastern Ave',43.693939,-79.747009
@@ -1675,7 +1675,7 @@
 23010,'','Rutherford Rd N / Reigate Ave',43.705887,-79.750122
 23020,'','Rutherford Rd N / Madoc Dr',43.704517,-79.747856
 23030,'','Rutherford Rd N N/Of Queen St E (At Archdekin Dr)',43.702888,-79.744637
-23040,'','Queen St E W/Of Hwy 410 Ramp ( / Burger King )',43.703197,-79.740723
+23040,'','Queen St E W/Of Hwy 410 Ramp (/ Burger King)',43.703197,-79.740723
 23058,'','Queen St W/Of Dixie Rd',43.714172,-79.728386
 23070,'','Peel Centre Dr E/Of BCC Entrance (Opp ROP Bldg)',43.717491,-79.723213
 23140,'','Team Canada Dr Btwn Knightsbridge & Peel Cente Dr',43.717648,-79.719597
@@ -2563,3 +2563,13 @@
 15010503,'','Royal West Dr S/Of Williams Pkwy',43.659466,-79.813736
 15021601,'','Steeles Ave E/Of Resolution Dr',43.678669,-79.71904
 15033008,'','Gore Meadows Community Centre',43.793533,-79.695763
+15051801,'','Heart Lake Rd S/Of Sprucewood Rd',43.728004,-79.771149
+15051802,'','Bramalea Rd S/Of Inspire Blvd',43.769581,-79.777992
+15051803,'','Financial Dr N/Of Meadowvale',43.614769,-79.751175
+15051804,'','The Gore Rd N/Of Castlemore Rd',43.791965,-79.690247
+15051805,'','Castlemore Rd E/Of The Gore Rd',43.792233,-79.689247
+15051806,'','Creditview Rd S/Of Aylesbury Rd',43.683891,-79.829216
+15051807,'','Queen St Btwn James Potter Rd And Chinguacousy Rd',43.665089,-79.782867
+15051808,'','Wanless Dr E/Of Creditview Rd',43.696812,-79.845589
+15051809,'','Creditview Rd S/Of Wanless Dr',43.695992,-79.84549
+15051810,'','Castlemore Rd W/Of Honeyview Trail',43.783352,-79.698975
