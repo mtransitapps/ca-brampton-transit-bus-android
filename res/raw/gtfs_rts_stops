@@ -25,7 +25,7 @@
 280,'','Clark Blvd Opp 185 Clark Blvd',43.705925,-79.726028
 290,'','Clark Blvd / West Dr',43.70483,-79.727158
 300,'','West Dr S / Of Clark Blvd',43.70401,-79.727074
-308,'','West Dr / 60 West Dr',43.703243,-79.724487
+308,'','60 West Dr',43.703243,-79.724487
 310,'','West Dr / Norpak Whse',43.701546,-79.721527
 320,'','West Dr S / Of Orenda Rd',43.699127,-79.71785
 330,'','Glidden Rd W / Of West Dr',43.694832,-79.713753
@@ -379,7 +379,7 @@
 4720,'','Bramalea Rd / Dewside Dr',43.757248,-79.761223
 4780,'','Dearbourne Blvd Opp Dorset Dr (E / Of Bramalea Rd)',43.709908,-79.695099
 4790,'','Dearbourne Blvd Opp Delmere Rd',43.712341,-79.692375
-4800,'','Dearbourne Blvd / Deerfield Cres (S)',43.714043,-79.691544
+4800,'','Dearbourne Blvd / Deerfield Cres',43.714043,-79.691544
 4810,'','Dearbourne Blvd Opp Dorchester Dr',43.715378,-79.691757
 4820,'','Dearbourne Blvd Opp Devonshire Dr',43.717247,-79.692169
 4830,'','Balmoral Dr W / Of Dearbourne Blvd',43.719376,-79.693222
@@ -406,7 +406,7 @@
 5320,'','Howden Blvd / Vodden Rd E',43.717117,-79.741508
 5330,'','Howden Blvd / Ladin Dr',43.718182,-79.744003
 5340,'','Howden Blvd / Leander St',43.719315,-79.745499
-5350,'','North Park Dr N / Of Williams Pwky E',43.72068,-79.747116
+5350,'','North Park Dr N / Of Williams Pky E',43.72068,-79.747116
 5360,'','North Park Dr Opp Nuttall St',43.722946,-79.751656
 5370,'','North Park Dr / Neptune Crt',43.723831,-79.753372
 5380,'','Nasmith St N / Of North Park Dr',43.727184,-79.754753
@@ -829,7 +829,7 @@
 10845,'','Sunny Meadow Blvd / Peter Robertson Blvd',43.751892,-79.742409
 10850,'','Peter Robertson Blvd / Giraffe Ave (W)',43.752403,-79.741325
 10855,'','Sunny Meadow Blvd Opp Thunderbird Trail',43.750366,-79.741371
-10857,'','Brampton Civic Hospital 12 SB',43.748257,-79.741798
+10857,'','Brampton Civic Hospital 12 / 15A SB',43.748257,-79.741798
 10858,'','Brampton Civic Hospital 12NB',43.748371,-79.741699
 10860,'','Peter Robertson Blvd / Clover Bloom Rd',43.754009,-79.740135
 10870,'','Peter Robertson Blvd / Torbram Rd',43.756363,-79.737244
@@ -1643,7 +1643,7 @@
 22690,'','Bartley Bull Pky S / Of Robert Cres',43.679462,-79.731628
 22700,'','Bartley Bull Pky Btwn Roberts Cres & Tullamore Rd',43.681633,-79.734009
 22710,'','Bartley Bull Pky / Tullamore Rd',43.682316,-79.735558
-22720,'','Harper Rd N / Of Bartley Bull Pkwy',43.680836,-79.737854
+22720,'','Harper Rd N / Of Bartley Bull Pky',43.680836,-79.737854
 22730,'','Harper Rd / Jersey Ave',43.682167,-79.740219
 22740,'','Harper Rd / Cornwall Rd',43.683472,-79.742485
 22750,'','Marsden Cres / Eldomar Ave',43.683434,-79.743889
@@ -2032,7 +2032,7 @@
 40930,'','Brisdale Dr S / Of Wanless Dr',43.701729,-79.839157
 40960,'','Chinguacousy Rd / Drinkwater Rd - 4A',43.656231,-79.767609
 40970,'','Chinguacousy Rd / Queen St W',43.666328,-79.780861
-40980,'','Chinguacousy Rd N / Of Sterritt Dr',43.661823,-79.77459
+40980,'','Chinguacousy Rd / Sterritt Dr',43.661823,-79.77459
 40984,'','Wanless Dr Opp Thornbush Blvd - 4A',43.698315,-79.84436
 40985,'','Chinguacousy Rd Btwn Sterritt Dr & Queen St',43.663715,-79.777313
 40988,'','Creditview Rd S / Of Crown Victoria Dr - 4A',43.694431,-79.843353
@@ -2231,7 +2231,7 @@
 44935,'','406 Sunny Meadow Blvd',43.766811,-79.76297
 44940,'','Sunny Meadow Blvd / Finlayson Cres',43.767551,-79.764046
 44945,'','Sunny Meadow Blvd N / Of Resserville St',43.767601,-79.76532
-44950,'','Countryside Dr E / Of Sunny Meadow Blvd',43.76862,-79.766579
+44950,'','Sunny Meadow Blvd / Countryside Dr',43.768047,-79.766655
 44960,'','Countryside Dr / Moldovan Dr',43.771706,-79.763763
 44995,'','Torbram Rd / Sandalwood Pky E',43.765335,-79.748932
 45020,'','Mountainash Rd / Klondike Trail',43.7733,-79.746193
