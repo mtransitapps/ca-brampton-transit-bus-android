@@ -455,12 +455,12 @@
 5910,'','Dixie Rd / Midway Blvd',43.668228,-79.664711
 5920,'','Dixie Rd / Director Gate',43.672188,-79.669983
 5930,'','Dixie Rd / Carlcrest Rd',43.67421,-79.672791
-5940,'','Dixie Rd N / Of Derry Rd',43.675674,-79.674606
+5940,'','Dixie Rd N / Of Derry Rd',43.675949,-79.675034
 5943,'','Dixie Rd Opp Sikh Temple',43.677834,-79.677811
 5950,'','Dixie Rd / Drew Rd',43.680977,-79.681747
 5960,'','Dixie Rd / Advance Blvd',43.690884,-79.695129
 5970,'','Dixie Rd / Steeles Ave E',43.694897,-79.700539
-5980,'','Dixie Rd N / Of Steeles Ave E',43.695984,-79.702019
+5980,'','Dixie Rd N / Of Steeles Ave E',43.695847,-79.701942
 5990,'','Dixie Rd Btwn Steeles Ave E And Orenda Rd',43.697536,-79.704689
 6000,'','Dixie Rd / Orenda Rd (S)',43.699768,-79.707642
 6010,'','Dixie Rd / Birchbank Rd',43.701595,-79.710159
@@ -511,7 +511,7 @@
 6580,'','Dixie Rd / Steeles Ave E',43.695683,-79.702324
 6590,'','Dixie Rd S / Of Steeles Ave E',43.694092,-79.700111
 6600,'','Dixie Rd / Advance Blvd',43.691422,-79.696541
-6610,'','Dixie Rd / Drew Rd',43.681278,-79.682831
+6610,'','Dixie Rd / Drew Rd',43.681156,-79.682739
 6620,'','Dixie Rd / 7080 Dixie Rd',43.67786,-79.678391
 6630,'','Dixie Rd / Derry Rd',43.675762,-79.675591
 6635,'','Dixie Rd N / Of Derry Rd',43.676327,-79.676338
@@ -651,7 +651,7 @@
 8960,'','McMurchy Ave S / Peelton Heights Rd',43.661831,-79.739616
 9000,'','Steeles Ave W Opp Bernard Ave',43.659306,-79.740761
 9010,'','Steeles Ave W / McLaughlin Rd S',43.657001,-79.743271
-9020,'','McLaughlin Rd S / Holland Christian Homes',43.655121,-79.74202
+9020,'','McLaughlin Rd S / Holland Christian Homes',43.65514,-79.742058
 9060,'','Main St S / Bartley Bull Pky',43.667892,-79.735443
 9065,'','Main St S / Charolais Blvd',43.66959,-79.737816
 9070,'','Main St S N / Of Peel Village Pky',43.67173,-79.740784
@@ -979,7 +979,7 @@
 12610,'','Van Kirk Dr Opp Viceroy Cres (S)',43.71357,-79.818047
 12615,'','Van Kirk Dr S / Of Mossgrove Cres',43.711266,-79.81498
 12630,'','Van Kirk Dr / Cedar Valley Blvd',43.709843,-79.812714
-12640,'','Van Kirk Dr Btwn Sandalwood Pky W & Regan Rd',43.709442,-79.808289
+12640,'','Van Kirk Dr Btwn Sandalwood Pky W & Regan Rd',43.70945,-79.808296
 12650,'','Van Kirk Dr S / Of Regan Rd (N) (Opp 111 Van Kirk Dr',43.707291,-79.803925
 12660,'','Van Kirk Dr S / Of Regan Rd (N) (Opp 105 Van Kirk Dr',43.705738,-79.801933
 12675,'','Van Kirk Dr N / Of Railway Tracks (Southbound)',43.704044,-79.800179
@@ -1785,7 +1785,7 @@
 25720,'','Sun Pac Blvd Btwn Progress Crt & Exchange Dr',43.754704,-79.692162
 25740,'','Sun Pac Blvd Btwn Exchange Dr & Progress Crt',43.754738,-79.691917
 25750,'','Sun Pac Blvd Opp Progress Crt',43.756275,-79.693993
-25760,'','Sun Pac Blvd Opp Ward Rd',43.757744,-79.695923
+25760,'','Sun Pac Blvd Opp Ward Rd',43.758171,-79.69651
 25770,'','Sun Pac Blvd / Williams Pkwy',43.760479,-79.699478
 25840,'','Mount Pleasant GO Station Route 29 / 29A / 215 Stop',43.674515,-79.822205
 25890,'','Williams Pky W / Chinguacousy Rd',43.681427,-79.802773
@@ -2398,7 +2398,7 @@
 93535,'','Edgeware Rd E / Of Hereford St',43.618919,-79.775269
 93540,'','Edgeware Rd W / Of Ironbridge Rd',43.621025,-79.772926
 93545,'','Mississauga Rd N / Of Hereford St',43.621372,-79.76825
-93550,'','Derry Rd W / Of Financial Dr',43.61145,-79.749413
+93550,'','Derry Rd W / Of Financial Dr',43.611443,-79.749413
 93555,'','Derry Rd W / Of Creditview Rd',43.613846,-79.744698
 93560,'','Financial Dr S / Of Creditview Rd',43.612621,-79.739449
 93800,'','Castlemore Rd E / Of Goreway Dr',43.773129,-79.710594
@@ -2473,8 +2473,8 @@
 14090126,'','Robert Parkinson Dr S / Of Tribune Dr',43.689278,-79.840599
 14090127,'','Buick Blvd E / Of Robert Parkinson Dr',43.691048,-79.842453
 14090128,'','Lockwood Rd S / Of Sterritt Dr',43.663006,-79.772255
-14090130,'','Humberwest Pkwy S / Of Fairlawn Blvd',43.769878,-79.727074
-14090131,'','Humberwest Pkwy S / Of Crystal Hill Dr',43.769035,-79.721992
+14090130,'','Humberwest Pkwy S / Of Fairlawn Blvd',43.769798,-79.725792
+14090131,'','Humberwest Pkwy S / Of Crystal Hill Dr',43.768585,-79.721306
 14090132,'','Mount Pleasant GO Station - 5 / 5A / 505 Zum Bovaird',43.67485,-79.822792
 14090133,'','McLaughlin- Zum Bovaird Station Stop WB',43.695728,-79.798203
 14090134,'','Heart Lake - Zum Bovaird Station Stop WB',43.721252,-79.770508
