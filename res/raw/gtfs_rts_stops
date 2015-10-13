@@ -244,7 +244,7 @@
 2960,'','Torbram Rd @ Kimbel St',43.701778,-79.662552
 2970,'','Torbram Rd N / Of Kimbel St (Opp 7450 Torbram Rd)',43.703846,-79.665321
 2980,'','Torbram Rd @ Rena Rd',43.70541,-79.66748
-2990,'','Torbram Rd N / Of Rena Rd (At 7615 Torbram Rd)',43.707275,-79.669952
+2990,'','Torbram Rd N / Of Rena Rd (@ 7615 Torbram Rd)',43.707275,-79.669952
 2995,'','Torbram Rd @ 7795 Torbram Rd',43.710083,-79.67366
 3000,'','Torbram Rd @ Steeles Ave E',43.714035,-79.678947
 3010,'','Torbram Rd N / Of Steeles Ave E',43.715069,-79.680405
@@ -573,7 +573,7 @@
 7710,'','Queen St E Opp Beech St',43.693684,-79.751503
 7730,'','Queen St E Btwn Kennedy Rd N & Hansen Rd',43.697304,-79.747459
 7740,'','Queen St E E / Of Hansen Rd',43.699162,-79.745308
-7750,'','Queen St E E / Of Hansen Rd (At Sears Liquidation Ce',43.699871,-79.744499
+7750,'','Queen St E E / Of Hansen Rd (@ Sears Liquidation Ce',43.699871,-79.744499
 7790,'','West Dr S / Of Queen St E',43.708061,-79.733345
 7800,'','West Dr N / Of Clark Blvd (100 West Dr)',43.705631,-79.729637
 7970,'','Delta Pk Blvd S / Of Queen St - 1A',43.745552,-79.691864
@@ -628,7 +628,7 @@
 8710,'','McMurchy Ave N @ Denison Ave',43.683468,-79.768524
 8720,'','Railroad St E / Of McMurchy Ave N',43.684872,-79.770073
 8730,'','Railroad St @ West St',43.685532,-79.769737
-8740,'','Railroad St W / Of Mill St',43.686039,-79.767258
+8740,'','Railroad St W / Of Mill St',43.686165,-79.766685
 8770,'','Railroad St W / Of Mill St',43.686165,-79.767303
 8780,'','Railroad St Opp West St',43.685719,-79.769325
 8790,'','McMurchy Ave N S / Of Railroad St',43.68409,-79.769615
@@ -803,7 +803,7 @@
 10580,'','Black Forest Dr @ Sprucelands Ave',43.749508,-79.753487
 10590,'','Black Forest Dr Opp Willow Pk Dr',43.747902,-79.754776
 10593,'','Black Forest Dr Opp Bunchberry Way',43.746475,-79.755905
-10595,'','Fernforest Dr S / Of Black Forest Dr (At Bobcat St)',43.743843,-79.755569
+10595,'','Fernforest Dr S / Of Black Forest Dr (@ Bobcat St)',43.743843,-79.755569
 10600,'','Peter Robertson Blvd W / Of Fernforest Dr',43.740631,-79.754288
 10610,'','Peter Robertson Blvd W / Of Hickroybush Ave',43.74036,-79.75766
 10620,'','Peter Robertson Blvd @ Dixie Rd',43.739376,-79.759636
@@ -964,7 +964,7 @@
 12350,'','Conestoga Dr Btwn Polygon Crt & Ruth Ave',43.721294,-79.789742
 12360,'','Conestoga Dr @ Ebby Ave',43.717739,-79.788162
 12365,'','Conestoga Dr Opp Jay St',43.719349,-79.789024
-12370,'','Conestoga Dr S / Of Ebby Ave (At Heart Lk S.S.)',43.717487,-79.788254
+12370,'','Conestoga Dr S / Of Ebby Ave (@ Heart Lk S.S.)',43.717487,-79.788254
 12380,'','Conestoga Dr N / Of Wexford Rd',43.715038,-79.784828
 12385,'','Conestoga Dr @ Bovaird Dr W',43.713329,-79.780777
 12390,'','Conestoga Dr @ Wexford Dr',43.714878,-79.78495
@@ -1055,7 +1055,7 @@
 13880,'','McLaughlin Rd S N / Of Elgin St',43.664398,-79.754501
 13895,'','McLaughlin Rd S N / Of Curtis Dr',43.665577,-79.75618
 13900,'','McLaughlin Rd S @ Harold St',43.668373,-79.759941
-13910,'','McLaughlin Rd S @ John Knox Christian School',43.671253,-79.763878
+13910,'','McLaughlin Rd S @ John Knox Christian School',43.671558,-79.76432
 13920,'','McLaughlin Rd S @ Corona Gt',43.672588,-79.765686
 13930,'','Flower City Community Campus Route 1 / 1A / 3A / 57 Stop',43.671368,-79.769554
 13935,'','McLaughlin Rd S N / Of Bufford Dr',43.67466,-79.768524
@@ -1449,7 +1449,7 @@
 17980,'','County Court Blvd Opp Mossbank Dr (S)',43.663811,-79.721588
 17990,'','County Court Opp Havelock Dr (E)',43.661709,-79.720505
 18000,'','County Court Blvd Opp Havelock Dr (W)',43.660442,-79.721458
-18010,'','County Court Blvd (S) At Hurontario St',43.658928,-79.72319
+18010,'','County Court Blvd (S) @ Hurontario St',43.658928,-79.72319
 18020,'','Ray Lawson Blvd @ Malta Ave',43.656708,-79.725693
 18021,'','Ray Lawson Blvd E / Of Cherrytree Dr -206School Only',43.656689,-79.725334
 18030,'','Ray Lawson Blvd Opp Cherrytree Dr (W)',43.654839,-79.727654
@@ -1577,8 +1577,8 @@
 19650,'','Kennedy Rd S @ Glidden Rd',43.682148,-79.731186
 19660,'','Kennedy Rd S Opp Tullamore Rd',43.684151,-79.733871
 19670,'','Kennedy Rd S @ Stafford Dr',43.685577,-79.735725
-19680,'','Kennedy Rd S Opp Dean St (At 110 Kennedy Rd)',43.686737,-79.73732
-19690,'','Kennedy Rd S Opp Research Rd (At 90 Kennedy Rd)',43.687935,-79.738945
+19680,'','Kennedy Rd S Opp Dean St (@ 110 Kennedy Rd)',43.686737,-79.73732
+19690,'','Kennedy Rd S Opp Research Rd (@ 90 Kennedy Rd)',43.687935,-79.738945
 19700,'','Kennedy Rd S @ Clarence St',43.689651,-79.741226
 19710,'','Kennedy Rd S N / Of Orenda Rd',43.692787,-79.745468
 19720,'','Kennedy Rd S @ Eastern Ave',43.693939,-79.747009
@@ -1673,8 +1673,8 @@
 23000,'','Rutherford Rd N @ Vodden St E',43.707035,-79.754761
 23010,'','Rutherford Rd N @ Reigate Ave',43.705887,-79.750122
 23020,'','Rutherford Rd N @ Madoc Dr',43.704517,-79.747856
-23030,'','Rutherford Rd N N / Of Queen St E (At Archdekin Dr)',43.702888,-79.744637
-23040,'','Queen St E W / Of Hwy 410 Ramp (At Burger King)',43.703197,-79.740723
+23030,'','Rutherford Rd N N / Of Queen St E (@ Archdekin Dr)',43.702888,-79.744637
+23040,'','Queen St E W / Of Hwy 410 Ramp (@ Burger King)',43.703197,-79.740723
 23058,'','Queen St W / Of Dixie Rd',43.714172,-79.728386
 23070,'','Peel Ctr Dr E / Of BCC Entrance (Opp ROP Bldg)',43.717491,-79.723213
 23140,'','Team Canada Dr Btwn Knightsbridge & Peel Cente Dr',43.717648,-79.719597
@@ -1845,7 +1845,7 @@
 26552,'','Williams Pky @ GO Carpool Pkng Lot',43.71682,-79.750587
 26570,'','Williams Pky E @ Southlake Blvd',43.714359,-79.757545
 26580,'','Williams Pky E @ Rutherford Rd N',43.713772,-79.760834
-26590,'','Williams Pky E W / Of Rutherford Rd (At Bridge)',43.710926,-79.764053
+26590,'','Williams Pky E W / Of Rutherford Rd (@ Bridge)',43.710926,-79.764053
 26600,'','Williams Pky E @ Kennedy Rd N',43.708763,-79.766457
 26605,'','Williams Pky E Btwn Kennedy Rd N & Ctr St N',43.705803,-79.769798
 26610,'','Williams Pky E E / Of Ctr St N',43.703468,-79.772247
@@ -1961,7 +1961,7 @@
 40330,'','Brisdale Dr @ Venetian Ter',43.700447,-79.837219
 40340,'','Brisdale Dr N / Of Sugarhill Dr',43.700127,-79.836739
 40350,'','Brisdale @ Jessop Dr',43.697521,-79.835312
-40360,'','Brisdale Dr Opp Jessop Dr (At Buick Blvd)',43.697533,-79.835762
+40360,'','Brisdale Dr Opp Jessop Dr (@ Buick Blvd)',43.697533,-79.835762
 40370,'','Queen Mary Dr @ Earlsbridge Blvd',43.711029,-79.824104
 40380,'','Queen Mary Dr @ Kanata Rd',43.709244,-79.821434
 40390,'','Queen Mary Dr Opp Echoridge Dr',43.707684,-79.81929
@@ -1977,7 +1977,7 @@
 40490,'','Earlsbridge Blvd E / Of Cipriano Crt',43.706841,-79.824768
 40510,'','Earlsbridge Blvd E / Of Edenbrook Hl Dr',43.704742,-79.826447
 40520,'','Earlsbridge Blvd @ Florence Dr',43.702972,-79.827972
-40555,'','Creditview Rd S / Of Sandalwood Pky',43.688198,-79.834961
+40555,'','Creditview Rd S / Of Sandalwood Pky',43.688404,-79.83522
 40560,'','Creditview Rd Opposite McCrimmon Dr',43.686016,-79.831963
 40561,'','Creditview Rd N / Of Fairhill Ave',43.682472,-79.827782
 40562,'','Creditview Rd E / Of Bleasdale Ave',43.679817,-79.828224
@@ -2133,7 +2133,7 @@
 44280,'','James Potter Rd Btwn Georgian Rd & Ashby Field Rd',43.670841,-79.816132
 44290,'','James Potter @ Ashby Field Rd',43.669147,-79.819267
 44300,'','Ashby Field Rd @ Fandango Dr',43.671001,-79.820198
-44303,'','Ashby Field Rd S / Of Bovaird Dr',43.672703,-79.821831
+44303,'','Ashby Field Rd S / Of Bovaird Dr',43.672829,-79.82193
 44310,'','Ashby Field Rd Opp Fandango Dr',43.671261,-79.820778
 44315,'','Ashby Field Rd @ James Potter Rd',43.669594,-79.819763
 44320,'','James Potter Rd @ Alister Dr',43.670376,-79.816254
@@ -2428,7 +2428,7 @@
 91670,'','Royal West Dr Btwn Balin Cres & Balin Cres',43.654469,-79.809341
 91675,'','Royal West Dr S / Of Adamsville Rd N',43.651653,-79.805382
 91680,'','Royal West Dr N / Of Queen St W',43.650192,-79.801117
-91690,'','Queen St E / Of Royal West Dr',43.650116,-79.799294
+91690,'','Queen St E / Of Royal West Dr',43.650387,-79.798996
 92000,'','Queen St W W / O Chinguacousy Rd',43.666176,-79.782135
 92300,'','Royal West Dr @ Williams Pkwy W',43.660004,-79.814941
 92465,'','Queen St W W / Of McLaughlin Rd',43.675526,-79.771065
@@ -2478,7 +2478,7 @@
 93855,'','Clarkway Dr S / Of Castle Oaks Xing',43.795429,-79.670883
 93860,'','Clarkway Dr S / Of Altura Way',43.797726,-79.673889
 93865,'','Clarkway Dr S / Of Caliper Rd',43.799305,-79.676079
-93870,'','Castlemore Rd W / Of Clarkway Dr',43.800999,-79.679604
+93870,'','Castlemore Rd W / Of Clarkway Dr',43.800854,-79.679375
 93875,'','Castlemore Rd E / Of Drummondville Dr',43.799419,-79.681526
 93880,'','Castlemore Rd E / Of Gardenbrooke Trl',43.797222,-79.684074
 93885,'','Castlemore Rd E / Of Bloom Dr',43.794834,-79.686852
@@ -2641,7 +2641,7 @@
 15090778,'','Goreway Dr N / Of Jacksonville Dr',43.788025,-79.731857
 15090779,'','Bloomsbury Ave N / Of Cairnburg Dr',43.785564,-79.733276
 15090780,'','Bloomsbury Ave S / Of Jacksonville Dr',43.785942,-79.733627
-15090801,'','Humber College Terminal - Route 50 Stop',43.729183,-79.605026
+15090801,'','Humber College Terminal - Route 50 Stop',43.728943,-79.604408
 15090802,'','Humber College Terminal- Zum Steeles 511 / 511A Stop',43.729156,-79.605278
 15090803,'','Humber College Terminal - Route 11 / 11A Stop',43.729015,-79.604919
 15090804,'','Mississauga Rd N / Of Williams Pkwy',43.658199,-79.818016
