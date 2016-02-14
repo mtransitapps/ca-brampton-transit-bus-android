@@ -229,7 +229,7 @@
 2830,'','Goreway Rd @ Jolliffe Ave',43.71909,-79.639343
 2840,'','Goreway Rd @ Etude Dr',43.717121,-79.63662
 2850,'','Goreway Dr N / Of Dorcas St',43.715073,-79.633904
-2855,'','Derry Rd W / Of Goreway Rd',43.712646,-79.632973
+2855,'','Goreway Dr N / Of Derry Rd',43.713676,-79.63208
 2870,'','Derry Rd @ Legion Rd',43.709717,-79.636269
 2880,'','Derry Rd E / Of Hull St (Opp Malton GO Sta)',43.706856,-79.639488
 2890,'','Derry Rd W / Of Airport Rd',43.703163,-79.643272
@@ -374,6 +374,7 @@
 4680,'','Advance Blvd E / Of Rainham Crt',43.692436,-79.693764
 4690,'','Advance Blvd @ 175 Advance Blvd',43.693386,-79.69278
 4700,'','Advance Blvd @ Alfred Kuehne Blvd',43.695633,-79.693298
+4710,'','Advance Blvd Btwn Alfred Kuehne Blvd & Strathearn',43.697361,-79.695396
 4720,'','Bramalea Rd @ Dewside Dr',43.757248,-79.761223
 4780,'','Dearbourne Blvd Opp Dorset Dr (E / Of Bramalea Rd)',43.709908,-79.695099
 4790,'','Dearbourne Blvd Opp Delmere Rd',43.712341,-79.692375
@@ -1080,7 +1081,7 @@
 14150,'','Cresthaven Rd @ Zachary Dr - School Only',43.725933,-79.82283
 14151,'','Brinkley Dr @ Buffridge Trl - School Only',43.729534,-79.821472
 14158,'','Brinkley Dr @ Mapleshade Dr',43.729034,-79.822372
-14160,'','Brinkley Dr @ Cresthaven Rd',43.727257,-79.824524
+14160,'','Brinkley Dr E / Of Creekwood Dr',43.727829,-79.823746
 14190,'','Robertson Davies Dr @ Sundridge St',43.731167,-79.829536
 14200,'','Robertson Davies Dr Opp Twin Willow Cres',43.732414,-79.832176
 14210,'','Robertson Davies Dr @ Collingwood Ave',43.733482,-79.833885
@@ -1132,7 +1133,7 @@
 14820,'','Airport Rd Btwn Intermodal Dr & Clark Blvd',43.733353,-79.681732
 14830,'','Airport Rd @ Clark Blvd',43.735729,-79.684929
 14840,'','Airport Rd Btwn Clark Blvd & Nevets Rd',43.738777,-79.68911
-14850,'','Airport Rd @ Nevits Rd',43.740604,-79.691505
+14850,'','Airport Rd @ Nevets Rd',43.740658,-79.691566
 14860,'','Airport Rd @ Queen St E',43.743355,-79.695198
 14865,'','Airport Rd @ Woodhill Ctr (9105 Airport Rd)',43.745834,-79.698517
 14870,'','Airport Rd @ Maritime Ontario Blvd',43.747307,-79.700493
@@ -1288,7 +1289,7 @@
 16468,'','831 Bovaird Dr W',43.688171,-79.806175
 16470,'','Bovaird Dr W E / Of Fletchers Crk Blvd',43.69175,-79.802231
 16480,'','McLaughlin - Zum Bovaird Sta Stop EB',43.696251,-79.796913
-16490,'','Bovaird Dr W @ Royal Orchard Dr',43.697876,-79.795052
+16490,'','Bovaird Dr W E / Of Royal Orchard Dr',43.698532,-79.794304
 16500,'','Bovaird Dr W @ Gillingham Dr',43.702839,-79.789749
 16510,'','Main - Zum Bovaird Sta Stop EB',43.706448,-79.785767
 16520,'','Bovaird Dr E E / Of Yellow Brick Rd',43.709187,-79.782959
@@ -1372,8 +1373,6 @@
 17320,'','Chinguacousy - Zum Bovaird Sta Stop WB',43.685959,-79.809128
 17330,'','Bovaird Dr W E / Of Brisdale Dr',43.683681,-79.811607
 17400,'','Finch Ave W / Of Humber College Blvd',43.734398,-79.610939
-17410,'','Finch Ave Btwn Humber College Blvd And Humberline',43.734665,-79.613014
-17420,'','Finch Ave W / Of 6700 Finch Ave',43.734909,-79.616203
 17430,'','Finch Ave @ Humberline Dr',43.735176,-79.617218
 17435,'','Humberline Dr Opp Claireville Dr (S)',43.738102,-79.618141
 17440,'','Humberline Dr @ 307 Humberline Dr',43.740093,-79.61908
@@ -1624,7 +1623,7 @@
 21020,'','Hwy 7 W / Of Kipling Ave',43.778904,-79.597046
 21040,'','Hwy 7 @ Martin Grv Rd',43.776035,-79.60923
 21060,'','Hwy 7 @ Hwy 27',43.774227,-79.617332
-21100,'','Queen St E @ Palleschi Dr',43.765301,-79.660515
+21100,'','Queen St E W / Of Palleschi Dr',43.765198,-79.661736
 21135,'','Queen St E @ Auction Ln',43.750946,-79.687393
 21137,'','Queen St E @ Maritime Ontario',43.745823,-79.693443
 21160,'','Queen St E @ Canadian Tire',43.740463,-79.699715
@@ -2731,3 +2730,6 @@
 15110203,'','Castlemore Rd W / Of The Gore Rd',43.790371,-79.691399
 15110204,'','Steeles Ave Opp Polonia Ave',43.641644,-79.759933
 15110205,'','Wanless Dr E / Of Brisdale Dr',43.702248,-79.839256
+16021501,'','Airport Rd Opp Treeline Blvd',43.780407,-79.745789
+16021502,'','Kilkarrin Rd E / Of Robert Parkinson Dr',43.699631,-79.855362
+16021503,'','Robert Parkinson Dr S / Of Manzanita Cres (N)',43.700283,-79.856346
