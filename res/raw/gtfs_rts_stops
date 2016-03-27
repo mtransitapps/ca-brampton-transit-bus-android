@@ -137,7 +137,7 @@
 1680,'','Bramalea Rd @ Knightsbridge Rd - Rte 12 ONLY',43.72179,-79.714058
 1720,'','Finchgate Blvd @ Feston Pl',43.726284,-79.709175
 1730,'','Finchgate Blvd @ Queen St E',43.727524,-79.712196
-1740,'','Glenvale Blvd N / Of Gatwick Ln',43.729527,-79.714836
+1740,'','Glenvale Blvd S / Of Gatwick Ln',43.729168,-79.714539
 1750,'','Glenvale Blvd N / Of Greenmount Rd',43.730591,-79.715683
 1760,'','Glenvale Blvd @ Geraldine Crt',43.732948,-79.716621
 1770,'','Central Pk Dr Btwn Glenvale Blvd And Graham Crt',43.733974,-79.7183
@@ -1260,7 +1260,7 @@
 16120,'','Chinguacousy Rd @ Williams Pky W',43.682022,-79.80294
 16130,'','Chinguacousy Rd @ Major William Sharpe Dr',43.676571,-79.79554
 16140,'','Chinguacousy Rd Opp Flowertown Ave',43.673721,-79.791649
-16150,'','Chinguacousy Rd N / Of Davis Elm Dr',43.670307,-79.787117
+16150,'','Chinguacousy Rd N / Of Daviselm Dr',43.670303,-79.787102
 16170,'','Queen St W @ Sobey''s Entrance (EB)',43.667423,-79.78022
 16180,'','Lockwood Rd @ Chadwick St',43.66851,-79.778343
 16190,'','Lockwood Rd @ 204 Lockwood Rd',43.66732,-79.776596
@@ -1286,7 +1286,7 @@
 16430,'','Mt Pleasant GO Sta Route 56 Stop',43.674458,-79.822662
 16450,'','Bovaird Dr W E / Of Pertosa Dr',43.683292,-79.811409
 16460,'','Chinguacousy - Zum Bovaird Sta Stop EB',43.686607,-79.807846
-16468,'','831 Bovaird Dr W',43.688171,-79.806175
+16468,'','Bovaird Dr @ 831 Bovaird Dr W',43.688171,-79.806175
 16470,'','Bovaird Dr W E / Of Fletchers Crk Blvd',43.69175,-79.802231
 16480,'','McLaughlin - Zum Bovaird Sta Stop EB',43.696251,-79.796913
 16490,'','Bovaird Dr W E / Of Royal Orchard Dr',43.698532,-79.794304
@@ -1490,7 +1490,7 @@
 18600,'','Mackay St N Opp Morley Cres (S)',43.735245,-79.743927
 18610,'','Mackay St S @ Mangrove Rd',43.734402,-79.74131
 18630,'','Mackay St S @ Maitland St',43.733307,-79.737457
-18640,'','Mackay St S S / Of Mayfair Cres',43.731594,-79.734688
+18640,'','Mackay St S N / Of Mayfair Cres',43.732067,-79.735344
 18660,'','Williams Pky E Opp Mansfield St (W)',43.727325,-79.739716
 18670,'','Williams Pky E Opp Mansfield St (E)',43.728897,-79.737312
 18680,'','Dixie Rd S / Of Williams Pky E',43.724945,-79.741844
@@ -1746,7 +1746,7 @@
 24930,'','Vodden St E @ Laurelcrest St',43.714252,-79.742371
 24940,'','Vodden St E @ Howden Blvd',43.716293,-79.741714
 24980,'','Howden Blvd E / Of Hedgeson Crt (Howden Rec Ctr)',43.722309,-79.730324
-24990,'','Howden Blvd E / Of Heathcliffe Sq',43.723835,-79.727859
+24990,'','Howden Blvd W / Of Heathcliffe Sq',43.723701,-79.728333
 25030,'','Central Pk Dr @ Gleneaden Crt',43.731831,-79.721924
 25050,'','Central Pk Dr Opp Greenbriar Rec Ctr',43.735184,-79.71566
 25060,'','Central Pk Dr @ Torbram Rd',43.738205,-79.713005
@@ -1803,7 +1803,7 @@
 25890,'','Williams Pky W @ Chinguacousy Rd',43.681427,-79.802773
 25900,'','Williams Pky W @ Withers Way',43.682907,-79.799583
 25910,'','Williams Pky W @ Oxtail Ln',43.682919,-79.794792
-25920,'','Williams Pky W @ Fletchers Crk Blvd',43.684139,-79.791122
+25920,'','Williams Pky W W / Of Fletchers Crk Blvd',43.684139,-79.791122
 25950,'','Williams Pky W E / Of Vodden St W',43.690693,-79.784508
 25960,'','Williams Pky W E / Of RR Xing',43.693989,-79.781029
 25980,'','Williams Pky W @ Murray St',43.697182,-79.778915
