@@ -38,6 +38,7 @@
 372,'','Hale Rd N / Of Bramsteele Ave',43.684193,-79.718178
 373,'','Bramsteele Ave E / Of Rutherford Rd',43.683235,-79.718491
 410,'','Rutherford Rd S @ Steeles Ave E',43.680935,-79.717995
+420,'','1st Gulf Blvd N / Of Biscayne Cres (N)',43.679436,-79.715874
 440,'','1st Gulf Blvd Btwn Biscayne Cres (S) And Kennedy',43.674484,-79.715881
 460,'','Hereford St S / Of Steeles Ave',43.622219,-79.780922
 461,'','Heritage - Zum Steeles Sta Stop EB',43.617924,-79.785973
@@ -375,7 +376,7 @@
 4690,'','Advance Blvd @ 175 Advance Blvd',43.693386,-79.69278
 4700,'','Advance Blvd @ Alfred Kuehne Blvd',43.695633,-79.693298
 4710,'','Advance Blvd Btwn Alfred Kuehne Blvd & Strathearn',43.697361,-79.695396
-4720,'','Bramalea Rd @ Dewside Dr',43.757248,-79.761223
+4720,'','Bramalea Rd S / Of Dewside Dr',43.757149,-79.761124
 4780,'','Dearbourne Blvd Opp Dorset Dr (E / Of Bramalea Rd)',43.709908,-79.695061
 4790,'','Dearbourne Blvd Opp Delmere Rd',43.712704,-79.692055
 4800,'','Dearbourne Blvd @ Deerfield Cres (S)',43.714043,-79.691544
@@ -462,7 +463,7 @@
 5970,'','Dixie Rd @ Steeles Ave E',43.694897,-79.700539
 5980,'','Dixie Rd N / Of Steeles Ave E',43.695847,-79.701942
 5990,'','Dixie Rd Btwn Steeles Ave E And Orenda Rd',43.697536,-79.704689
-6000,'','Dixie Rd @ Orenda Rd (S)',43.699768,-79.707642
+6000,'','Dixie Rd N / Of Orenda Rd',43.700218,-79.708199
 6010,'','Dixie Rd @ Birchbank Rd',43.701595,-79.710159
 6015,'','Dixie Rd N / Of Birchbank Rd',43.703407,-79.71254
 6020,'','Dixie Rd N / Of Balmoral Dr',43.706257,-79.716293
@@ -635,6 +636,7 @@
 8805,'','McMurchy Ave N @ Nelson St W',43.682434,-79.767357
 8810,'','McMurchy Ave N @ Queen St W',43.68124,-79.765823
 8820,'','McMurchy Ave S @ Royce Ave',43.679489,-79.763466
+8830,'','McMurchy Ave S @ McHardy Pl',43.678024,-79.761612
 8840,'','McMurchy Ave S @ Corby Cres',43.67664,-79.759705
 8850,'','McMurchy Ave S S / Of Harold St',43.674397,-79.756683
 8860,'','McMurchy Ave S S / Of Kingsview Blvd',43.672459,-79.754105
@@ -726,7 +728,7 @@
 9780,'','Sir Lou - Zum Main Sta Stop SB',43.661194,-79.727081
 9785,'','Ray Lawson - Zum Main Sta Stop SB',43.658695,-79.723785
 9790,'','County Court Blvd (S) E / Of Hurontario St',43.659519,-79.722191
-9800,'','County Court Blvd @ Havelock Dr (W)',43.660137,-79.721542
+9800,'','County Court Blvd E / Of Havelock Dr (W)',43.660423,-79.721199
 9820,'','County Court Blvd @ Mossbank Dr',43.663666,-79.721016
 9830,'','County Court Blvd @ Seminole Dr',43.66444,-79.72374
 9867,'','Clark Blvd W / Of Peel Ctr Dr',43.71431,-79.719673
@@ -791,7 +793,7 @@
 10420,'','Mountainberry Rd @ Snow Leopard Crt (N)',43.766079,-79.730316
 10440,'','Mountainberry Rd Btwn Snow Leopard & Narrow Vly',43.764389,-79.726776
 10450,'','Mountainberry Rd Opp Mt Rainer Cres (W)',43.761642,-79.727371
-10460,'','Mountainberry Rd @ Snowcap Ln',43.761009,-79.730812
+10460,'','Mountainberry Rd @ Snowcap Rd',43.761032,-79.730682
 10470,'','Peter Robertson Blvd W / Of Mountainash Rd',43.760311,-79.733063
 10480,'','Peter Robertson Blvd @ Eagleridge Dr',43.758469,-79.735252
 10490,'','Peter Robertson Blvd W / Of Torbram Rd',43.756367,-79.737633
@@ -833,7 +835,6 @@
 10860,'','Peter Robertson Blvd @ Clover Bloom Rd',43.754063,-79.740044
 10870,'','Peter Robertson Blvd @ Torbram Rd',43.756363,-79.737244
 10875,'','Peter Robertson Blvd @ Red Stag Rd',43.757668,-79.735802
-10880,'','Peter Robertson Blvd E / Of Red Stag Rd',43.75856,-79.734825
 10885,'','Peter Robertson Blvd @ Mountainash Rd',43.760365,-79.732506
 10915,'','Sunny Mdw Blvd S / Of Father Tobin Rd',43.765614,-79.761337
 10918,'','Sunny Mdw Blvd S / Of Father Tobin Rd',43.76582,-79.761398
@@ -1214,7 +1215,7 @@
 15580,'','Lockwood Rd @ Troutbeck Cres',43.662437,-79.770508
 15590,'','Lockwood Rd Opp Lent Cres',43.663422,-79.773361
 15600,'','Lockwood Rd @ Herkes Dr',43.665493,-79.775398
-15610,'','Lockwood Rd Opp 204 Lockwood Rd',43.667381,-79.776443
+15610,'','Lockwood Rd Sof Henry Verschuren Dr',43.667019,-79.776001
 15615,'','Lockwood Rd Opp Chadwick St',43.668407,-79.777977
 15620,'','Lockwood Rd @ Queen St',43.668579,-79.778969
 15630,'','Queen St W @ Sobey''s Entrance (WB)',43.668224,-79.779831
@@ -1775,7 +1776,7 @@
 25415,'','Central Pk Dr Btwn Greenmount And Torbram Rd',43.737564,-79.713997
 25420,'','Central Pk Dr @ Greenbriar Rec Ctr',43.735699,-79.715424
 25440,'','Central Pk Dr Btwn Grenoble Blvd & Glenforest Rd',43.731758,-79.722343
-25450,'','Central Pk Dr @ Bramalea Rd',43.730576,-79.723724
+25450,'','Central Pk Dr E / Of Bramalea Rd',43.730118,-79.724266
 25480,'','Howden Blvd @ Hunt Club Dr',43.724045,-79.727844
 25490,'','Howden Blvd @ Horton Cres (W)',43.722492,-79.730484
 25500,'','Howden Blvd E / Of Highview Trl',43.720879,-79.731857
@@ -2044,10 +2045,6 @@
 42150,'','Peter Robertson Blvd @ Velvet Grass Ln',43.748432,-79.744965
 42160,'','Peter Robertson Blvd @ Dusty Star Rd',43.750412,-79.743156
 42170,'','Sandalwood Pky W W / Of McLaughlin Rd N',43.706413,-79.812492
-42180,'','Biscayne Cres @ 96 Biscayne Cres',43.679993,-79.714684
-42185,'','Biscayne Cres Opp 150 Biscayne Cres (Clorox)',43.680622,-79.711609
-42190,'','Biscayne Cres @ 165 Biscayne Cres',43.679035,-79.710541
-42200,'','Biscayne Cres @ 1st Gulf Blvd',43.677078,-79.712837
 42205,'','Financial Dr S / Of Steeles Ave W',43.631668,-79.770004
 42210,'','Financial Dr N / Of Coastline Dr',43.63055,-79.768555
 42220,'','Financial Dr Opp Miner St',43.627445,-79.764259
@@ -2191,7 +2188,7 @@
 44760,'','Southlake Blvd S / Of Bovaird Dr W',43.721184,-79.768845
 44765,'','Heart Lk Rd Opp Birchcliffe Dr',43.734543,-79.778107
 44770,'','Heart Lk Rd @ Copperfield Rd',43.731892,-79.774574
-44775,'','Heart Lk Rd S / Of Copperfield Rd',43.729782,-79.771637
+44775,'','Heart Lk Rd N / Of Brussels Ave',43.729771,-79.77169
 44780,'','Conestoga Dr Opp Sutter Ave',43.724957,-79.793762
 44790,'','Conestoga Dr @ Evalene Crt',43.723122,-79.791466
 44800,'','Conestoga Dr @ Dundalk Cres',43.713707,-79.782928
@@ -2211,7 +2208,6 @@
 44910,'','Father Tobin Rd W / Of Moldovan Dr',43.769833,-79.757904
 44920,'','Father Tobin Rd Opp Sugarcane Ave',43.767803,-79.759048
 44930,'','Father Tobin Rd @ Sunny Mdw Blvd',43.76614,-79.761383
-44935,'','406 Sunny Mdw Blvd',43.766811,-79.76297
 44940,'','Sunny Mdw Blvd @ Finlayson Cres',43.767502,-79.764122
 44945,'','Sunny Mdw Blvd N / Of Resserville St',43.76762,-79.765289
 44950,'','Countryside Dr E / Of Sunny Mdw Blvd',43.768379,-79.766731
@@ -2371,8 +2367,6 @@
 51116,'','Finch - Zum Steeles Sta Stop EB',43.742043,-79.646614
 51117,'','Finch - Zum Steeles Sta Stop WB',43.742527,-79.647896
 55560,'','Bramalea Rd @ Smart Centres',43.770779,-79.779663
-55565,'','Smart Centres - Walmart Plz',43.771729,-79.778717
-55570,'','Inspire Blvd E / Of Bramalea Rd',43.770462,-79.777664
 55575,'','Bramalea Rd N / Of Countryside Dr',43.764442,-79.771507
 90100,'','Dixie Rd @ Countryside Dr',43.754055,-79.781219
 90300,'','Kennedy Rd N @ Mayfield Rd - School Only',43.743744,-79.81395
@@ -2400,7 +2394,7 @@
 90800,'','Cresthaven Rd @ Banington Cres',43.726093,-79.823349
 90801,'','Cresthaven Rd @ Mayfield Rd - School Special',43.729942,-79.828033
 90900,'','Windmill Blvd @ Steeles Ave W',43.65353,-79.74659
-90950,'','Windmill Blvd @ Steeles Ave W',43.653309,-79.746559
+90950,'','Windmill Blvd N / Of Ortana Dr',43.652748,-79.745598
 91000,'','Ray Lawson Blvd @ McLaughlin Rd S',43.650764,-79.736458
 91010,'','Ray Lawson Blvd @ Fallen Oak Dr',43.648941,-79.737663
 91050,'','Ray Lawson Blvd @ Woodsend Run - 206 School Only',43.645939,-79.740021
@@ -2554,6 +2548,7 @@
 15051808,'','Wanless Dr E / Of Creditview Rd',43.696812,-79.845589
 15051809,'','Creditview Rd S / Of Wanless Dr',43.695992,-79.84549
 15051810,'','Castlemore Rd W / Of Honeyview Trl',43.783352,-79.698975
+15062901,'','Castlemore Rd @ Julian Dr',43.788376,-79.69368
 15090700,'','Don Minaker Dr N / Of Ebenezer Rd',43.764996,-79.6716
 15090701,'','Cherrycrest Dr N / Of Queen St',43.763462,-79.669838
 15090702,'','Panahill Dr W / Of The Gore Rd',43.782291,-79.678299
@@ -2733,3 +2728,12 @@
 16021501,'','Airport Rd Opp Treeline Blvd',43.780407,-79.745789
 16021502,'','Kilkarrin Rd E / Of Robert Parkinson Dr',43.699631,-79.855362
 16021503,'','Robert Parkinson Dr S / Of Manzanita Cres (N)',43.700283,-79.856346
+16050901,'','Dixie Rd N / Of Templehill Rd',43.752144,-79.778671
+16050902,'','Mavis Rd N / Of Clementine Dr',43.644279,-79.751282
+16050903,'','Smart Centres - Walmart Plz',43.77179,-79.778923
+16050904,'','Biscayne Cres E / Of 1st Gulf Blvd (S)',43.677006,-79.712326
+16050905,'','Biscayne Cres W / Of Clipper Crt',43.677464,-79.710243
+16050906,'','Biscayne Cres @ 180 Biscayne Cres',43.679916,-79.710838
+16050907,'','Biscayne Cres E / Of 1st Gulf Blvd (N)',43.680618,-79.714188
+16050908,'','Bramalea Rd S / Of Balmoral Dr',43.715363,-79.705017
+16050909,'','Bramalea Rd N / Of Balmoral Dr',43.715546,-79.705673
