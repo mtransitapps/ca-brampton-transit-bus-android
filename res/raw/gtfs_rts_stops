@@ -607,7 +607,7 @@
 8450,'','Flowertown Ave W / Of Major William Sharpe Dr',43.675613,-79.788277
 8460,'','Flowertown Ave @ Chinguacousy Rd',43.673927,-79.791039
 8510,'','Steeles Ave W E / Of McLaughlin Rd S (Sheridan Ent)',43.657238,-79.742493
-8550,'','McMurchy - Zum Steeles Sta Stop WB',43.661476,-79.738426
+8550,'','McMurchy - Zum Steeles Sta Stop WB',43.661472,-79.738426
 8581,'','Charolais Blvd E / Of Hodgson St',43.668797,-79.739479
 8582,'','Charolais Blvd E / Of Mill St',43.6675,-79.741737
 8590,'','Mill St S @ Campkin St',43.669094,-79.743103
@@ -633,7 +633,7 @@
 8805,'','McMurchy Ave N @ Nelson St W',43.682434,-79.767357
 8810,'','McMurchy Ave N @ Queen St W',43.68124,-79.765823
 8820,'','McMurchy Ave S @ Royce Ave',43.679489,-79.763466
-8830,'','McMurchy Ave S @ McHardy Pl',43.678024,-79.761612
+8830,'','McMurchy Ave S @ McHardy Pl',43.678024,-79.761627
 8840,'','McMurchy Ave S @ Corby Cres',43.67664,-79.759705
 8850,'','McMurchy Ave S S / Of Harold St',43.674397,-79.756683
 8860,'','McMurchy Ave S S / Of Kingsview Blvd',43.672459,-79.754105
@@ -661,7 +661,7 @@
 9120,'','Main St S N / Of Guest St',43.681343,-79.753662
 9130,'','Main St S N / Of Woodbrook Dr (St. Mary Church)',43.683254,-79.75621
 9140,'','Wellington - Zum Main Sta Stop NB',43.684399,-79.757751
-9145,'','Main St S @ John St',43.685272,-79.758965
+9145,'','Main St S @ John St',43.685284,-79.758965
 9150,'','Main St N N / Of Queen St E',43.686111,-79.760117
 9160,'','Theatre Ln - Zum Main Sta Stop NB',43.687393,-79.761818
 9170,'','Main St N @ Church St',43.688042,-79.762718
@@ -1495,7 +1495,7 @@
 19290,'','Kennedy Rd S @ Tullamore Crt (Tullamore Nursing)',43.68499,-79.735367
 19300,'','Kennedy Rd S S / Of Tullamore Crt',43.683712,-79.733643
 19310,'','Kennedy Rd S @ Chamney Crt',43.682278,-79.731728
-19320,'','Kennedy Rd S Btwn Chamney Crt & Rambler Dr',43.68026,-79.729027
+19320,'','Kennedy Rd S Btwn Chamney Crt & Rambler Dr',43.681103,-79.730209
 19330,'','Kennedy Rd S S / Of Rambler Dr',43.678764,-79.727028
 19340,'','Kennedy Rd S @ 365 Kennedy Rd S',43.677296,-79.725067
 19350,'','Kennedy Rd S @ Steeles Ave E',43.676243,-79.723694
@@ -1853,7 +1853,7 @@
 28130,'','Hurontario St @ Matheson - SB (Zum Main)',43.619534,-79.670731
 28140,'','Hurontario St @ Bristol Rd - SB (Zum Main)',43.614502,-79.663857
 28150,'','Hurontario St @ Eglinton Ave - SB (Zum Main)',43.60598,-79.652145
-28180,'','Mississauga City Ctr Terminal - Departure',43.594643,-79.646576
+28180,'','Mississauga City Ctr Terminal - Departure',43.594635,-79.646652
 28190,'','Mississauga City Ctr Terminal - Arrival',43.593407,-79.647903
 30000,'','Fairhill Ave E / Of Creditview Rd',43.68235,-79.82708
 30012,'','Commuter Dr N / Of Signal Ln',43.677277,-79.824661
@@ -2081,7 +2081,7 @@
 44395,'','Derry Rd W & Mississauga Rd',43.610634,-79.751747
 44400,'','Mississauga Rd @ Meadowvale Blvd',43.612133,-79.754677
 44405,'','Mississauga Rd @ 7333 Mississauga Rd (GSK Bldg)',43.614159,-79.757286
-44406,'','Lisgar GO Sta - Route 11 / 511 Stop',43.591831,-79.788345
+44406,'','Lisgar GO Sta - Route 11 / 511 Stop',43.591827,-79.788422
 44410,'','Castlemore Rd @ Valleycreek Dr',43.775429,-79.70813
 44420,'','Castlemore Rd @ Redwillow Rd',43.777924,-79.705276
 44430,'','Castlemore Rd @ McVean Dr',43.78199,-79.7005
@@ -2129,7 +2129,7 @@
 44765,'','Heart Lk Rd Opp Birchcliffe Dr',43.734543,-79.778107
 44770,'','Heart Lk Rd @ Copperfield Rd',43.731892,-79.774574
 44775,'','Heart Lk Rd N / Of Brussels Ave',43.729771,-79.77169
-44780,'','Conestoga Dr Opp Sutter Ave',43.724957,-79.793762
+44780,'','Conestoga Dr Opp Sutter Ave',43.724968,-79.79377
 44790,'','Conestoga Dr @ Evalene Crt',43.723122,-79.791466
 44800,'','Conestoga Dr @ Dundalk Cres',43.713707,-79.782928
 44810,'','Conestoga Dr N / Of Bovaird Dr W',43.713543,-79.780945
@@ -2399,7 +2399,7 @@
 94060,'','James Potter Rd S / Of Leadership Dr',43.653511,-79.772865
 94065,'','James Potter Rd N / Of Leadership Dr',43.65361,-79.773811
 94070,'','James Potter Btwn Bittersweet Rd And Ingleside Rd',43.654179,-79.77684
-94075,'','James Potter Rd N / Of Bonnie Braes Dr',43.655434,-79.780388
+94075,'','James Potter Rd N / Of Bonnie Braes Dr',43.655422,-79.780396
 94080,'','James Potter Rd N / Of Timbercrove Rd',43.660107,-79.782509
 94085,'','James Potter Rd N / Of Queen St W',43.663822,-79.785614
 94090,'','James Potter Rd S / Of Daviselm Dr',43.664864,-79.788879
