@@ -1385,7 +1385,7 @@
 17675,'','Via Romano Way Bwtn Alfredo And Big Moe Cres',43.778717,-79.658905
 17680,'','Via Romano Way @ Zia Dodda Cres',43.780399,-79.66021
 17690,'','Via Romano Way Btwn Zia Dodda & Youngestar',43.781719,-79.66188
-17700,'','Via Romano Way S / Of Cottrelle Blvd',43.783085,-79.663284
+17700,'','Via Romano Way S / Of Rednor Dr',43.783085,-79.663284
 17730,'','Ebenezer Rd W / Of Thorndale Rd',43.774223,-79.661087
 17740,'','The Gore Rd Opp Fogal Rd',43.76963,-79.660019
 17745,'','The Gore Rd @ Royston St',43.770473,-79.661301
@@ -1435,6 +1435,11 @@
 18050,'','Ray Lawson Blvd @ McLaughlin Rd S',43.651474,-79.736153
 18053,'','McLaughlin Rd Btwn Ray Lawson Blvd & Kingknoll Dr',43.652504,-79.738052
 18055,'','McLaughlin Rd S S / Of Kingknoll Dr',43.653912,-79.739853
+18060,'','McLaughlin Rd S S / Of Ray Lawson Blvd',43.6506,-79.735992
+18070,'','McLaughlin Rd S @ Oaklea Blvd',43.647995,-79.732498
+18080,'','Oaklea Blvd @ Pauline Vanier E.S.(56 Oaklea Blvd)',43.64637,-79.734062
+18090,'','Oaklea Blvd Opp Rollingwood Dr',43.645687,-79.735832
+18100,'','Oaklea Blvd Opp Rodwell Crt',43.646088,-79.737625
 18110,'','Ray Lawson Blvd @ Stalbridge Ave',43.646152,-79.739601
 18120,'','Ray Lawson Blvd @ Hickory Wood Jr. E.S.',43.645691,-79.742439
 18130,'','Ray Lawson Blvd @ Kingknoll Dr',43.644386,-79.744713
@@ -1445,6 +1450,7 @@
 18171,'','Kingknoll Dr @ Ortona Dr - 206 School Only',43.65015,-79.744247
 18175,'','Kingknoll Dr E / Of Pennsylvania Ave',43.647785,-79.746803
 18180,'','Kingknoll Dr W / Of Windmill Blvd',43.651505,-79.743118
+18190,'','Kingknoll Dr @ 45 Kingknoll Dr (W / Of McLaughlin)',43.653275,-79.741219
 18200,'','Sheridan Rt 52 / 53 EB Stop To Brampton Gateway Term',43.656414,-79.740494
 18205,'','Sheridan Rt 53 WB Stop',43.656528,-79.740685
 18290,'','Central Pk Dr N / Of Hanover Rd',43.722176,-79.724258
@@ -1673,7 +1679,6 @@
 23390,'','Ctr St N @ Scott St',43.694069,-79.760582
 23400,'','Ctr St N @ Church St',43.6926,-79.758034
 23410,'','Ctr St N @ Queen St E',43.690849,-79.754997
-23420,'','Ctr St S Opp John St',43.690224,-79.753922
 23430,'','Ctr St S @ Haslemere Ave',43.687904,-79.749664
 23440,'','Ctr St S S / Of Haslemere Ave',43.686882,-79.747406
 23450,'','Sterne Ave S / Of Clarence St',43.685535,-79.745422
@@ -2355,7 +2360,6 @@
 90620,'','Van Kirk Dr @ Game Crk Cres',43.721985,-79.826462
 90621,'','Van Kirk Dr @ Perkins Dr',43.722305,-79.82711
 90630,'','Van Kirk Dr N / Of Begonia Cres',43.723972,-79.82914
-90640,'','Van Kirk Dr @ Delphinium Way',43.725262,-79.830978
 90641,'','Van Kirk Dr @ Accent Cir',43.725441,-79.831589
 90645,'','Van Kirk Dr @ Mayfield Rd',43.726028,-79.832336
 90652,'','Cresthaven Rd @ Torada Crt',43.725285,-79.821571
@@ -2684,7 +2688,7 @@
 15090892,'','Skyvalley Dr N / Of Riverglen St',43.778332,-79.67926
 15090893,'','Skyvalley Dr N / Of Cottrelle Blvd',43.776909,-79.677666
 15090894,'','Westbrook Ave N / Of Gorevale Dr',43.775436,-79.675247
-15090895,'','Westbrook Ave N / Of Trevino Cres (S)',43.774014,-79.673225
+15090895,'','Westbrook Ave N / Of Trevino Cres (N)',43.774578,-79.673981
 15090896,'','Westbrook Ave N / Of Don Minaker Dr',43.772976,-79.671753
 15090897,'','Don Minaker Dr E / Of Hampton Spgs Dr',43.770828,-79.674072
 15090898,'','Don Minaker Dr S / Of Pasadena Ave',43.768696,-79.675377
@@ -2723,7 +2727,7 @@
 16090513,'','Wanless Dr W / Of McLaughlin Rd',43.715527,-79.825111
 16090514,'','Queen Mary Dr S / Of Wanless Dr',43.712605,-79.826546
 16090515,'','Ferforest Dr S / Of Black Forest Dr',43.745033,-79.756943
-16090516,'','Ferforest Dr S / Of Black Forest Dr',43.744907,-79.757004
+16090516,'','Ferforest Dr S / Of Black Oak Dr',43.744907,-79.757004
 16090517,'','Hereford St S / Of Edgeware Rd',43.616825,-79.773506
 16090518,'','Veterans Dr S / Of Sandalwood Pkwy',43.681782,-79.842018
 16090519,'','Veterans Dr S / Of Kempsford Cres (S)',43.683949,-79.844933
@@ -2734,13 +2738,8 @@
 16090524,'','Veterans Dr N / Of Fann Dr',43.684151,-79.845688
 16090525,'','Veterans Dr S / Of Sandalwood Pkwy',43.68148,-79.84211
 16090526,'','Martin Byrne Dr N / Of Bering Rd',43.814842,-79.729073
-16090527,'','Squire Ellis Dr E / Of Quintette Close',43.812901,-79.725334
-16090528,'','Squire Ellis Dr W / Of Belladonna Cir',43.813747,-79.72406
+16090527,'','Squire Ellis Dr Btwn Quintette Cl & Belladonna Cir',43.813274,-79.72464
 16090529,'','Squire Ellis Dr W / Of The Gore Rd',43.815182,-79.722435
-16090530,'','Ray Lawson Blvd W / Of Acadian Hts',43.647488,-79.737808
-16090531,'','Ray Lawson Blvd E / Of Kingknoll Dr',43.644276,-79.744568
-16090532,'','Ray Lawson Blvd E / Of Falstaff Dr',43.645435,-79.74263
-16090533,'','Ray Lawson Blvd E / Of Oaklea Dr',43.646778,-79.737984
 16090534,'','Elbern Markell Dr S / Of Bovaird Dr',43.668686,-79.826637
 16090535,'','Elbern Markell Dr Opp Banbridge Cres',43.667599,-79.823715
 16090536,'','Elbern Markell Dr Opp Ashby Field Rd',43.667133,-79.819733
@@ -2789,3 +2788,7 @@
 16090579,'','Braidwood Lk Rd Opp Shadywood Dr',43.725933,-79.81118
 16090580,'','Braidwood Lk Rd N / Of Petworth Rd',43.723228,-79.807762
 16090581,'','University Of Toronto Mississauga Campus Stop',43.547852,-79.664833
+16103101,'','Peel Memorial Hosp - Route 8 WB',43.690968,-79.752357
+16103102,'','Edenbrook Hl Dr Opp Queen Anne Dr',43.692837,-79.805267
+16103103,'','Mississauga Rd @ Financial Dr',43.635326,-79.78701
+16103104,'','Peel Memorial Hosp - Route 8 EB',43.691044,-79.752487
