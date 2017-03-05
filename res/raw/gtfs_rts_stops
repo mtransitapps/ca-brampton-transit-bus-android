@@ -67,7 +67,7 @@
 740,'','Steeles Ave E @ Melanie Dr (E)',43.712017,-79.682114
 760,'','Steeles Ave E Opp Pearson Convention Ctr',43.721794,-79.671021
 780,'','Steeles Ave E Opp Parkhurst Sq',43.72646,-79.665665
-790,'','Steeles Ave E @ 3475 Steeles Ave E (Bombay Whse)',43.730907,-79.6605
+790,'','Steeles Ave E @ 3389 Steeles Ave E (Bombay Whse)',43.730907,-79.6605
 800,'','Steeles Ave E @ Goreway Dr',43.732727,-79.658417
 810,'','Goreway Dr S / Of Steeles Ave E',43.732258,-79.657242
 820,'','Goreway Dr @ Kenview Blvd',43.730598,-79.654915
@@ -1142,7 +1142,7 @@
 14906,'','Airport Rd @ Triple Crown Dr',43.760899,-79.718803
 14910,'','Airport Rd @ Castlemore Rd - Rte 30 / 35 ONLY',43.762756,-79.721252
 14915,'','Airport Rd @ Mistymorning Dr',43.765354,-79.724785
-14920,'','Airport Rd S / Of Humberwest Pkwy',43.768932,-79.729607
+14920,'','Airport Rd N / Of Humberwest Pkwy',43.769352,-79.730225
 14930,'','Airport Rd @ Braydon Blvd',43.772808,-79.734924
 14940,'','Airport Rd @ Brock Dr',43.778648,-79.742844
 14950,'','Airport Rd @ Treeline Blvd',43.780388,-79.745209
@@ -2327,6 +2327,9 @@
 50176,'','Ctr - Zum Queen Sta Stop WB',43.690964,-79.754761
 50193,'','Bramalea Terminal- Zum Queen 501 / 501A WB-Departure',43.719017,-79.720566
 50198,'','Bramalea Terminal- Zum Queen 501 / 501A EB-Departure',43.718887,-79.720726
+51000,'','McLaughlin Rd N / Of Gurdwara Gt',43.648293,-79.732346
+51010,'','McLaughlin Rd Btwn Gurdwara And Ray Lawson Blvd',43.649342,-79.733833
+51020,'','McLaughlin Rd N / Of Ray Lawson Blvd',43.65155,-79.736725
 51100,'','Kennedy - Zum Steeles Sta Stop EB',43.676197,-79.721748
 51101,'','Kennedy - Zum Steeles Sta Stop WB',43.675125,-79.723549
 51102,'','1st Gulf - Zum Steeles Sta Stop EB',43.680965,-79.716446
@@ -2788,7 +2791,7 @@
 16090579,'','Braidwood Lk Rd Opp Shadywood Dr',43.725933,-79.81118
 16090580,'','Braidwood Lk Rd N / Of Petworth Rd',43.723228,-79.807762
 16090581,'','University Of Toronto Mississauga Campus Stop',43.547852,-79.664833
-16103101,'','Peel Memorial Hosp - Route 8 WB',43.690968,-79.752357
+16103101,'','Peel Memorial Hosp - Route 8 WB / 52',43.690968,-79.752357
 16103102,'','Edenbrook Hl Dr Opp Queen Anne Dr',43.692837,-79.805267
 16103103,'','Mississauga Rd @ Financial Dr',43.635326,-79.78701
 16103104,'','Peel Memorial Hosp - Route 8 EB',43.691044,-79.752487
@@ -2797,3 +2800,14 @@
 17010203,'','James Potter Rd Btwn Bonnie Braes & Timbercove',43.657124,-79.782097
 17010204,'','James Potter Rd Btwn Beechmont & Bonnie Braes',43.656868,-79.782349
 17010205,'','Robert Parkinson Dr @ Humberstone Cres (N)',43.701309,-79.857765
+17030601,'','Heart Lk Rd S / Of Kayak Hts',43.730003,-79.772385
+17030602,'','James Potter Rd S / Of Borrelli Dr',43.661423,-79.782913
+17030603,'','The Gore Rd S / Of Mayfield Rd',43.819027,-79.726517
+17030604,'','Creditview Rd N / Of Wanless Dr',43.696823,-79.846573
+17030605,'','Creditview Rd N / Of Remembrance Rd',43.69883,-79.848961
+17030606,'','Creditview Rd S / Of Remembrance Rd',43.698093,-79.848351
+17030607,'','Creditview Rd S / Of Kilkarrin Rd',43.701279,-79.852684
+17030608,'','Ray Lawson Blvd @ 300 Ray Lawson Blvd',43.653416,-79.730591
+17030610,'','Timberlane Dr S / Of Thorntree Cres',43.65221,-79.732483
+17030612,'','Timberlane Dr N / Of Elmstead Cres',43.650932,-79.732124
+17030614,'','Timberlane Dr Btwn Gdn Gt Cir & Gurdwara Gt',43.648937,-79.73172
