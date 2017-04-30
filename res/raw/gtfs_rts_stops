@@ -459,6 +459,7 @@
 5940,'','Dixie Rd N / Of Derry Rd',43.675949,-79.675034
 5943,'','Dixie Rd Opp Sikh Temple',43.677834,-79.677811
 5950,'','Dixie Rd S / Of Drew Rd',43.680977,-79.681808
+5955,'','Dixie Rd @ 407 Sportsplex',43.684761,-79.68692
 5960,'','Dixie Rd @ Advance Blvd',43.69062,-79.694771
 5970,'','Dixie Rd @ Steeles Ave E',43.694897,-79.700539
 5980,'','Dixie Rd N / Of Steeles Ave E',43.695847,-79.701942
@@ -566,6 +567,7 @@
 7630,'','Queen St W @ Mill St S',43.682888,-79.763069
 7640,'','Queen St W @ Elizabeth St S',43.683868,-79.762016
 7650,'','George St N / Of Diplock Ln',43.686001,-79.762054
+7655,'','Nelson St @ Main St N',43.687004,-79.761696
 7675,'','Queen St E E / Of Chapel St',43.687405,-79.758141
 7680,'','Queen St E @ James St',43.689121,-79.75621
 7700,'','Queen St E @ Trueman St',43.692696,-79.752541
@@ -1932,6 +1934,7 @@
 40280,'','Sandalwood Pky W @ Chinguacousy Rd',43.696365,-79.823135
 40290,'','Sandalwood Pky W @ Edenbrook Hl Dr',43.698936,-79.820076
 40300,'','Sandalwood Pky W Btwn Sheepberry Tr & Queen Mary',43.700562,-79.818451
+40320,'','Brisdale Dr @ Wanless Dr',43.701962,-79.839172
 40330,'','Brisdale Dr @ Venetian Ter',43.700439,-79.837189
 40340,'','Brisdale Dr N / Of Sugarhill Dr',43.700489,-79.836998
 40350,'','Brisdale @ Jessop Dr',43.697456,-79.835365
@@ -2467,7 +2470,7 @@
 94080,'','James Potter Rd N / Of Timbercrove Rd',43.660107,-79.782509
 94085,'','James Potter Rd N / Of Queen St W',43.663822,-79.785614
 94090,'','James Potter Rd S / Of Daviselm Dr',43.664864,-79.788879
-94095,'','00094095',43.667652,-79.789108
+94095,'','Daviselm Dr Btwn James Potter Rd & Chinguacousy Rd',43.667652,-79.789108
 94100,'','Williams Pkwy E / Of Brentwick Dr',43.665901,-79.809357
 94105,'','McLaughlin Rd @ 9720 McLaughlin Rd',43.690079,-79.789734
 94110,'','Olivia Marie Rd E / Of Sky Harbour Rd',43.630722,-79.77758
@@ -2809,3 +2812,5 @@
 17030610,'','Timberlane Dr S / Of Thorntree Cres',43.65221,-79.732483
 17030612,'','Timberlane Dr N / Of Elmstead Cres',43.650932,-79.732124
 17030614,'','Timberlane Dr Btwn Gdn Gt Cir & Gurdwara Gt',43.648937,-79.73172
+17050101,'','Martin Byrne Dr @ Squire Ellis Dr',43.812943,-79.727005
+17050103,'','Wanless Dr Btwn Brisdale Dr And Thornbush Blvd',43.699921,-79.842545
