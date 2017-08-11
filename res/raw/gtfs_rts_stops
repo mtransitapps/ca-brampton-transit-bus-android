@@ -608,7 +608,7 @@
 8440,'','Major William Sharpe Dr Opp Candy Cres (S)',43.672867,-79.785202
 8450,'','Flowertown Ave W / Of Major William Sharpe Dr',43.675613,-79.788277
 8460,'','Flowertown Ave @ Chinguacousy Rd',43.673927,-79.791039
-8510,'','Steeles Ave W E / Of McLaughlin Rd S (Sheridan Ent)',43.657238,-79.742493
+8510,'','Steeles Ave W E / Of McLaughlin Rd S (Sheridan Ent)',43.657776,-79.741943
 8550,'','McMurchy - Zum Steeles Sta Stop WB',43.661472,-79.738426
 8581,'','Charolais Blvd E / Of Hodgson St',43.668797,-79.739479
 8582,'','Charolais Blvd E / Of Mill St',43.6675,-79.741737
@@ -1132,8 +1132,8 @@
 14960,'','Airport Rd @ Countryside Dr',43.782761,-79.74839
 14970,'','Airport Rd S / Of Lacoste Blvd',43.78653,-79.753532
 14980,'','Airport Rd S / Of Mayfield Rd',43.789749,-79.757843
-14989,'','12101 Airport Rd',43.793224,-79.76268
-14990,'','AMB Distribution Ctr - Caledon',43.793671,-79.76326
+14989,'','12101 Airport Rd',43.793236,-79.762672
+14990,'','AMB Distribution Ctr - Caledon',43.793678,-79.763268
 15000,'','Mayfield Rd W / Of Maisonneuve Blvd',43.795326,-79.754639
 15030,'','Goreway Dr @ Eiffel Blvd',43.796097,-79.742836
 15040,'','Goreway Dr S / Of Countryside Dr',43.792294,-79.73761
@@ -2439,7 +2439,7 @@
 14090137,'','Dixie - Zum Bovaird Sta Stop EB',43.735252,-79.753906
 14090138,'','Dixie - Zum Bovaird Sta Stop WB',43.734314,-79.755615
 14090139,'','Bramalea - Zum Bovaird Sta Stop EB',43.743874,-79.744408
-14102701,'','Airport Rd N / Of Mayfield Rd',43.791714,-79.760513
+14102701,'','Airport Rd N / Of Mayfield Rd',43.791729,-79.760506
 14102702,'','James Potter Rd N / Of Dusk Dr',43.653538,-79.77018
 15010501,'','Heart Lk Rd Opp New Pines Trl',43.724182,-79.771507
 15010503,'','Royal West Dr S / Of Williams Pkwy W',43.659454,-79.813736
