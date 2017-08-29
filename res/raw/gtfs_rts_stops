@@ -226,9 +226,9 @@
 2770,'','Bramalea Rd S / Of Steeles Ave E',43.704227,-79.689842
 2816,'','Westwood Mall Terminal Route 14 Stop',43.72147,-79.640327
 2817,'','Westwood Mall Terminal Route 30 Stop',43.721321,-79.640488
-2820,'','Goreway Rd S / Of Morning Star Dr',43.720024,-79.640694
-2830,'','Goreway Rd @ Jolliffe Ave',43.71909,-79.639343
-2840,'','Goreway Rd @ Etude Dr',43.717121,-79.63662
+2820,'','Goreway Dr S / Of Morning Star Dr',43.720024,-79.640694
+2830,'','Goreway Dr @ Jolliffe Ave',43.71909,-79.639343
+2840,'','Goreway Dr @ Etude Dr',43.717121,-79.63662
 2850,'','Goreway Dr N / Of Dorcas St',43.715073,-79.633904
 2855,'','Goreway Dr N / Of Derry Rd',43.713676,-79.63208
 2870,'','Derry Rd @ Legion Rd',43.709717,-79.636269
@@ -295,10 +295,10 @@
 3680,'','Derry Rd @ Airport Rd',43.702606,-79.643456
 3690,'','Derry Rd E / Of Hull St (Malton GO Sta)',43.706448,-79.63945
 3700,'','Derry Rd @ Professional Court',43.709427,-79.636238
-3710,'','Goreway Rd N / Of Derry Rd',43.714233,-79.632195
-3720,'','Goreway Rd @ Dorcas St',43.715149,-79.633499
-3730,'','Goreway Rd @ Etude Dr',43.717125,-79.636162
-3740,'','Goreway Rd @ Jolliffe Ave',43.719147,-79.639
+3710,'','Goreway Dr N / Of Derry Rd',43.714233,-79.632195
+3720,'','Goreway Dr @ Dorcas St',43.715149,-79.633499
+3730,'','Goreway Dr @ Etude Dr',43.717125,-79.636162
+3740,'','Goreway Dr @ Jolliffe Ave',43.719147,-79.639
 3760,'','Advance Blvd @ Steeles Ave E',43.698093,-79.69664
 3810,'','Bramalea Rd N / Of Dearbourne Blvd',43.709282,-79.696907
 3820,'','Bramalea Rd Opp Alexandria Gt',43.711182,-79.699471
@@ -352,6 +352,7 @@
 4470,'','Orenda Rd W / Of Bramalea Rd',43.705582,-79.693153
 4480,'','Orenda Rd @ Victoria Cres (E)',43.704678,-79.694237
 4490,'','Orenda Rd @ Victoria Cres (W)',43.702976,-79.696312
+4500,'','Mayfield Secondary School',43.773594,-79.7817
 4505,'','Orenda Rd E @ 346 Orenda Rd',43.701981,-79.699501
 4510,'','Orenda Rd @ 318 Orenda Rd',43.701508,-79.701851
 4520,'','Orenda Rd @ Dover Cup',43.700897,-79.70488
@@ -725,7 +726,12 @@
 9770,'','Hurontario St S / Of Steeles Ave W',43.665237,-79.732552
 9780,'','Sir Lou - Zum Main Sta Stop SB',43.661194,-79.727081
 9785,'','Ray Lawson - Zum Main Sta Stop SB',43.658695,-79.723785
+9790,'','County Court Blvd (S) E / Of Hurontario St',43.659519,-79.722191
+9800,'','County Court Blvd E / Of Havelock Dr (W)',43.660423,-79.721199
+9820,'','County Court Blvd @ Mossbank Dr',43.663666,-79.721016
+9830,'','County Court Blvd @ Seminole Dr',43.66444,-79.72374
 9867,'','Clark Blvd W / Of Peel Ctr Dr',43.71431,-79.719673
+9870,'','Knightsbridge Rd @ Central Pk Dr',43.717224,-79.717957
 9875,'','Clark Blvd W / Of Central Pk Dr',43.715565,-79.71801
 9880,'','Clark Blvd Opp Kings Cross Rd',43.718487,-79.712898
 9885,'','Central Pk Dr N / Of Clark Blvd',43.71743,-79.716316
@@ -888,6 +894,8 @@
 11530,'','Brisdale Dr @ Sandalwood Pky W',43.69323,-79.829544
 11540,'','Brisdale Dr @ Ranchero Dr Opp St. Edmund Campion',43.694332,-79.83107
 11550,'','Brisdale Dr @ Ramsey Ln',43.696091,-79.833488
+11583,'','Earlsbridge Blvd E / Of Chinguacousy Rd - School',43.702015,-79.828583
+11590,'','Earlsbridge Blvd @ Edenbrook Hl Dr',43.70393,-79.827065
 11630,'','Sandalwood Pky W @ Queen Mary Dr',43.703915,-79.815224
 11640,'','Sandalwood Pky W @ McLaughlin Rd N',43.706322,-79.812096
 11650,'','Sandalwood Pky W @ Van Kirk Dr',43.70929,-79.810013
@@ -922,7 +930,7 @@
 11986,'','Torbram Rd S / Of Father Tobin Rd',43.769684,-79.754486
 12040,'','English St W / Of Main St N',43.694393,-79.771965
 12050,'','English St @ Murray St',43.693413,-79.773033
-12060,'','English St @ Moore St',43.691128,-79.775551
+12060,'','English St E / Of Talbot St',43.690716,-79.775963
 12070,'','English St @ Vodden St W',43.689404,-79.776207
 12080,'','Vodden St W @ Talbot St',43.689411,-79.778633
 12090,'','Vodden St W @ Roseland Gt',43.689793,-79.782272
@@ -965,6 +973,7 @@
 12425,'','Sandalwood - Zum Main Sta Stop NB',43.718307,-79.803497
 12430,'','Sandalwood Loop',43.720726,-79.808556
 12470,'','Sandalwood Pky E E / Of Conestoga Dr',43.72617,-79.795723
+12485,'','Heart Lk Terminal Route 201 Stop',43.728088,-79.798096
 12495,'','Heart Lk Terminal Route 7 NB - Departure',43.728092,-79.798119
 12560,'','Hurontario St @ Petworth Rd',43.721687,-79.808121
 12565,'','Hurontario St @ 10866 Hurontario St(Price Chopper',43.723858,-79.81115
@@ -1019,15 +1028,22 @@
 13140,'','Wanless Dr @ 736 Wanless Dr',43.71122,-79.829529
 13160,'','Wanless Dr E / Of McLaughlin Rd N',43.716122,-79.823921
 13170,'','Wanless Dr @ Van Kirk Dr',43.718109,-79.821724
+13230,'','Conservation Dr Opp Axminster Rd - 201 School Only',43.734653,-79.804764
 13240,'','Kennedy Dr N S / Of Conservation Dr',43.735241,-79.803154
 13250,'','Kennedy Rd N Opp McFadden Dr',43.734291,-79.801826
 13260,'','Kennedy Rd N S / Of Somerset Dr',43.731716,-79.798332
+13383,'','Kennedy Rd @ Richvale Dr - School Only',43.732143,-79.79837
+13385,'','Kennedy Rd N @ McFadden Dr - 201 School Only',43.7342,-79.801216
+13400,'','Conservation Dr @ Axminister Rd - 201 School Only',43.734661,-79.804947
+13410,'','Conservation Dr @ Carnforth Dr - 201 School Only',43.733139,-79.806587
 13470,'','Wanless Dr @ Van Kirk Dr',43.718754,-79.821472
 13480,'','McLaughlin Rd S / Of Wanless Dr',43.715103,-79.823738
 13620,'','Edenbrook Hl Dr N / Of Bovaird Dr',43.69165,-79.803604
 13630,'','Fletchers Crk Blvd S / Of Bovaird Dr W',43.690716,-79.802429
 13650,'','Fletchers Crk Blvd @ Binder Twine Trl',43.687069,-79.797546
 13660,'','Fletchers Crk Blvd Opp Porchlight Rd',43.685936,-79.793999
+13675,'','Carnforth Dr @ Ramsgate Crt - 201 School Only',43.734257,-79.808983
+13676,'','Carforth Dr @ Lennox Crt - 201 School Only',43.73481,-79.809937
 13680,'','Williams Pky W E / Of McLaughlin Rd N',43.688801,-79.78669
 13730,'','Vodden St W @ Mill St N',43.690033,-79.772858
 13740,'','Vodden St W @ Main St N',43.692654,-79.769669
@@ -1060,6 +1076,8 @@
 14090,'','McLaughlin Rd N @ Sandalwood Pky W',43.706402,-79.811378
 14100,'','McLaughlin Rd N @ Potters Wheel Gt',43.7094,-79.815582
 14110,'','McLaughlin Rd N N / Of Van Scott Dr',43.713909,-79.821762
+14150,'','Cresthaven Rd @ Zachary Dr - School Only',43.725933,-79.82283
+14151,'','Brinkley Dr @ Buffridge Trl - School Only',43.729534,-79.821472
 14158,'','Brinkley Dr @ Mapleshade Dr',43.729034,-79.822372
 14160,'','Brinkley Dr E / Of Creekwood Dr',43.727829,-79.823746
 14190,'','Robertson Davies Dr @ Sundridge St',43.731167,-79.829536
@@ -1213,7 +1231,7 @@
 15860,'','Brisdale Dr @ Bovaird Dr W',43.683578,-79.812599
 15870,'','Worthington - Zum Bovaird Sta Stop WB',43.681026,-79.814537
 15875,'','Bovaird Dr W @ Mt Pleasant GO',43.673599,-79.821686
-15880,'','Mt Pleasant GO Sta Route 4 / 4A Stop',43.674526,-79.821907
+15880,'','Mt Pleasant GO Sta Route 4 / 4A / 104 Stop',43.674526,-79.821907
 15895,'','Bovaird Dr W E / Of Ashby Field Rd',43.673622,-79.820763
 15900,'','Lk Louise - Zum Bovaird Sta Stop EB',43.680984,-79.81395
 15910,'','Brisdale Dr N / Of Bovaird Dr W',43.683807,-79.812668
@@ -1228,8 +1246,8 @@
 16090,'','Chinguacousy Rd N / Of Grovewood Dr',43.688652,-79.812004
 16100,'','Chinguacousy Rd N / Of Bovaird Dr W',43.686409,-79.808929
 16110,'','Chinguacousy Rd S / Of Marotta Ave',43.683643,-79.805168
-16120,'','Chinguacousy Rd @ Williams Pky W',43.682022,-79.80294
-16130,'','Chinguacousy Rd @ Major William Sharpe Dr',43.676571,-79.79554
+16120,'','Chinguacousy Rd N / Of Williams Pkwy',43.682022,-79.80294
+16130,'','Chinguacousy Rd N / Of Valleyway Dr',43.676571,-79.79554
 16140,'','Chinguacousy Rd Opp Flowertown Ave',43.673721,-79.791649
 16150,'','Chinguacousy Rd N / Of Daviselm Dr',43.670303,-79.787102
 16170,'','Chinguacousy - Zum Queen West Sta Stop EB',43.666851,-79.780861
@@ -1296,11 +1314,11 @@
 16910,'','Goreway Dr N / Of Morning Star Dr (7475 Goreway Dr)',43.721775,-79.642464
 16920,'','Goreway Dr S / Of Brandon Gt (Opp 7560 Goreway Dr)',43.724388,-79.646187
 16930,'','Goreway Dr N / Of Brandon Gt',43.725853,-79.648109
-16940,'','Goreway Rd @ Kenview Blvd',43.73024,-79.653954
-16970,'','Goreway Rd N / Of Intermodal Dr',43.739841,-79.666634
-16980,'','Goreway Rd @ 8495 Goreway Dr',43.742996,-79.670708
-16990,'','Goreway Rd @ Armthorpe Rd',43.74474,-79.673012
-17000,'','Goreway Rd @ Btwn Armthorpe Rd & Deerhurst Dr',43.7477,-79.67691
+16940,'','Goreway Dr @ Kenview Blvd',43.73024,-79.653954
+16970,'','Goreway Dr N / Of Intermodal Dr',43.739841,-79.666634
+16980,'','Goreway Dr @ 8495 Goreway Dr',43.742996,-79.670708
+16990,'','Goreway Dr @ Armthorpe Rd',43.74474,-79.673012
+17000,'','Goreway Dr @ Btwn Armthorpe Rd & Deerhurst Dr',43.7477,-79.67691
 17010,'','Goreway Dr @ Deerhurst Dr',43.749168,-79.678848
 17020,'','Goreway Dr @ Auction Ln',43.75111,-79.681519
 17025,'','Goreway Dr @ Queen St E',43.752636,-79.683502
@@ -1311,7 +1329,7 @@
 17060,'','Goreway Dr @ 9400 Goreway Dr',43.760727,-79.694557
 17070,'','Goreway Dr Opp 9658 Goreway Dr',43.765816,-79.701378
 17075,'','Goreway Dr N / Of Cottrelle Blvd',43.770523,-79.707764
-17080,'','Goreway Rd @ Castlemore Rd',43.772469,-79.710342
+17080,'','Goreway Dr @ Castlemore Rd',43.772469,-79.710342
 17090,'','Airport Rd - Zum Bovaird Sta Stop WB',43.762611,-79.723557
 17100,'','Bovaird Dr E Btwn Airport Rd & Mountainash Rd',43.760284,-79.726479
 17120,'','Torbram - Zum Bovaird Sta Stop WB',43.75407,-79.734673
@@ -1410,8 +1428,11 @@
 18000,'','County Court Blvd Opp Havelock Dr (W)',43.660454,-79.721451
 18010,'','County Court Blvd (S) @ Hurontario St',43.658943,-79.723198
 18020,'','Ray Lawson Blvd @ Malta Ave',43.656708,-79.725662
+18021,'','Ray Lawson Blvd E / Of Cherrytree Dr -206School Only',43.656689,-79.725334
 18030,'','Ray Lawson Blvd Opp Cherrytree Dr (W)',43.654758,-79.727776
+18031,'','Ray Lawson Blvd @ Cherrytree Dr - 206 School Only',43.654469,-79.727753
 18040,'','Ray Lawson Blvd @ Timberlane Dr',43.653282,-79.732414
+18045,'','Ray Lawson Blvd @ Windmill Blvd - 206 School Only',43.649891,-79.737587
 18050,'','Ray Lawson Blvd @ McLaughlin Rd S',43.651474,-79.736153
 18053,'','McLaughlin Rd Btwn Ray Lawson Blvd & Kingknoll Dr',43.652504,-79.738052
 18055,'','McLaughlin Rd S S / Of Kingknoll Dr',43.653912,-79.739853
@@ -1427,6 +1448,8 @@
 18140,'','Kingknoll Dr Opp Derby Rd',43.64521,-79.746704
 18150,'','Kingknoll Dr Opp Pennsylvania Ave',43.64677,-79.747147
 18170,'','Kingknoll Dr E / Of Tulip Dr',43.649433,-79.744751
+18171,'','Kingknoll Dr @ Ortona Dr - 206 School Only',43.65015,-79.744247
+18175,'','Kingknoll Dr E / Of Pennsylvania Ave',43.647785,-79.746803
 18180,'','Kingknoll Dr W / Of Windmill Blvd',43.651505,-79.743118
 18190,'','Kingknoll Dr @ 45 Kingknoll Dr (W / Of McLaughlin)',43.653275,-79.741219
 18200,'','Sheridan Rt 52 / 53 EB Stop To Brampton Gateway Term',43.656414,-79.740494
@@ -1587,7 +1610,7 @@
 21160,'','Queen St E @ Canadian Tire',43.740463,-79.699715
 21200,'','Torbram Rd N / Of Queen St E',43.734882,-79.708061
 21210,'','Bramalea Rd @ Kensington Rd',43.723255,-79.716019
-22620,'','Bartley Bull Pky E / Of Main St S',43.667858,-79.734795
+22620,'','Bartley Bull Pkwy E / Of Main St S',43.667858,-79.734795
 22640,'','Bartley Bull Pky @ Golf Vw Dr',43.670383,-79.732269
 22650,'','Bartley Bull Pky @ Caldwell Cres (W)',43.672115,-79.729225
 22660,'','Bartley Bull Pky @ Orchard Dr',43.673988,-79.726784
@@ -1675,7 +1698,7 @@
 23580,'','Bartley Bull Pky Opp Caldwell Cres (W)',43.672379,-79.729073
 23590,'','Bartley Bull Pky @ Erindale Cres',43.671001,-79.73069
 23600,'','Bartley Bull Pky @ Bartley Bull Pky',43.670525,-79.733391
-23610,'','Bartley Bull Pky @ Main St S',43.668442,-79.734406
+23610,'','Bartley Bull Pkwy @ Main St S',43.668884,-79.734047
 23635,'','Williams Pky W @ Murray St',43.697632,-79.778831
 23840,'','Central Pk Dr @ Bramalea Rd',43.729401,-79.724686
 23880,'','Central Pk Dr @ Hilldale Cres (E)',43.729,-79.72554
@@ -1729,6 +1752,7 @@
 25390,'','Chrysler Dr @ Corporation Dr',43.743195,-79.707352
 25400,'','Corporation Dr @ Precidio Crt',43.740772,-79.710007
 25410,'','Corporation Dr @ Torbram Rd',43.738834,-79.71257
+25415,'','Central Pk Dr Btwn Greenmount And Torbram Rd',43.737564,-79.713997
 25420,'','Central Pk Dr @ Greenbriar Rec Ctr',43.735699,-79.715424
 25440,'','Central Pk Dr Btwn Grenoble Blvd & Glenforest Rd',43.731758,-79.722343
 25450,'','Central Pk Dr E / Of Bramalea Rd',43.730118,-79.724266
@@ -1860,20 +1884,23 @@
 30025,'','Bleasdale Ave S / Of Haverty Tr',43.678848,-79.826302
 30030,'','Bleasdale Ave S / Of James Potter Rd',43.679401,-79.827904
 30035,'','Creditview Rd S / Of Fairhill Ave',43.681873,-79.827293
-30100,'','Brampton Gateway Terminal Route 4 / 4A Stop',43.664951,-79.734604
+30100,'','Brampton Gateway Terminal Route 4 / 4A / 104 Stop',43.664951,-79.734604
 30101,'','Brampton Gateway Terminal Route 53 / 57 Stop',43.665192,-79.734306
-30102,'','Brampton Gateway Terminal Route 11 / 51 / 511 WB Stop',43.665421,-79.73407
+30102,'','Brampton Gateway Terminal Route 11 / 51 / 511 / 511C WB',43.665421,-79.73407
+30106,'','Brampton Gateway Terminal Route 199 Stop',43.665257,-79.73439
 30107,'','Brampton Gateway Terminal Route 3 / 3A Stop',43.665436,-79.734215
 30108,'','Brampton Gateway Terminal Route 11 / 11A EB Stop',43.665615,-79.734039
-30109,'','Brampton Gateway Terminal Route 511 / 511A EB Stop',43.665821,-79.733963
+30109,'','Brampton Gateway Terminal Route 511 / 511A / 511C EB',43.665821,-79.733963
 30110,'','Brampton Gateway Terminal Route 502 NB Stop',43.666027,-79.733955
 30111,'','Brampton Gateway Terminal Route 2 NB Stop',43.666279,-79.733986
 30112,'','Brampton Gateway Terminal Route 52 / 52A NB Stop',43.666454,-79.734322
 30113,'','Brampton Gateway Terminal Route 8 Stop',43.666672,-79.734589
-30114,'','Brampton Gateway Terminal Route 52 / 52A SB Stop',43.666706,-79.734314
-30115,'','Brampton Gateway Terminal Route 2 SB Stop',43.666523,-79.734085
-30117,'','Brampton Gateway Terminal Route 502 SB Stop',43.666183,-79.733627
+30117,'','Brampton Gateway Terminal Route 2 / 52 / 52A / 502 SB',43.666183,-79.733627
 40030,'','Cottrelle Blvd W / Of Redwillow Rd',43.773079,-79.700653
+40035,'','Cottrelle Blvd @ Eastway St - School Only',43.762459,-79.711632
+40036,'','Cottrelle Blvd @ Dwyer Dr - School Only',43.760269,-79.714165
+40037,'','Cottrelle Blvd E / Of Airport Rd - School Only',43.759014,-79.715729
+40038,'','Cottrelle Blvd @ Humberwest Pky - School Only',43.763371,-79.71051
 40040,'','Cottrelle Blvd W / Of Valleycreek Dr',43.772156,-79.70417
 40050,'','Cottrelle Blvd @ Goreway Dr',43.770264,-79.706894
 40070,'','Sandalwood Pky E @ Cedarcliff Trl',43.766232,-79.746231
@@ -1915,6 +1942,16 @@
 40390,'','Queen Mary Dr Opp Echoridge Dr',43.707714,-79.819313
 40395,'','Queen Mary Dr N / Of Thimbleberry St',43.705811,-79.817535
 40400,'','Queen Mary Dr @ Sandalwood Pky W',43.704464,-79.815201
+40410,'','Van Scott Dr @ Wandering Trl Dr',43.714893,-79.819969
+40420,'','Van Scott Dr @ Brambirch Cres',43.714638,-79.820023
+40440,'','Earlsbridge Blvd @ McLaughlin Rd N',43.713329,-79.821777
+40450,'','Earlsbridge Blvd @ Queen Mary Dr',43.711266,-79.823509
+40460,'','Earlsbridge Blvd E / Of Queen Mary Dr',43.7113,-79.823311
+40470,'','Earlsbridge Blvd @ Lockburn Cres',43.70826,-79.823616
+40480,'','Earlsbridge Blvd @ Clarion Rd',43.70763,-79.824234
+40490,'','Earlsbridge Blvd E / Of Cipriano Crt',43.706848,-79.82486
+40510,'','Earlsbridge Blvd E / Of Edenbrook Hl Dr',43.705879,-79.825928
+40520,'','Earlsbridge Blvd @ Florence Dr',43.702984,-79.82785
 40555,'','Creditview Rd S / Of Sandalwood Pky',43.688404,-79.83522
 40560,'','Creditview Rd S / Of McCrimmon Dr',43.685501,-79.831299
 40561,'','Creditview Rd N / Of Fairhill Ave',43.682472,-79.827782
@@ -2048,6 +2085,9 @@
 44110,'','Mountainash Rd @ Good Hope Rd',43.774086,-79.749184
 44120,'','Mountainash Rd S / Of Grey Whale Rd',43.773144,-79.746223
 44130,'','Mountainash Rd @ Kamloops Dr',43.771717,-79.742775
+44140,'','Lexington Dr @ Long Mdw Rd - 214',43.774097,-79.700058
+44150,'','Lexington Rd Btwn Long Mdw & Calderstone - 214',43.775364,-79.698166
+44151,'','Lexington Ave E / Of Calderstone Dr',43.775669,-79.698082
 44170,'','Cottrelle Blvd @ Maple Vly St (W / Of McVean Dr)',43.771797,-79.690437
 44180,'','Cottrelle Blvd @ Calderstone Rd',43.77113,-79.693016
 44190,'','Cottrelle Blvd @ Prince Edward Blvd',43.772278,-79.696167
@@ -2209,6 +2249,7 @@
 47000,'','Cottrelle Blvd E / Of Redwillow Rd',43.773048,-79.699448
 47010,'','Cottrelle Blvd S / Of Prince Edward Blvd',43.772034,-79.696236
 47020,'','Cottrelle Blvd W / Of Huntspoint Dr',43.771091,-79.694267
+47021,'','Cottrelle Blvd E / Of Huntspoint Dr - 214 ONLY',43.77095,-79.692429
 47030,'','Cottrelle Blvd W / Of Maple Vly St',43.771381,-79.690704
 47040,'','Cottrelle Blvd @ McVean Dr',43.77264,-79.688774
 47051,'','Cottrelle Blvd W / Of Midsummer Dr',43.774471,-79.68541
@@ -2285,7 +2326,7 @@
 50174,'','Kennedy - Zum Queen Sta Stop WB',43.695366,-79.750008
 50176,'','Ctr - Zum Queen Sta Stop WB',43.690964,-79.754761
 50193,'','Bramalea Terminal- Zum Queen 501 / 501A WB-Departure',43.719017,-79.720566
-50198,'','Bramalea Terminal- Zum Queen 501 / 501A EB-Departure',43.718887,-79.720726
+50198,'','Bramalea Terminal- Zum Queen 501 / 501A / 501C EB-Dep',43.718887,-79.720726
 51000,'','McLaughlin Rd N / Of Gurdwara Gt',43.648293,-79.732346
 51010,'','McLaughlin Rd Btwn Gurdwara And Ray Lawson Blvd',43.649342,-79.733833
 51020,'','McLaughlin Rd N / Of Ray Lawson Blvd',43.65155,-79.736725
@@ -2309,14 +2350,33 @@
 51117,'','Finch - Zum Steeles Sta Stop WB',43.742527,-79.647896
 55560,'','Bramalea Rd @ Smart Centres',43.770779,-79.779663
 55575,'','Bramalea Rd N / Of Countryside Dr',43.764442,-79.771507
+90100,'','Dixie Rd @ Countryside Dr',43.754055,-79.781219
+90410,'','Inder Hts Dr @ Eddystone Cr - 201 School Only',43.73732,-79.812424
+90415,'','Inder Hts Dr @ Ravinder Crt - 201 School Only',43.738728,-79.815926
+90420,'','Inder Hts Dr Opp Mohan Crt - 201 School Only',43.736504,-79.813797
+90425,'','Inder Hts Dr @ Redtail Crt - 201 School Only',43.737385,-79.815254
+90500,'','Braidwood Lk Rd @ Ridelle Crt - School Only',43.726795,-79.811874
+90600,'','Cresthaven Rd W / Of Buffridge Trl - 202 School',43.727684,-79.817917
+90601,'','Van Kirk Dr @ Wanless Dr',43.718498,-79.821976
 90610,'','Van Kirk Dr @ Bramtrail Gt',43.720776,-79.824471
 90620,'','Van Kirk Dr @ Game Crk Cres',43.721985,-79.826462
+90621,'','Van Kirk Dr @ Perkins Dr',43.722305,-79.82711
 90630,'','Van Kirk Dr N / Of Begonia Cres',43.723972,-79.82914
+90641,'','Van Kirk Dr @ Accent Cir',43.725441,-79.831589
 90645,'','Van Kirk Dr @ Mayfield Rd',43.726028,-79.832336
 90652,'','Cresthaven Rd @ Torada Crt',43.725285,-79.821571
 90660,'','Tournament Dr S / Of Cresthaven Rd',43.725487,-79.818871
 90670,'','Tournament Dr @ Masters Grn Cres',43.724453,-79.817093
+90690,'','Christie Dr E / Of Archer Crt - School Only',43.740078,-79.80265
+90695,'','Christie Dr @ Iris Cres - School Only',43.739513,-79.803062
+90700,'','Christie Dr @ Hacienda Crt - School Only',43.738338,-79.804649
 90800,'','Cresthaven Rd @ Banington Cres',43.726093,-79.823349
+90801,'','Cresthaven Rd @ Mayfield Rd - School Special',43.729942,-79.828033
+90900,'','Windmill Blvd @ Steeles Ave W',43.65353,-79.74659
+90950,'','Windmill Blvd N / Of Ortana Dr',43.652748,-79.745598
+91000,'','Ray Lawson Blvd @ McLaughlin Rd S',43.650764,-79.736458
+91010,'','Ray Lawson Blvd @ Fallen Oak Dr',43.648941,-79.737663
+91050,'','Ray Lawson Blvd W / Of Woodsend Run -206 School Only',43.645939,-79.740021
 91100,'','Queen St W W / Of Drinkwater Rd',43.670078,-79.77726
 91350,'','Queen St W E / Of Major William Sharpe',43.670673,-79.777031
 91355,'','Queen St W E / Of Lockwood Rd',43.669102,-79.778816
@@ -2326,6 +2386,9 @@
 91375,'','Queen St Opp Links Ln',43.653973,-79.795486
 91380,'','Queen St W E / Of Elbern Markell Dr',43.652225,-79.797424
 91385,'','Royal West Dr S / Of Airlie Crt',43.650162,-79.800598
+91600,'','Christie Dr E / Of Kennedy Rd',43.737743,-79.80529
+91610,'','Kenpark Ave Opp Kingfisher Crt - 202 School Only',43.744579,-79.810852
+91611,'','Kenpark Ave W / Of Kingfisher Crt - 202 School Only',43.744392,-79.811195
 91650,'','Royal West Dr S / Of Adamsville Rd N',43.651901,-79.805588
 91655,'','Royal West Dr S / Of Beacon Hl Dr',43.655029,-79.809746
 91660,'','Royal West Dr Btwn Beacon Hl Dr & Williams Pkwy',43.658123,-79.811043
@@ -2442,10 +2505,11 @@
 14102701,'','Airport Rd N / Of Mayfield Rd',43.791729,-79.760506
 14102702,'','James Potter Rd N / Of Dusk Dr',43.653538,-79.77018
 15010501,'','Heart Lk Rd Opp New Pines Trl',43.724182,-79.771507
+15010502,'','Ray Lawson Blvd W / Of Timberlane Dr',43.653034,-79.733116
 15010503,'','Royal West Dr S / Of Williams Pkwy W',43.659454,-79.813736
 15021601,'','Steeles Ave E / Of Resolution Dr',43.678638,-79.719093
-15033001,'','Sheridan College Terminal - 3 / 3A / 4/4A / 11 / 51 / 511 WB',43.655819,-79.741821
-15033002,'','Sheridan College Terminal - 11 / 51 / 511 EB',43.656078,-79.741524
+15033001,'','Sheridan College Term - 3 / 3A / 4/4A / 11 / 51 / 511 / 104 WB',43.655819,-79.741821
+15033002,'','Sheridan College Terminal - 11 / 51 / 511 / 511C EB',43.656078,-79.741524
 15033003,'','Malta - Zum Steeles Sta Stop EB',43.66127,-79.738083
 15033004,'','Chinguacousy - Zum Steeles Sta Stop WB',43.64637,-79.75531
 15033005,'','Financial - Zum Steeles Sta Stop EB',43.632915,-79.769516
@@ -2463,6 +2527,8 @@
 15051809,'','Creditview Rd S / Of Wanless Dr',43.695992,-79.84549
 15051810,'','Castlemore Rd W / Of Honeyview Trl',43.783352,-79.698975
 15062901,'','Castlemore Rd @ Julian Dr',43.788376,-79.69368
+15090504,'','Dixie Rd S / Of Dolbyhill Dr',43.756317,-79.783867
+15090505,'','Inspire Blvd E / Of Dixie Rd',43.758602,-79.78614
 15090700,'','Don Minaker Dr N / Of Ebenezer Rd',43.764996,-79.6716
 15090701,'','Cherrycrest Dr N / Of Queen St',43.763462,-79.669838
 15090702,'','Panahill Dr W / Of The Gore Rd',43.782291,-79.678299
@@ -2539,7 +2605,7 @@
 15090779,'','Bloomsbury Ave N / Of Cairnburg Dr',43.785564,-79.733276
 15090780,'','Bloomsbury Ave S / Of Jacksonville Dr',43.785942,-79.733627
 15090801,'','Humber College Terminal - Route 50 Stop',43.728943,-79.604408
-15090802,'','Humber College Terminal- Zum Steeles 511 / 511A Stop',43.729156,-79.605278
+15090802,'','Humber College Terminal- Zum Steeles 511 / 511A / 511C',43.729156,-79.605278
 15090803,'','Humber College Terminal - Route 11 / 11A Stop',43.729015,-79.604919
 15090804,'','Williams - Zum Queen West Sta Stop SB',43.657654,-79.817375
 15090805,'','Mississauga Rd Opp Credit Rdg Commons',43.655933,-79.814972
@@ -2639,6 +2705,7 @@
 16021501,'','Airport Rd Opp Treeline Blvd',43.780407,-79.745789
 16021502,'','Kilkarrin Rd E / Of Robert Parkinson Dr',43.699631,-79.855362
 16021503,'','Robert Parkinson Dr S / Of Manzanita Cres (N)',43.700283,-79.856346
+16050901,'','Dixie Rd N / Of Templehill Rd',43.752144,-79.778671
 16050902,'','Mavis Rd N / Of Clementine Dr',43.644279,-79.751282
 16050903,'','Smart Centres - Walmart Plz',43.77179,-79.778923
 16050904,'','Biscayne Cres E / Of 1st Gulf Blvd (S)',43.677006,-79.712326
@@ -2717,6 +2784,14 @@
 16090571,'','Elbern Markell Dr S / Of Ashby Field Rd',43.667305,-79.819237
 16090572,'','Elbern Markell Dr N / Of Banbridge Cres (N)',43.667816,-79.823837
 16090573,'','Elbern Markell Dr S / Of Bovaird Dr',43.66901,-79.826836
+16090574,'','Braidwood Lk Rd S / Of Petworth Rd',43.723164,-79.807396
+16090575,'','Kenpark Ave Opp Burtree Dr (S)',43.743378,-79.805359
+16090576,'','Kenpark Ave N / Of Burtree Dr (S)',43.743584,-79.805527
+16090577,'','Mayfield Rd E / Of Summer Vly Dr',43.736683,-79.821945
+16090578,'','Cresthaven Rd W / Of Tournament Dr',43.725853,-79.819695
+16090579,'','Braidwood Lk Rd Opp Shadywood Dr',43.725933,-79.81118
+16090580,'','Braidwood Lk Rd N / Of Petworth Rd',43.723228,-79.807762
+16090581,'','University Of Toronto Mississauga Campus Stop',43.547852,-79.664833
 16103101,'','Peel Memorial Hosp - Route 8 WB / 52',43.690968,-79.752357
 16103103,'','Mississauga Rd @ Financial Dr',43.635326,-79.78701
 16103104,'','Peel Memorial Hosp - Route 8 EB',43.691044,-79.752487
@@ -2738,3 +2813,12 @@
 17030614,'','Timberlane Dr Btwn Gdn Gt Cir & Gurdwara Gt',43.648937,-79.73172
 17050101,'','Martin Byrne Dr @ Squire Ellis Dr',43.812943,-79.727005
 17050103,'','Wanless Dr Btwn Brisdale Dr And Thornbush Blvd',43.699921,-79.842545
+17090501,'','Mayfield Rd E / Of McVean Dr',43.810539,-79.737457
+17090502,'','Mayfield Rd W / Of McVean Dr',43.80994,-79.738464
+17090503,'','Dixie Rd S / Of Countryside Dr',43.754402,-79.781265
+17090506,'','Inspire Blvd W / Of Fringetree Rd',43.760822,-79.783028
+17090507,'','Russell Crk Dr N / Of St. Dennis Rd',43.761478,-79.780922
+17090508,'','Russell Crk Dr S / Of Dolbyhill Dr',43.759659,-79.77906
+17090509,'','Russell Crk Dr N / Of Countryside Dr',43.758652,-79.777504
+17090510,'','George St N N / Of Nelson St',43.686382,-79.762794
+17090511,'','AMB Distribution Ctr (Internal Stop)',43.800533,-79.760605
