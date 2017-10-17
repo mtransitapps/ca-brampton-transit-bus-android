@@ -392,7 +392,7 @@
 5100,'','Eastbourne Dr @ Balmoral Dr',43.722137,-79.697586
 5110,'','Balmoral Dr @ Deloraine Dr',43.720295,-79.695274
 5120,'','Balmoral Dr @ Dearbourne Blvd',43.719311,-79.693466
-5130,'','Dearbourne Blvd @ Devonshire Dr',43.717438,-79.692436
+5130,'','Dearbourne Blvd @ Devonshire Dr',43.71706,-79.692352
 5140,'','Dearbourne Blvd @ Dorchester Dr',43.715645,-79.692047
 5150,'','Dearbourne Blvd Opp Deerfield Cres (S)',43.714291,-79.691772
 5160,'','Dearbourne Blvd @ Delmere Rd',43.713055,-79.692085
@@ -1114,7 +1114,7 @@
 14600,'','McLaughlin Rd S @ Harold St',43.668552,-79.760605
 14610,'','McLaughlin Rd S Opp Curtis Dr',43.665344,-79.756187
 14620,'','McLaughlin Rd S @ Elgin St',43.663708,-79.753967
-14630,'','McLaughlin Rd S @ Charolais Blvd',43.660374,-79.749466
+14630,'','McLaughlin Rd S @ Charolais Blvd',43.659973,-79.748909
 14635,'','McLaughlin Rd S Btwn Charolais Blvd & Steeles Ave',43.657917,-79.746155
 14690,'','Morning Star Dr @ Catalpa Rd',43.720089,-79.643074
 14700,'','Morning Star Dr Opp Cambrett Dr',43.717236,-79.645409
@@ -2279,7 +2279,7 @@
 47535,'','Clarkway Dr N / Of Cottrelle Blvd',43.784271,-79.663658
 47536,'','Clarkway Dr N / Of Clearfield Dr',43.786247,-79.663948
 47537,'','Clarkway Dr N / Of Oklahoma Dr',43.788445,-79.664154
-47538,'','Clarkway Dr S / Of Bellchase Tr',43.790356,-79.664787
+47538,'','Clarkway Dr S / Of Bellchase Tr',43.790104,-79.664536
 47553,'','Castlemore Rd W / Of Drummondville Dr',43.79866,-79.681786
 48000,'','Don Minaker Dr Opp Imperial Lks Dr',43.765362,-79.67186
 48010,'','Don Minaker Dr Btwn Vespahills & Desertrose',43.766232,-79.673027
