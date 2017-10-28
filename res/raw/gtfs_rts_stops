@@ -609,6 +609,7 @@
 8440,'','Major William Sharpe Dr Opp Candy Cres (S)',43.672867,-79.785202
 8450,'','Flowertown Ave W / Of Major William Sharpe Dr',43.675613,-79.788277
 8460,'','Flowertown Ave @ Chinguacousy Rd',43.673927,-79.791039
+8500,'','McLaughlin Rd S / Of Steeles Ave W',43.656288,-79.74324
 8510,'','Steeles Ave W E / Of McLaughlin Rd S (Sheridan Ent)',43.657776,-79.741943
 8550,'','McMurchy - Zum Steeles Sta Stop WB',43.661472,-79.738426
 8581,'','Charolais Blvd E / Of Hodgson St',43.668797,-79.739479
@@ -1153,7 +1154,6 @@
 14989,'','12101 Airport Rd',43.793236,-79.762672
 14990,'','AMB Distribution Ctr - Caledon',43.793678,-79.763268
 15000,'','Mayfield Rd W / Of Maisonneuve Blvd',43.795326,-79.754639
-15030,'','Goreway Dr @ Eiffel Blvd',43.796097,-79.742836
 15040,'','Goreway Dr S / Of Countryside Dr',43.792294,-79.73761
 15085,'','Goreway Dr S / Of Luross Gt',43.778522,-79.71891
 15090,'','Goreway Dr @ Paper Birch Rd',43.776066,-79.715584
@@ -2150,8 +2150,6 @@
 44590,'','Goreway Dr @ Luana Crt',43.775906,-79.714928
 44592,'','Goreway Dr @ Luross Gt',43.779289,-79.719612
 44620,'','Goreway Dr N / Of Countryside Dr',43.792439,-79.73745
-44630,'','Goreway Dr @ Eiffel Blvd',43.795933,-79.742371
-44640,'','Goreway Dr @ Lucinda Crt',43.799046,-79.746346
 44650,'','Southlake Blvd @ Calm Water Cres',43.715199,-79.757683
 44660,'','Southlake Blvd @ Stoneylake Ave',43.715786,-79.757843
 44670,'','Southlake Blvd @ Rainy Dale Rd',43.71751,-79.758598
@@ -2240,7 +2238,7 @@
 45575,'','Bramalea Terminal Route 115 Stop',43.718712,-79.720566
 45580,'','Bramalea Terminal Route 13 / 20 Stop',43.718979,-79.720276
 45585,'','Bramalea Terminal Route 8 / 205 Stop',43.719059,-79.720192
-45590,'','Ganton Hts S / Of Bevington Rd',43.676743,-79.825813
+45590,'','Ganton Hts E / Of Bevington Rd',43.676743,-79.825813
 45595,'','Ganton Hts @ Stemford Rd',43.676418,-79.827461
 46000,'','Countryside Dr W / Of Torbram Rd',43.774063,-79.761101
 46010,'','Torbram Rd S / Of Father Tobin Rd',43.770607,-79.756195
@@ -2468,7 +2466,6 @@
 94080,'','James Potter Rd N / Of Timbercrove Rd',43.660107,-79.782509
 94085,'','James Potter Rd N / Of Queen St W',43.663822,-79.785614
 94090,'','James Potter Rd S / Of Daviselm Dr',43.664864,-79.788879
-94095,'','Daviselm Dr Btwn James Potter Rd & Chinguacousy Rd',43.667652,-79.789108
 94100,'','Williams Pkwy E / Of Brentwick Dr',43.665901,-79.809357
 94105,'','McLaughlin Rd @ 9720 McLaughlin Rd',43.690079,-79.789734
 94110,'','Olivia Marie Rd E / Of Sky Harbour Rd',43.630722,-79.77758
@@ -2795,8 +2792,6 @@
 16103101,'','Peel Memorial Hosp - Route 8 WB / 52',43.690968,-79.752357
 16103103,'','Mississauga Rd @ Financial Dr',43.635326,-79.78701
 16103104,'','Peel Memorial Hosp - Route 8 EB',43.691044,-79.752487
-17010201,'','Mayfield Rd W / Of Gordon Randle Dr',43.805439,-79.74321
-17010202,'','Mayfield Rd E / Of Gordon Randle Dr',43.805721,-79.743187
 17010203,'','James Potter Rd Btwn Bonnie Braes & Timbercove',43.657124,-79.782097
 17010204,'','James Potter Rd Btwn Beechmont & Bonnie Braes',43.656868,-79.782349
 17010205,'','Robert Parkinson Dr @ Humberstone Cres (N)',43.701309,-79.857765
@@ -2814,7 +2809,6 @@
 17050101,'','Martin Byrne Dr @ Squire Ellis Dr',43.812943,-79.727005
 17050103,'','Wanless Dr Btwn Brisdale Dr And Thornbush Blvd',43.699921,-79.842545
 17090501,'','Mayfield Rd E / Of McVean Dr',43.810539,-79.737457
-17090502,'','Mayfield Rd W / Of McVean Dr',43.80994,-79.738464
 17090503,'','Dixie Rd S / Of Countryside Dr',43.754402,-79.781265
 17090506,'','Inspire Blvd W / Of Fringetree Rd',43.760822,-79.783028
 17090507,'','Russell Crk Dr N / Of St. Dennis Rd',43.761478,-79.780922
@@ -2822,3 +2816,35 @@
 17090509,'','Russell Crk Dr N / Of Countryside Dr',43.758652,-79.777504
 17090510,'','George St N N / Of Nelson St',43.686382,-79.762794
 17090511,'','AMB Distribution Ctr (Internal Stop)',43.800533,-79.760605
+17100301,'','Countryside Dr W / Of Bellini Ave',43.795834,-79.734207
+17103002,'','Gordon Randle Dr N / Of Countryside Dr',43.799492,-79.730942
+17103003,'','Gordon Randle Dr S / Of Pendergast Crt',43.800282,-79.73217
+17103004,'','Gordon Randle Dr S / Of Peacekeeping Crt',43.802277,-79.735786
+17103005,'','Gordon Randle Dr N / Of Jellystone St',43.804016,-79.740273
+17103006,'','Gordon Randle Dr S / Of Mayfield Rd',43.805542,-79.742638
+17103007,'','Gordon Randle Dr S / Of Mayfield Rd',43.805393,-79.74279
+17103008,'','Gordon Randle Dr N / Of Layton St',43.804008,-79.740562
+17103009,'','Gordon Randle Dr N / Of Erintown Cir (N)',43.802639,-79.736526
+17103010,'','Gordon Randle Dr N / Of Snaresbrook Cir (N)',43.800804,-79.733093
+17103011,'','Gordon Randle Dr N / Of Countryside Dr',43.799355,-79.73101
+17103012,'','Countryside Dr E / Of Stanley Carberry Dr',43.796169,-79.733986
+17103013,'','James Potter Rd S / Of Semley St',43.665932,-79.792725
+17103014,'','James Potter Rd S / Of Richmead Rd',43.667889,-79.795448
+17103015,'','James Potter Rd N / Of Kirkbridge Crt',43.670338,-79.798294
+17103016,'','James Potter Rd S / Of Valleyway Dr',43.67271,-79.800087
+17103017,'','James Potter Rd S / Of Roundstone Dr',43.674454,-79.802704
+17103018,'','James Potter Rd Btwn Ashby Field Rd And Bovaird Dr',43.669765,-79.822372
+17103019,'','James Potter Rd S / Of Bovaird Dr',43.670879,-79.824219
+17103020,'','Creditview Rd S / Of Lagerfeld Dr',43.672268,-79.8265
+17103021,'','Creditview Rd S / Of Ganton Hts',43.675652,-79.828606
+17103022,'','Mt Pleasant Vlg - Route 6 Stop',43.675442,-79.822083
+17103023,'','Creditview Rd S / Of Veterans Dr',43.675499,-79.829002
+17103024,'','Creditview Rd N / Of Lagerfeld Dr',43.672634,-79.82756
+17103025,'','James Potter Rd S / Of Bovaird Dr',43.670689,-79.824509
+17103026,'','James Potter Rd Btwn Bovaird Dr And Ashby Field Rd',43.669598,-79.822586
+17103027,'','James Potter Rd N / Of Ashby Field Rd',43.668858,-79.819984
+17103028,'','James Potter Rd Opp Roundstone Dr',43.674419,-79.803368
+17103029,'','James Potter Rd N / Of Valleyway Dr',43.672813,-79.800735
+17103030,'','James Potter Rd Opp Kirkbridge Crt',43.670521,-79.798882
+17103031,'','James Potter Rd Opp Richmead Rd',43.667992,-79.796143
+17103032,'','James Potter Rd N / Of Antibes Dr',43.666229,-79.793587
