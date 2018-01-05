@@ -1141,7 +1141,7 @@
 15090,'','Goreway Dr @ Paper Birch Rd',43.776066,-79.715584
 15100,'','Goreway Dr @ Castlemore Rd',43.773571,-79.71212
 15105,'','Castlemore Rd W / Of Goreway Dr',43.772324,-79.712059
-15110,'','Castlemore Rd W / Of Crystall Hl Dr',43.769253,-79.715485
+15110,'','Castlemore Rd E / Of Crystall Hl Dr',43.769917,-79.714828
 15115,'','Castlemore Rd @ Airport Rd',43.763897,-79.722069
 15120,'','Airport Rd S / Of Bovaird Dr E',43.76273,-79.72197
 15125,'','Airport Rd S / Of Triple Crown Dr',43.760586,-79.719078
@@ -1410,7 +1410,7 @@
 18000,'','County Court Blvd Opp Havelock Dr (W)',43.660454,-79.721451
 18010,'','County Court Blvd (S) @ Hurontario St',43.658943,-79.723198
 18020,'','Ray Lawson Blvd @ Malta Ave',43.656708,-79.725662
-18030,'','Ray Lawson Blvd Opp Cherrytree Dr (W)',43.654758,-79.727776
+18030,'','Ray Lawson Blvd Opp Cherrytree Dr (W)',43.654434,-79.728096
 18040,'','Ray Lawson Blvd @ Timberlane Dr',43.653282,-79.732414
 18050,'','Ray Lawson Blvd @ McLaughlin Rd S',43.651474,-79.736153
 18053,'','McLaughlin Rd Btwn Ray Lawson Blvd & Kingknoll Dr',43.652504,-79.738052
@@ -1743,7 +1743,7 @@
 25570,'','Vodden St E @ Century Gdns',43.708366,-79.752968
 25580,'','Vodden St E @ Rutherford Rd N',43.707294,-79.754219
 25590,'','Vodden St E @ Hansen Rd',43.704411,-79.75705
-25600,'','Vodden St E @ Kennedy Rd N',43.702873,-79.75872
+25600,'','Vodden St E / Of Kennedy Rd',43.703224,-79.758339
 25610,'','Vodden St E W / Of Kennedy Rd N',43.702126,-79.759575
 25620,'','Vodden St E @ Garfield Cres (E)',43.700695,-79.761162
 25640,'','Vodden St E @ Ctr St N',43.697975,-79.764137
@@ -2340,7 +2340,7 @@
 92490,'','Queen St W W / Of Angelgate Rd',43.660225,-79.788277
 92495,'','James Potter - Zum Queen West Sta Stop EB',43.662941,-79.785278
 93000,'','Financial Dr S / Of Steeles Ave',43.631882,-79.769913
-93005,'','Financial Dr S / Of Antamina St',43.633389,-79.772202
+93005,'','Financial Dr N / Of Antamina St',43.633598,-79.773346
 93010,'','Sky Harbour Rd S / Of Wardsville Dr',43.633556,-79.782036
 93015,'','Olivia Marie Rd E / Of Kawana Rd',43.632114,-79.775627
 93020,'','Financial Dr @ 6701 Financial Dr',43.610462,-79.739311
@@ -2365,7 +2365,7 @@
 93550,'','Derry Rd W / Of Financial Dr',43.611443,-79.749413
 93555,'','Derry Rd W / Of Creditview Rd',43.613846,-79.744698
 93560,'','Financial Dr S / Of Creditview Rd',43.612621,-79.739449
-93800,'','CASTLEMORE / GOREWAY',43.773129,-79.710594
+93800,'','Castlemore Rd E / Of Goreway Dr',43.773129,-79.710594
 93805,'','McVean Dr S / Of Castlemore Rd',43.781849,-79.700005
 93810,'','Clarkway Dr S / Of Castlemore Rd',43.800545,-79.67823
 93815,'','Clarkway Dr N / Of Almond St',43.799477,-79.676743
@@ -2438,7 +2438,7 @@
 14102701,'','Airport Rd N / Of Mayfield Rd',43.791729,-79.760506
 14102702,'','James Potter Rd N / Of Dusk Dr',43.653538,-79.77018
 15010501,'','Heart Lk Rd Opp New Pines Trl',43.724182,-79.771507
-15010503,'','Royal West Dr S / Of Williams Pkwy W',43.659454,-79.813736
+15010503,'','Royal West Dr S / Of Williams Pkwy W',43.659348,-79.812965
 15021601,'','Steeles Ave E / Of Resolution Dr',43.678638,-79.719093
 15033001,'','Sheridan College Term - 3 / 3A / 4/4A / 11 / 51 / 511 / 104 WB',43.655819,-79.741821
 15033002,'','Sheridan College Terminal - 11 / 51 / 511 / 511C EB',43.656078,-79.741524
@@ -2665,7 +2665,7 @@
 16090515,'','Ferforest Dr S / Of Black Forest Dr',43.745033,-79.756943
 16090516,'','Ferforest Dr S / Of Black Oak Dr',43.744907,-79.757004
 16090517,'','Hereford St S / Of Edgeware Rd',43.616825,-79.773506
-16090518,'','Veterans Dr S / Of Sandalwood Pkwy',43.681782,-79.842018
+16090518,'','Veterans Dr N / Of Sandalwood Pkwy',43.682034,-79.842499
 16090519,'','Veterans Dr S / Of Kempsford Cres (S)',43.683949,-79.844933
 16090520,'','Veterans Dr S / Of Buick Blvd',43.685169,-79.847023
 16090521,'','Buick Blvd Opp Monument Trl',43.687515,-79.845367
