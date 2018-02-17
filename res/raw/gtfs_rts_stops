@@ -89,7 +89,7 @@
 960,'','Hwy 50 @ Claireport Cres (E)',43.747578,-79.632698
 970,'','Albion Rd @ Steinway Blvd',43.748005,-79.629143
 980,'','Humberline Dr S / Of Albion Rd',43.746399,-79.622139
-1090,'','Finch Ave @ Longo Cir',43.733414,-79.633369
+1090,'','Finch Ave @ Longo Cir',43.733379,-79.633301
 1100,'','Finch Ave N / Of Longo Cir',43.735844,-79.6371
 1110,'','Kenview Blvd W / Of Finch Ave',43.739552,-79.644295
 1115,'','Kenview Blvd W / Of Parkshore Dr',43.738495,-79.645546
@@ -120,7 +120,7 @@
 1465,'','Steeles Ave W @ Polonia Ave',43.642082,-79.759987
 1470,'','Steeles Ave @ Churchville Rd',43.640358,-79.761765
 1480,'','Steeles Ave W E / Of Creditview Rd',43.637348,-79.765152
-1490,'','Steeles Ave W E / Of Financial Dr',43.634445,-79.768356
+1490,'','Steeles Ave W E / Of Financial Dr',43.633747,-79.769173
 1500,'','Financial - Zum Steeles Sta Stop WB',43.631767,-79.771347
 1508,'','Mississauga Rd - Zum Steeles Sta Stop WB',43.626831,-79.776878
 1510,'','Mississauga Rd S / Of Steeles Ave',43.626789,-79.775536
@@ -1133,7 +1133,6 @@
 14830,'','Airport Rd @ Clark Blvd',43.735729,-79.684929
 14840,'','Airport Rd Btwn Clark Blvd & Nevets Rd',43.738777,-79.68911
 14850,'','Airport Rd @ Nevets Rd',43.740658,-79.691566
-14860,'','Airport Rd @ Queen St E',43.743355,-79.695198
 14865,'','Airport Rd @ Woodhill Ctr (9105 Airport Rd)',43.745834,-79.698517
 14870,'','Airport Rd @ Maritime Ontario Blvd',43.747307,-79.700493
 14875,'','Airport Rd @ 9263 Airport Rd',43.749214,-79.703056
@@ -1165,17 +1164,16 @@
 15125,'','Airport Rd S / Of Triple Crown Dr',43.760586,-79.719078
 15130,'','Airport Rd @ North Pk Dr',43.758816,-79.716721
 15140,'','Airport Rd Btwn North Pk Dr & Williams Pky E',43.755993,-79.71286
-15160,'','Airport Rd S / Of Williams Pky E (Hopewell Campus)',43.752712,-79.708412
+15160,'','AIRPORT / WILLIAMS',43.752712,-79.708412
 15162,'','Airport Rd @ 9264 Airport Rd',43.749386,-79.704033
 15165,'','Airport Rd @ 9250 Airport Rd',43.747684,-79.701752
-15170,'','Airport Rd @ Queen St E',43.74371,-79.696472
 15180,'','Airport Rd S / Of Queen St E (Wal-Mart Plz Ent)',43.741539,-79.693466
 15190,'','Airport Rd S / Of Coventry Rd',43.740257,-79.691689
 15200,'','Airport Rd Btwn Coventry Rd & Clark Blvd',43.738747,-79.689621
 15210,'','Airport Rd @ Clark Blvd',43.736206,-79.686241
 15220,'','Airport Rd Btwn Clark Blvd & Woodslea Rd',43.734097,-79.683365
 15240,'','Airport Rd S / Of Steeles Ave E',43.72303,-79.668579
-15250,'','Airport Rd @ Driver Rd',43.720882,-79.665535
+15250,'','Airport Rd N / Of Production Rd',43.720882,-79.665535
 15260,'','Airport Rd @ Thamesgate Dr',43.714859,-79.6577
 15270,'','Airport Rd @ Slough St',43.712448,-79.654167
 15280,'','Morning Star Dr @ Collett Rd',43.710064,-79.649658
@@ -2735,7 +2733,7 @@
 16090527,'','Squire Ellis Dr Btwn Quintette Cl & Belladonna Cir',43.813274,-79.72464
 16090529,'','Squire Ellis Dr W / Of The Gore Rd',43.815182,-79.722435
 16090534,'','Elbern Markell Dr S / Of Bovaird Dr',43.668686,-79.826637
-16090535,'','Elbern Markell Dr Opp Banbridge Cres',43.667599,-79.823715
+16090535,'','Elbern Markell Dr Opp Banbridge Cres',43.667362,-79.823212
 16090536,'','Elbern Markell Dr Opp Ashby Field Rd',43.667133,-79.819733
 16090537,'','Elbern Markell Dr Opp Valleyway Dr',43.665436,-79.816757
 16090538,'','Elbern Markell Dr N / Of Canary Close',43.664318,-79.815018
@@ -2772,7 +2770,7 @@
 16090569,'','Elbern Markell Dr S / Of Valleyway Dr',43.665146,-79.816078
 16090570,'','Elbern Markell Dr S / Of Elwin Rd',43.666622,-79.817474
 16090571,'','Elbern Markell Dr S / Of Ashby Field Rd',43.667305,-79.819237
-16090572,'','Elbern Markell Dr N / Of Banbridge Cres (N)',43.667816,-79.823837
+16090572,'','Elbern Markell Dr N / Of Banbridge Cres (S)',43.66745,-79.822983
 16090573,'','Elbern Markell Dr S / Of Bovaird Dr',43.66901,-79.826836
 16090574,'','Braidwood Lk Rd S / Of Petworth Rd',43.723164,-79.807396
 16090575,'','Kenpark Ave Opp Burtree Dr (S)',43.743378,-79.805359
@@ -2850,7 +2848,6 @@
 18010807,'','Financial Dr E / Of Mississauga Rd',43.635674,-79.786469
 18010808,'','Financial Dr E / Of Elysian Fields Cir',43.633457,-79.792526
 18010809,'','Financial Dr E / Of Lower Thames Dr',43.632931,-79.794342
-18010810,'','Lower Thames Dr Opp Musslewhite Rd',43.633659,-79.795815
 18010811,'','Lionhead Golf Club Rd E / Of Lower Thames Dr',43.6353,-79.797096
 18010812,'','Lionhead Golf Club Rd W / Of Bushfield Cir (E)',43.636612,-79.793579
 18010813,'','Lionhead Golf Club Rd W / Of Mississauga Rd',43.63731,-79.790337
@@ -2868,3 +2865,8 @@
 18010825,'','Jane St N / Of Interchange Way',43.789684,-79.524078
 18010826,'','Jane St S / Of Peelar Rd',43.789257,-79.523727
 18010827,'','Hwy 7 @ (WB) Vaughan Metropolitan Ctr Sta',43.793488,-79.527992
+18030501,'','Rivermont Rd N / Of Vetch St',43.633732,-79.798439
+18030502,'','Finch Ave N / Of Darcel Ave',43.733391,-79.634148
+18030504,'','Airport Rd N / Of Queen St',43.744175,-79.696358
+18030505,'','Airport Rd S / Of Queen St',43.742496,-79.694847
+18030506,'','Rivermont Rd N / Of Temple Mnr Rd',43.63237,-79.797577
