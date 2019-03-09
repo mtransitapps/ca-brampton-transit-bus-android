@@ -234,7 +234,7 @@
 2870,'6009','Derry Rd @ Legion Rd',43.709717,-79.636269
 2880,'6010','Derry Rd E / Of Hull St (Opp Malton GO Sta)',43.706856,-79.639488
 2890,'6012','Derry Rd W / Of Airport Rd',43.703163,-79.643272
-2900,'6013','Derry Rd @ Harrow St',43.701462,-79.645439
+2900,'6013','Derry Rd E / Of Harrow St',43.701462,-79.645439
 2910,'6014','Derry Rd W / Of Cattrick St',43.699406,-79.647713
 2920,'6015','Torbram Rd N / Of Derry Rd',43.694805,-79.653061
 2925,'6016','Derry Rd W / Of Torbram Rd',43.694088,-79.653275
@@ -285,7 +285,6 @@
 3590,'1317','1317 Tobram Rd @ Waste Manager',43.710209,-79.674347
 3595,'6024','Torbram Rd N / Of Rena Rd',43.706585,-79.669418
 3600,'6025','Torbram Rd @ Rena Rd',43.705471,-79.667992
-3610,'6026','Torbram Rd N / Of Kimbel St',43.70282,-79.664436
 3620,'6027','Torbram Rd @ Kimbel St',43.701782,-79.662956
 3630,'6028','Torbram Rd @ Drew Rd',43.699268,-79.659576
 3640,'6029','Torbram Rd @ Anson Dr',43.697659,-79.657455
@@ -581,7 +580,6 @@
 7990,'1630','Delta Pk Blvd @ Nevets Rd - 1A',43.742561,-79.689934
 7995,'1631','Nevets Rd @ Airport - 1A',43.741249,-79.692047
 8000,'1632','Coventry Rd W / Of Airport Rd - 1A',43.740612,-79.692993
-8015,'1633','Coventry Rd @ 21 Coventry Rd (Wal-Mart) - 1A',43.739765,-79.694107
 8020,'1634','Conventry Rd @ Walker Dr',43.738869,-79.695358
 8030,'1635','Walker Dr @ 299 Walker Dr (Bell Bldg) - 1A',43.739239,-79.697388
 8040,'1636','Walker Rd @ Gateway Blvd - 1A',43.737915,-79.698898
@@ -1156,7 +1154,6 @@
 14970,'2276','Airport Rd S / Of Lacoste Blvd',43.78653,-79.753532
 14980,'2277','Airport Rd S / Of Mayfield Rd',43.789749,-79.757843
 14989,'5001','12101 Airport Rd',43.793236,-79.762672
-14990,'5000','AMB Distribution Ctr - Caledon',43.793678,-79.763268
 15000,'2278','Mayfield Rd W / Of Maisonneuve Blvd',43.795326,-79.754639
 15040,'2282','Goreway Dr S / Of Countryside Dr',43.792294,-79.73761
 15085,'2288','Goreway Dr S / Of Luross Gt',43.778522,-79.71891
@@ -1172,7 +1169,7 @@
 15160,'2299','Williams - Zum Bovaird Sta Stop SB',43.752712,-79.708412
 15162,'2300','Airport Rd @ 9264 Airport Rd',43.749386,-79.704033
 15165,'2301','Airport Rd @ 9250 Airport Rd',43.747684,-79.701752
-15180,'2303','Airport Rd S / Of Queen St E (Wal-Mart Plz Ent)',43.741539,-79.693466
+15170,'2302','Airport Rd N / Of Queen St',43.74371,-79.696472
 15190,'2304','Airport Rd S / Of Coventry Rd',43.740257,-79.691689
 15210,'2306','Airport Rd @ Clark Blvd',43.736206,-79.686241
 15220,'2307','Airport Rd Btwn Clark Blvd & Woodslea Rd',43.734097,-79.683365
@@ -1399,11 +1396,11 @@
 17770,'2575','The Gore Rd @ Hwy 50',43.758018,-79.644157
 17820,'8023','Humberline Dr @ Hudersfield Rd',43.743431,-79.620811
 17821,'8080','Huddersfield Rd W / Of Humberline Dr',43.742908,-79.623009
-17822,'8081','Clairville Dr S / Of Huddersfield Rd',43.741703,-79.626205
-17823,'8082','61 Clairville Dr',43.740017,-79.625397
-17824,'8083','South Of 61 Clairville Dr',43.738655,-79.624435
-17825,'8084','35 Clairville Dr',43.737064,-79.621727
-17826,'8085','25 Clairville Dr',43.737701,-79.619179
+17822,'8081','Clairville Dr S / Of Huddersfield Rd',43.741756,-79.625984
+17823,'8082','61 Clairville Dr',43.739933,-79.625145
+17824,'8083','South Of 61 Clairville Dr',43.738483,-79.624092
+17825,'8084','35 Clairville Dr',43.73724,-79.62178
+17826,'8085','25 Clairville Dr',43.737938,-79.618813
 17830,'8024','Humberline Dr S / Of Railway Track (307 Humberline)',43.741619,-79.619987
 17840,'8025','Humberline Dr @ Claireville Dr (S)',43.738251,-79.618469
 17853,'8059','Humber College Blvd S / Of Humberline Dr',43.731804,-79.608925
@@ -1898,7 +1895,6 @@
 40035,'4077','Cottrelle Blvd @ Eastway St - School Only',43.762459,-79.711632
 40036,'4078','Cottrelle Blvd @ Dwyer Dr - School Only',43.760269,-79.714165
 40037,'4079','Cottrelle Blvd E / Of Airport Rd - School Only',43.759014,-79.715729
-40038,'4080','Cottrelle Blvd @ Humberwest Pky - School Only',43.763371,-79.71051
 40040,'3183','Cottrelle Blvd W / Of Valleycreek Dr',43.772156,-79.70417
 40050,'3184','Cottrelle Blvd @ Goreway Dr',43.770264,-79.706894
 40070,'3186','Sandalwood Pky E @ Cedarcliff Trl',43.766232,-79.746231
@@ -2230,7 +2226,7 @@
 45543,'4006','Bramalea Terminal Route 18 SB / 185 Stop',43.719021,-79.720749
 45545,'4007','Bramalea Terminal Route 15 / 15A SB Stop',43.719135,-79.720612
 45550,'4008','Bramalea Terminal Route 15 / 15A NB Stop',43.719242,-79.720497
-45555,'4009','Bramalea Terminal Route 12 - Departure / 205 / 217',43.718967,-79.720154
+45555,'4009','Bramalea Terminal Route 12 / 205 / 217',43.718967,-79.720154
 45560,'4010','Bramalea Terminal Route 9 WB / 19 / 208 Stop',43.71888,-79.720253
 45565,'4011','Bramalea Terminal Route 9 EB / 17 / 207 Stop',43.718792,-79.720367
 45570,'4012','Bramalea Terminal Route 10 / 16 Stop',43.718693,-79.720482
@@ -2381,7 +2377,7 @@
 91355,'3803','Queen St W E / Of Lockwood Rd',43.669102,-79.778816
 91360,'3804','James Potter - Zum Queen West Sta Stop WB',43.662865,-79.785713
 91365,'3805','Queen St W Opp Angelgate Rd',43.660393,-79.788414
-91370,'3806','Creditview - Zum Queen West Sta Stop WB',43.657005,-79.79213
+91370,'3806','Creditview - Zum Queen West Sta Stop WB',43.656475,-79.792831
 91375,'3807','Queen St Opp Links Ln',43.653973,-79.795486
 91380,'3808','Queen St W E / Of Elbern Markell Dr',43.652225,-79.797424
 91385,'3809','Royal West Dr S / Of Airlie Crt',43.650162,-79.800598
@@ -2394,14 +2390,13 @@
 91670,'3814','Royal West Dr Btwn Balin Cres & Balin Cres',43.654522,-79.809402
 91675,'3815','Royal West Dr S / Of Adamsville Rd N',43.651676,-79.805382
 91680,'3816','Royal West Dr N / Of Queen St W',43.650055,-79.800797
-91690,'3878','Queen St E / Of Royal West Dr',43.650387,-79.798996
 92000,'3774','Chinguacousy - Zum Queen West Sta Stop WB',43.666176,-79.782135
 92300,'3813','Royal West Dr @ Williams Pkwy W',43.659992,-79.81498
 92465,'3824','McLaughlin - Zum Queen West Sta Stop EB',43.675526,-79.771065
 92470,'3823','Queen St W W / Of Academic Dr',43.672279,-79.774719
-92475,'3817','Queen St W Opp Elbern Markell Dr',43.651703,-79.797668
+92475,'3817','Queen St Opp Elbern Markell Dr',43.652313,-79.796936
 92480,'3818','Queen St W W / Of Links Ln',43.653694,-79.79541
-92485,'3819','Creditview - Zum Queen West Sta Stop EB',43.656902,-79.79203
+92485,'3819','Creditview - Zum Queen West Sta Stop EB',43.656483,-79.792442
 92490,'3820','Queen St W W / Of Angelgate Rd',43.660225,-79.788277
 92495,'3821','James Potter - Zum Queen West Sta Stop EB',43.662941,-79.785278
 93000,'3827','Financial Dr N / Of Steeles Ave',43.632797,-79.771194
@@ -2519,7 +2514,7 @@
 15051804,'3947','The Gore Rd N / Of Castlemore Rd',43.791965,-79.690247
 15051805,'3948','Castlemore Rd E / Of The Gore Rd',43.792236,-79.689278
 15051806,'3949','Creditview Rd S / Of Aylesbury Rd',43.68391,-79.829254
-15051807,'3950','Queen St Btwn James Potter Rd And Chinguacousy Rd',43.665089,-79.782867
+15051807,'3950','Queen St W / Of Chinguacousy Rd',43.665333,-79.782639
 15051808,'3951','Wanless Dr E / Of Creditview Rd',43.696812,-79.845589
 15051809,'3952','Creditview Rd S / Of Wanless Dr',43.695992,-79.84549
 15051810,'3953','Castlemore Rd W / Of Honeyview Trl',43.783352,-79.698975
@@ -2808,7 +2803,7 @@
 17090507,'3399','Russell Crk Dr N / Of St. Dennis Rd',43.761478,-79.780922
 17090508,'3400','Russell Crk Dr S / Of Dolbyhill Dr',43.759659,-79.77906
 17090509,'3401','Russell Crk Dr N / Of Countryside Dr',43.758652,-79.777504
-17090511,'5002','AMB Distribution Ctr (Internal Stop)',43.800533,-79.760605
+17090511,'5002','12203 Airport Rd (Legacy Warehouse)',43.800533,-79.760605
 17100301,'3475','Countryside Dr W / Of Bellini Ave',43.795834,-79.734207
 17103002,'3710','Gordon Randle Dr N / Of Countryside Dr',43.799492,-79.730942
 17103003,'3711','Gordon Randle Dr S / Of Pendergast Crt',43.800282,-79.73217
@@ -2911,7 +2906,6 @@
 18090434,'4171','Deerhurst Dr N / Of Armthorpe Rd',43.746731,-79.671288
 18090435,'4172','Deerhurst Dr Opp Wentworth Crt',43.744434,-79.667847
 18090436,'4173','Deerhurst Dr N / Of Intermodal Dr',43.740517,-79.664566
-18090437,'4174','Goreway Dr S / Of Intermodal Dr',43.738777,-79.66584
 18090438,'4175','Goreway Dr S / Of Intermodal Dr',43.739357,-79.665878
 18090439,'4176','Deerhurst Dr N / Of Intermodal Dr',43.740974,-79.664505
 18090440,'4177','Deerhurst Dr S / Of Wentworth Crt',43.744431,-79.667572
@@ -2937,3 +2931,6 @@
 18102902,'4199','Hwy 7 Opp New Huntington Rd',43.768314,-79.64164
 18102903,'4200','Hwy 7 E / Of New Huntington Rd',43.768719,-79.641243
 19010701,'4201','Elbern Markell Dr N / Of Waterwide Cres (N)',43.666889,-79.818169
+19030401,'4202','Bovaird Dr W / Of Elbern Markell Dr',43.668789,-79.827393
+19030402,'4215','McLaughlin Rd Btwn Horwood Dr & Queen St',43.676971,-79.771965
+19030403,'8087','Keele St N / Of Snidercroft Rd (Drop-Off Only)',43.78931,-79.496925
