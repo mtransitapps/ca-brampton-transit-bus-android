@@ -5,7 +5,7 @@ Brampton Transit buses for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from March 4, 2019 to April 28, 2019.
+Schedule from March 4, 2019 to June 23, 2019.
 Tweets from @BramptonTransit.
 ----------
 Full description:
