@@ -1,14 +1,3 @@
-Title: Brampton Transit Bus - MonTra…
-----------
-Short description:
-Brampton Transit buses for MonTransit.
-Schedule. News.
-----------
-What's new in this version?:
-Schedule from September 3, 2019 to December 22, 2019.
-Tweets from @BramptonTransit.
-----------
-Full description:
 This application adds Brampton Transit buses information to MonTransit.
 
 This app contains the buses schedule (available offline) and news from @BramptonTransit on Twitter.
@@ -17,7 +6,7 @@ Brampton Transit serves Brampton in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -31,17 +20,3 @@ This app is not related with the City of Brampton and Brampton Transit.
 
 Permissions:
 - Other: required to read news from Twitter
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-brampton-transit-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone: 
-----------
-Privacy Policy:
