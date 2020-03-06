@@ -262,7 +262,6 @@
 3120,'1292','Torbram Rd @ Williams Pky E',43.743778,-79.719437
 3130,'1293','Torbram Rd Opp Jardine St',43.746994,-79.723785
 3140,'1294','Torbram Rd N / Of North Pk Dr',43.749462,-79.727119
-3220,'1295','Torbram Rd @ Sandalwood Pky E',43.765045,-79.748085
 3355,'1296','Torbram Rd Btwn Sandalwood Pky E And Steeplebush',43.763298,-79.746201
 3360,'1297','Torbram Rd @ Steeplebush Ave',43.761681,-79.744019
 3370,'1298','Torbram Rd Btwn Steeplebush Ave & Peter Robertson',43.758675,-79.739914
@@ -454,7 +453,7 @@
 5900,'6067','Dixie Rd N / Of Courtneypark Dr',43.664093,-79.659119
 5910,'6068','Dixie Rd Opp Mid-Way Blvd',43.668228,-79.664711
 5920,'6069','Dixie Rd @ Director Gt',43.672188,-79.669983
-5930,'6070','Dixie Rd @ Carlcrest Rd',43.67421,-79.672791
+5930,'6070','Dixie Rd S / Of Carlcrest Rd',43.674084,-79.672623
 5940,'6071','Dixie Rd N / Of Derry Rd',43.675949,-79.675034
 5943,'6194','Dixie Rd Opp Sikh Temple',43.677834,-79.677811
 5950,'6072','Dixie Rd S / Of Drew Rd',43.680977,-79.681808
@@ -502,7 +501,7 @@
 6390,'1538','Dixie Rd @ Northcliffe St',43.732349,-79.751808
 6400,'1539','Dixie Rd Btwn Northcliffe St And North Pk Dr',43.731201,-79.750198
 6410,'1540','Dixie Rd S / Of North Pk Dr',43.72945,-79.747818
-6420,'1541','1541',43.727169,-79.744827
+6420,'1541','Dixie Rd @ Northampton St',43.727169,-79.744827
 6550,'1543','Dixie Rd @ Balmoral Dr (Rogers)',43.705936,-79.716446
 6560,'1544','Dixie Rd N / Of Orenda Rd',43.703247,-79.712929
 6570,'1545','Dixie Rd S / Of Orenda Rd (N)',43.701073,-79.710121
@@ -645,7 +644,7 @@
 8910,'1706','Mill St S @ Grand Circuit Crt',43.671318,-79.744919
 8920,'1707','Mill St S @ Howell St',43.669384,-79.743347
 8930,'1708','Charolais Blvd E / Of Mill St',43.667706,-79.741234
-8932,'3758','Charolais Blvd W / Of Main St',43.669189,-79.738487
+8932,'3758','Charolais Blvd W / Of Main St',43.66893,-79.738846
 8940,'1709','McMurchy Ave S S / Of Charolais Blvd',43.664738,-79.743507
 8950,'1710','McMurchy Ave S @ Keystone Dr',43.663261,-79.741554
 8960,'1711','McMurchy Ave S S / Of Peelton Hts Rd',43.661827,-79.739639
@@ -730,7 +729,6 @@
 9830,'1806','County Court Blvd @ Seminole Dr',43.66444,-79.72374
 9840,'1807','County Court Blvd @ Turtlecreek Blvd',43.662888,-79.726158
 9867,'3607','Clark Blvd W / Of Peel Ctr Dr',43.71431,-79.719673
-9870,'1808','Knightsbridge Rd @ Central Pk Dr',43.717224,-79.717957
 9875,'3591','Clark Blvd W / Of Central Pk Dr',43.715565,-79.71801
 9880,'1809','Clark Blvd Opp Kings Cross Rd',43.718487,-79.712898
 9885,'3592','Central Pk Dr N / Of Clark Blvd',43.71743,-79.716316
@@ -988,7 +986,7 @@
 12660,'2081','Van Kirk Dr S / Of Regan Rd (N) (Opp 105 Van Kirk Dr',43.705856,-79.80204
 12675,'2082','Van Kirk Dr N / Of Railway Tracks (Southbound)',43.704044,-79.800179
 12678,'2083','Van Kirk Dr @ Regan Rd',43.700367,-79.79847
-12690,'2084','Van Kirk Dr Opp Canam Cres (N / Of Bovaird Dr W)',43.69891,-79.796379
+12690,'2084','Van Kirk Dr N / Of Bovaird Dr',43.698517,-79.795845
 12710,'2086','Royal Orchard Dr @ Springview Dr (N)',43.696964,-79.79277
 12715,'2087','Royal Orchard Dr Opp Richwood Cres (S)',43.696484,-79.790619
 12720,'2088','Royal Orchard Dr @ Red Maple Dr',43.694534,-79.787933
@@ -1588,6 +1586,7 @@
 20460,'7027','Hwy 7 @ (EB) Pine Vly Sta',43.784199,-79.572197
 20480,'7029','Hwy 7 @ (EB) Ansley Grv Sta',43.787697,-79.555275
 20500,'7031','Hwy 7 @ (EB) Weston Sta',43.789597,-79.546402
+20510,'7032','Hwy 7 @ (WB) Commerce Sta',43.792084,-79.534401
 20930,'7071','Hwy 7 @ (EB) Commerce Sta',43.792381,-79.532661
 20940,'7072','Hwy 7 @ (WB) Weston Sta',43.789215,-79.548447
 20960,'7074','Hwy 7 @ (WB) Ansley Grv Sta',43.78751,-79.556976
@@ -1772,7 +1771,7 @@
 25740,'3099','Sun Pac Blvd Btwn Exchange Dr & Progress Crt',43.754704,-79.691872
 25750,'3101','Sun Pac Blvd Opp Progress Crt',43.756489,-79.694283
 25760,'3102','Sun Pac Blvd Opp Ward Rd',43.758171,-79.69651
-25770,'3103','Sun Pac Blvd @ Williams Pkwy',43.760452,-79.699516
+25770,'3103','Sun Pac Blvd S / Of Williams Pkwy',43.760082,-79.698967
 25840,'3104','Mt Pleasant GO Sta Route 29 / 29A / 215 Stop',43.674515,-79.822205
 25890,'3106','Williams Pky W @ Chinguacousy Rd',43.681427,-79.802773
 25900,'3107','Williams Pky W @ Withers Way',43.682907,-79.799583
@@ -2349,7 +2348,7 @@
 90620,'3513','Van Kirk Dr @ Game Crk Cres',43.721985,-79.826462
 90621,'3627','Van Kirk Dr @ Perkins Dr',43.722305,-79.82711
 90630,'3514','Van Kirk Dr N / Of Begonia Cres',43.723972,-79.82914
-90641,'3626','Van Kirk Dr @ Accent Cir',43.725441,-79.831589
+90641,'3626','Van Kirk Dr S / Of Mayfield Rd',43.725903,-79.832397
 90645,'3620','Van Kirk Dr @ Mayfield Rd',43.726028,-79.832336
 90650,'3516','Cresthaven Rd @ Hurontario St',43.727894,-79.817429
 90652,'3589','Cresthaven Rd @ Torada Crt',43.725285,-79.821571
@@ -2375,7 +2374,7 @@
 91380,'3808','Queen St W E / Of Elbern Markell Dr',43.652225,-79.797424
 91385,'3809','Royal West Dr S / Of Airlie Crt',43.650162,-79.800598
 91600,'3531','Christie Dr E / Of Kennedy Rd',43.737743,-79.80529
-91610,'3532','Kenpark Ave Opp Kingfisher Crt - 202 School Only',43.744579,-79.810852
+91610,'3532','Kenpark Ave Opp Starling Crt',43.743462,-79.811302
 91611,'4093','Kenpark Ave W / Of Kingfisher Crt - 202 School Only',43.744392,-79.811195
 91650,'3810','Royal West Dr S / Of Adamsville Rd N',43.651901,-79.805588
 91655,'3811','Royal West Dr S / Of Beacon Hl Dr',43.655029,-79.809746
@@ -2739,7 +2738,7 @@
 16090554,'2860','Bonnie Braes Dr E / Of Timercove Rd',43.657711,-79.778587
 16090555,'2861','Bonnie Braes Dr E / Of James Potter Rd',43.655609,-79.779785
 16090556,'2862','Bonnie Braes Dr Btwn Cranwood Cir And Ambiance Crt',43.65332,-79.781532
-16090557,'2863','Bonnie Braes Dr E / Of Creditview Rd',43.651108,-79.7836
+16090557,'2863','Bonnie Braes Dr E / Of Creditview Rd',43.650894,-79.783844
 16090558,'2864','Creditview Rd S / Of George Robinson Dr',43.65556,-79.79055
 16090559,'2865','Creditview Rd S / Of Queen St',43.656631,-79.792046
 16090560,'2866','Creditview Rd S / Of Pathway Dr',43.65834,-79.794334
@@ -2943,3 +2942,6 @@
 19090338,'4256','The Gore Rd S / Of Mayfield Rd',43.819111,-79.726837
 19090339,'4257','Mississauga Rd S / Of Royal West Dr',43.662159,-79.822662
 19102800,'4258','Castlemore Rd E / Of McVean Dr',43.782913,-79.700104
+20030200,'4259','Van Kirk Dr N / Of Whitepoppy Dr',43.724243,-79.829727
+20030201,'4260','Van Kirk Dr N / Of Bramtrail Gt',43.720882,-79.824982
+20030202,'4261','Father Tobin Rd E / Of Fairservice Dr',43.758266,-79.770454
