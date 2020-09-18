@@ -1353,6 +1353,7 @@
 18730,'2654','Dixie Rd @ Hillside Dr (N / Of Queen St E)',43.71611,-79.730019
 18740,'2655','Dixie Rd @ Lisa St',43.713348,-79.726418
 18870,'2656','Hurontario St S / Of Perth St',43.727993,-79.816727
+18880,'2657','Hurontario St N / Of Perth St',43.729565,-79.818985
 18885,'2658','Hurontario St S / Of Roycrest St',43.730396,-79.820099
 18920,'2662','Mayfield Rd Opp Summer Vly Dr',43.736164,-79.822182
 18930,'2663','Mayfield Rd W / Of Inder Hts Dr',43.74052,-79.817657
@@ -1397,7 +1398,7 @@
 19378,'3875','Kennedy Rd @ 7580 Kennedy Rd',43.667706,-79.711029
 19390,'6109','Kennedy Rd S Opp Secretariat Court',43.65934,-79.700226
 19400,'6110','Kennedy Rd S @ Gibraltar Dr',43.654701,-79.693939
-19410,'6111','Kennedy Rd S @ Admiral Blvd',43.652901,-79.691612
+19410,'6111','Kennedy Rd S @ Admiral Blvd',43.652702,-79.691345
 19420,'6112','Kennedy Rd S @ Courtneypark Dr E',43.647758,-79.684677
 19430,'6113','Courtneypark Dr E W / Of Kennedy Rd',43.647411,-79.684982
 19440,'6114','Courtneypark Dr E @ Innovator Dr',43.64463,-79.686745
