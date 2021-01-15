@@ -509,7 +509,7 @@
 7140,'1583','Fernforest Dr @ Black Oak Dr',43.745281,-79.757507
 7240,'1584','Mackay St S S / Of Malabar Cres',43.733932,-79.739647
 7270,'1585','Williams Pky E E / Of Mackay St S',43.731594,-79.732773
-7280,'1586','Williams Pky E @ Bramalea Rd (North Peel S.S)',43.733089,-79.731049
+7280,'1586','Williams Pky E @ Bramalea Rd (North Peel SS)',43.733089,-79.731049
 7320,'1587','Hilldale Cres @ Hedley Crt',43.729481,-79.727051
 7330,'1588','Hilldale Cres @ Hallcrown Crt',43.729252,-79.729523
 7340,'1589','Hilldale Cres @ Homer Sq',43.727863,-79.731003
@@ -869,13 +869,13 @@
 11770,'1994','Sandalwood Pky E @ Glover Gt',43.733341,-79.785423
 11780,'1995','Sandalwood Pky E @ Heart Lk Rd',43.735214,-79.782143
 11790,'1996','Great Lks Dr @ Sandalwood Pky E',43.741016,-79.773369
-11810,'1998','Great Lks Dr S / Of Sailwind Rd (St Isac E.S)',43.736481,-79.769081
+11810,'1998','Great Lks Dr S / Of Sailwind Rd (St Isac ES)',43.736481,-79.769081
 11815,'3588','Great Lks Dr S / Of Serenity Ln',43.734726,-79.767258
 11825,'3624','Great Lks Dr S / Of Guru Nanak St',43.732773,-79.764351
 11830,'2000','Trinity Common Terminal Route 33 / 23 EB / 21 Stop',43.731213,-79.763298
 11840,'2001','Great Lks Dr @ Beachsurf Rd',43.734158,-79.766235
 11850,'2002','Great Lks Dr @ Sailwind Rd',43.736832,-79.769173
-11860,'2003','Great Lks Dr @ Harold M Brathwaite S.S',43.73777,-79.770393
+11860,'2003','Great Lks Dr @ Harold M Brathwaite SS',43.73777,-79.770393
 11870,'2004','Great Lks Dr @ Sandalwood Pky E',43.741188,-79.77317
 11875,'2005','Sandalwood Pky @ Rec Ctr Entrance',43.743206,-79.771271
 11880,'2006','Sandalwood Pky E @ Dixie Rd',43.744755,-79.769211
@@ -924,7 +924,7 @@
 12350,'2049','Conestoga Dr N / Of Ruth Ave',43.721046,-79.789642
 12360,'2050','Conestoga Dr @ Ebby Ave',43.717781,-79.788208
 12365,'2051','Conestoga Dr Opp Jay St',43.719345,-79.788979
-12370,'2052','Conestoga Dr S / Of Ebby Ave (@ Heart Lk S.S)',43.717049,-79.788033
+12370,'2052','Conestoga Dr S / Of Ebby Ave (@ Heart Lk SS)',43.717049,-79.788033
 12380,'2053','Conestoga Dr N / Of Wexford Rd',43.715023,-79.784851
 12385,'2054','Conestoga Dr @ Bovaird Dr W',43.713184,-79.780449
 12390,'2055','Conestoga Dr @ Wexford Dr',43.714947,-79.785004
@@ -1160,7 +1160,7 @@
 15515,'2335','Chinguacousy Rd Btwn Charolais Blvd & Steeles Ave',43.648731,-79.757568
 15517,'2336','Chinguacousy Rd N / Of Charolais Blvd',43.651161,-79.760132
 15520,'2337','Chinguacousy Rd Btwn Charolais Blvd & Drinkwater',43.653103,-79.762894
-15540,'2339','Drinkwater Rd @ St Augustine S.S',43.65836,-79.766159
+15540,'2339','Drinkwater Rd @ St Augustine SS',43.65836,-79.766159
 15550,'2340','Drinkwater Rd E / Of Lockwood Rd',43.659561,-79.765259
 15620,'2348','Queen St W / Of Lockwood Rd',43.668579,-79.778969
 15630,'2349','Queen St W @ Sobey''s Entrance (WB)',43.668224,-79.779831
@@ -1208,7 +1208,7 @@
 16140,'2398','Chinguacousy Rd Opp Flowertown Ave',43.673721,-79.791649
 16150,'2399','Chinguacousy Rd N / Of Daviselm Dr',43.670303,-79.787102
 16170,'2401','Chinguacousy - Zum Queen West Sta Stop EB',43.666851,-79.780861
-16250,'2410','Drinkwater Rd @ Ready Crt (St Augustine S.S)',43.658268,-79.76635
+16250,'2410','Drinkwater Rd @ Ready Crt (St Augustine SS)',43.658268,-79.76635
 16270,'2412','Chinguacousy Rd Btwn Charolais Blvd & Rail Xing',43.652866,-79.763145
 16280,'2413','Charolais Blvd @ Moffat Ave',43.651592,-79.758621
 16290,'2414','Charolais Blvd @ Duggan Dr',43.653481,-79.756798
@@ -1389,11 +1389,11 @@
 18055,'2601','McLaughlin Rd S S / Of Kingknoll Dr',43.653912,-79.739853
 18060,'2602','McLaughlin Rd S S / Of Ray Lawson Blvd',43.6506,-79.735992
 18070,'2603','McLaughlin Rd S @ Oaklea Blvd',43.647995,-79.732498
-18080,'2604','Oaklea Blvd @ Pauline Vanier E.S(56 Oaklea Blvd)',43.64637,-79.734062
+18080,'2604','Oaklea Blvd @ Pauline Vanier ES (56 Oaklea Blvd)',43.64637,-79.734062
 18090,'2605','Oaklea Blvd Opp Rollingwood Dr',43.645687,-79.735832
 18100,'2606','Oaklea Blvd Opp Rodwell Crt',43.646088,-79.737625
 18110,'2607','Ray Lawson Blvd @ Stalbridge Ave',43.646152,-79.739601
-18120,'2608','Ray Lawson Blvd @ Hickory Wood Jr E.S',43.645691,-79.742439
+18120,'2608','Ray Lawson Blvd @ Hickory Wood Jr ES',43.645691,-79.742439
 18130,'2609','Ray Lawson Blvd @ Kingknoll Dr',43.644386,-79.744713
 18135,'2610','Kingknoll Dr N / Of Ray Lawson Blvd',43.644547,-79.745605
 18150,'2612','Kingknoll Dr Opp Pennsylvania Ave',43.64677,-79.747147
@@ -1756,7 +1756,7 @@
 26460,'3138','Williams Pky E W / Of Torbram Rd',43.743755,-79.720985
 26470,'3139','Williams Pky E Opp Graymar Rd',43.74131,-79.723137
 26480,'3140','Williams Pky E W / Of Jordan Blvd',43.738266,-79.725769
-26490,'3141','Williams Pky E @ Chinguacousy S.S',43.736809,-79.727165
+26490,'3141','Williams Pky E @ Chinguacousy SS',43.736809,-79.727165
 26500,'3142','Williams Pky E W / Of Bramalea Rd',43.733799,-79.730629
 26540,'3143','Williams Pky E W / Of Dixie Rd',43.725109,-79.742813
 26550,'3144','Williams Pkwy W / Of North Pk Dr',43.720078,-79.747208
@@ -1792,7 +1792,7 @@
 27040,'3652','Castlemore Rd W / Of Bloom Dr',43.794121,-79.687042
 27045,'3651','Castlemore Rd W / Of Gardenbrooke Tr',43.796528,-79.684242
 27050,'3610','Gardenbrooke Tr S / Of Snowpass St',43.795715,-79.682739
-27080,'3613','Castle Oaks Cross @ Cardinal Ambrozic S.S',43.788105,-79.681969
+27080,'3613','Castle Oaks Cross @ Cardinal Ambrozic SS',43.788105,-79.681969
 27200,'3173','The Gore Rd S / Of Strathdale Rd',43.784359,-79.679901
 27205,'3698','Gardenbrooke Tr S / Of Academy Dr',43.794121,-79.68161
 27206,'3699','Gardenbrooke Tr N / Of Bliss St',43.793331,-79.680649
@@ -2128,7 +2128,7 @@
 45060,'3471','Father Tobin Rd @ Torbram Rd',43.771275,-79.756187
 45070,'3472','Father Tobin Rd @ Torbram Rd',43.770779,-79.756653
 45080,'3473','Father Tobin Rd E / Of Tennant Dr',43.768524,-79.758171
-45090,'3474','Father Tobin Rd Opp Pape Dr (Hewson P.S)',43.76685,-79.760147
+45090,'3474','Father Tobin Rd Opp Pape Dr (Hewson PS)',43.76685,-79.760147
 45110,'3476','Father Tobin Rd @ Wall St',43.763924,-79.763947
 45120,'3477','Father Tobin Rd @ Bramalea Rd',43.761742,-79.766342
 45130,'3478','Father Tobin Rd @ Helman Rd',43.75988,-79.768364
