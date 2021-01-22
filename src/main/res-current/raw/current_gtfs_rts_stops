@@ -223,8 +223,8 @@
 2750,'1252','Bramalea Rd Opp East Dr',43.70755,-79.694954
 2760,'1253','Bramalea Rd @ Orenda Rd',43.706051,-79.69294
 2770,'1254','Bramalea Rd S / Of Steeles Ave E',43.704227,-79.689842
-2816,'6157','Westwood Mall Terminal Route 14 Stop',43.72147,-79.640327
-2817,'6158','Westwood Mall Terminal Route 30 Stop',43.721321,-79.640488
+2816,'6157','Westwood Mall Term Route 14 Stop',43.72147,-79.640327
+2817,'6158','Westwood Mall Term Route 30 Stop',43.721321,-79.640488
 2820,'6004','Goreway Dr S / Of Morning Star Dr',43.720024,-79.640694
 2830,'6005','Goreway Dr @ Jolliffe Ave',43.71909,-79.639343
 2840,'6006','Goreway Dr @ Etude Dr',43.717121,-79.63662
@@ -502,7 +502,7 @@
 6930,'1575','Fernforest Dr N / Of Blackforest Dr',43.745621,-79.757751
 6940,'1576','Fernforest Dr N / Of Deerglen Dr',43.747417,-79.760201
 6950,'1577','Fernforest Dr @ Sandalwood Pky E',43.749542,-79.762947
-6990,'1578','Great Lks Dr @ Harold M Braithwaite S.S',43.737713,-79.770622
+6990,'1578','Great Lks Dr @ Harold M Braithwaite SS',43.737713,-79.770622
 7110,'1580','Sandalwood Pky E @ Fernforest Dr',43.749718,-79.763847
 7120,'1581','Fernforest Dr @ Hollybush St',43.749126,-79.762726
 7130,'1582','Fernforest Dr S / Of Rainforest Dr',43.747463,-79.760468
@@ -652,7 +652,7 @@
 9350,'1755','Sandalwood Pky E @ Sunforest Dr',43.720585,-79.799866
 9360,'1756','Sandalwood Pky E @ 95 Sandalwood (Firestation)',43.722584,-79.79776
 9380,'1758','Conestoga Dr Opp Loafers Lk Ln',43.726116,-79.797958
-9390,'1759','Heart Lk Terminal Route 2 Stop',43.727917,-79.798012
+9390,'1759','Heart Lk Term Route 2 Stop',43.727917,-79.798012
 9415,'1760','Conestoga Dr Opp Mondragon Cir',43.729641,-79.796867
 9420,'1761','Sandalwood Pky E W / Of Kennedy Rd N',43.727634,-79.794319
 9430,'1762','Sandalwood Pky E W / Of Conestoga Dr',43.725201,-79.796654
@@ -723,7 +723,7 @@
 10070,'1829','Clark Blvd @ Airport Rd',43.735134,-79.686684
 10080,'1830','Clark Blvd @ Devon Rd',43.736652,-79.684578
 10100,'1831','Devon Rd @ 74 Devon Rd',43.735088,-79.682144
-10101,'6082','Pearson Int Airport Terminal 1 Ground Level',43.681984,-79.612968
+10101,'6082','Pearson Int Airport Term 1 Ground Level',43.681984,-79.612968
 10110,'1833','Devon Rd @ 50 Devon Rd',43.733097,-79.679474
 10120,'1834','Devon Rd @ Intermodal Dr',43.731758,-79.677803
 10125,'1835','Intermodal - Zum Bovaird Sta Stop NB',43.731186,-79.678795
@@ -819,7 +819,7 @@
 11000,'1929','Sandalwood Pky E Opp Springtown Trl',43.746647,-79.76754
 11010,'1930','Sandalwood Pky E W / Of Dixie Rd',43.744873,-79.769623
 11020,'1931','Sandalwood Pky Btwn Dixie Rd & Great Lks Dr',43.743359,-79.771706
-11060,'1933','Trinity Common Terminal Route 32 / 23 WB / 18B Stop',43.731441,-79.763451
+11060,'1933','Trinity Common Term Route 32 / 23 WB / 18B Stop',43.731441,-79.763451
 11100,'1934','Sandalwood Pky E W / Of Heart Lk Rd',43.736015,-79.781395
 11110,'1935','Sandalwood Pky E @ Royal Palm Dr (E)',43.733799,-79.785385
 11120,'1936','Sandalwood Pky E @ Royal Palm Dr (W)',43.73159,-79.788116
@@ -827,7 +827,7 @@
 11140,'1938','Sandalwood Pky E @ Kennedy Rd N',43.728443,-79.793198
 11150,'1939','Kennedy Rd N N / Of Sandalwood Pky E',43.729481,-79.794937
 11160,'1940','Conestoga Dr @ Mondragon Cir',43.729816,-79.797005
-11170,'1941','Heart Lk Terminal Route 23 WB Stop',43.727787,-79.79834
+11170,'1941','Heart Lk Term Route 23 WB Stop',43.727787,-79.79834
 11180,'1942','Conestoga Dr @ Loafers Lk Ln',43.726166,-79.79863
 11240,'1943','Sandalwood Pky W W / Of Hurontario St',43.716747,-79.804405
 11250,'1944','Sandalwood Pkwy @ 130 Sandalwood Pkwy',43.714241,-79.807182
@@ -863,7 +863,7 @@
 11650,'1988','Sandalwood Pky W @ Van Kirk Dr',43.70929,-79.810013
 11660,'1989','Sandalwood Pkwy Opp 130 Sandalwood Pkwy',43.714008,-79.806953
 11670,'1990','Sandalwood Pky W @ Hurontario St',43.717049,-79.803703
-11730,'1991','Heart Lk Terminal Route 21 Stop',43.727783,-79.798141
+11730,'1991','Heart Lk Term Route 21 Stop',43.727783,-79.798141
 11750,'1992','Sandalwood Pky E @ Richvale Dr (EB)',43.729691,-79.790253
 11760,'1993','Sandalwood Pky E Opp Royal Palm Dr (W)',43.73103,-79.788574
 11770,'1994','Sandalwood Pky E @ Glover Gt',43.733341,-79.785423
@@ -872,7 +872,7 @@
 11810,'1998','Great Lks Dr S / Of Sailwind Rd (St Isac ES)',43.736481,-79.769081
 11815,'3588','Great Lks Dr S / Of Serenity Ln',43.734726,-79.767258
 11825,'3624','Great Lks Dr S / Of Guru Nanak St',43.732773,-79.764351
-11830,'2000','Trinity Common Terminal Route 33 / 23 EB / 21 Stop',43.731213,-79.763298
+11830,'2000','Trinity Common Term Route 33 / 23 EB / 21 Stop',43.731213,-79.763298
 11840,'2001','Great Lks Dr @ Beachsurf Rd',43.734158,-79.766235
 11850,'2002','Great Lks Dr @ Sailwind Rd',43.736832,-79.769173
 11860,'2003','Great Lks Dr @ Harold M Brathwaite SS',43.73777,-79.770393
@@ -934,8 +934,8 @@
 12425,'2060','Sandalwood - Zum Main Sta Stop NB',43.718307,-79.803497
 12430,'3874','Sandalwood Loop - Route 502 Stop',43.720821,-79.80883
 12470,'2061','Sandalwood Pky E E / Of Conestoga Dr',43.72617,-79.795723
-12485,'3752','Heart Lk Terminal Route 201 Stop',43.728088,-79.798096
-12495,'2760','Heart Lk Terminal Route 7 NB - Departure',43.728092,-79.798119
+12485,'3752','Heart Lk Term Route 201 Stop',43.728088,-79.798096
+12495,'2760','Heart Lk Term Route 7 NB - Departure',43.728092,-79.798119
 12560,'2066','Hurontario St S / Of Petworth Rd',43.721687,-79.808121
 12565,'2067','Hurontario St Opp 10866 Hurontario St',43.723858,-79.81115
 12568,'2068','Hurontario St S / Of Conservation Dr',43.725605,-79.813446
@@ -1266,7 +1266,7 @@
 16860,'6100','Goreway Dr @ Brandon Gt',43.725597,-79.648209
 16870,'6101','Goreway Dr S / Of Brandon Gt (7560 Goreway Dr)',43.72467,-79.646873
 16880,'6102','Goreway Dr S / Of Brandon Gt (7500 Goreway Dr)',43.723335,-79.64505
-16890,'6104','Westwood Mall Terminal Route 5 Stop',43.7216,-79.640152
+16890,'6104','Westwood Mall Term Route 5 Stop',43.7216,-79.640152
 16910,'6105','Goreway Dr N / Of Morning Star Dr (7475 Goreway Dr)',43.722984,-79.644264
 16920,'6106','Goreway Dr S / Of Brandon Gt (Opp 7560 Goreway Dr)',43.724388,-79.646187
 16930,'6107','Goreway Dr N / Of Brandon Gt',43.725853,-79.648109
@@ -1525,8 +1525,8 @@
 19880,'2756','Kennedy Rd N @ Piedmont Dr',43.725735,-79.789825
 19890,'2757','Kennedy Rd N N / Of Piedmont Dr',43.727066,-79.791618
 19900,'2758','Kennedy Rd N @ Sandalwood Pky E',43.727997,-79.792786
-19928,'3729','Heart Lk Terminal Route 7 NB - Arrival',43.727921,-79.79821
-19930,'3544','Heart Lk Terminal Route 7 / 7A SB - Departure',43.72794,-79.798233
+19928,'3729','Heart Lk Term Route 7 NB - Arrival',43.727921,-79.79821
+19930,'3544','Heart Lk Term Route 7 / 7A SB - Departure',43.72794,-79.798233
 19940,'6130','Kennedy Rd S @ Ambassador Dr',43.649807,-79.687447
 20200,'2785','Bramalea Rd N / Of Fleetwood Cres',43.721962,-79.713913
 20270,'2788','Queen St Btwn Gateway Blvd & Airport Rd',43.740379,-79.699158
@@ -1717,8 +1717,8 @@
 25650,'3095','Vodden St E Opp Ken Whillans Dr',43.694599,-79.767776
 25700,'3096','Sun Pac Blvd @ Ward Rd',43.757984,-79.696526
 25710,'3097','Sun Pac Blvd @ Progress Crt',43.756039,-79.693977
-25720,'3098','Sun Pac Blvd Btwn Progress Crt & Exchange Dr',43.754704,-79.692162
-25740,'3099','Sun Pac Blvd Btwn Exchange Dr & Progress Crt',43.754704,-79.691872
+25720,'3098','Sun Pac Blvd Btwn Progress Crt & Exch Dr',43.754704,-79.692162
+25740,'3099','Sun Pac Blvd Btwn Exch Dr & Progress Crt',43.754704,-79.691872
 25750,'3101','Sun Pac Blvd Opp Progress Crt',43.756489,-79.694283
 25760,'3102','Sun Pac Blvd Opp Ward Rd',43.758171,-79.69651
 25770,'3103','Sun Pac Blvd S / Of Williams Pkwy',43.760082,-79.698967
@@ -1818,8 +1818,8 @@
 28130,'6175','Hurontario St @ Matheson - SB (Zum Main)',43.619534,-79.670731
 28140,'6176','Hurontario St @ Bristol Rd - SB (Zum Main)',43.614502,-79.663857
 28150,'6177','Hurontario St @ Eglinton Ave - SB (Zum Main)',43.60598,-79.652145
-28180,'6178','Mississauga City Ctr Terminal - Departure',43.594051,-79.647217
-28190,'9992','Mississauga City Ctr Terminal - Arrival',43.593407,-79.647903
+28180,'6178','Mississauga City Ctr Term - Departure',43.594051,-79.647217
+28190,'9992','Mississauga City Ctr Term - Arrival',43.593407,-79.647903
 30000,'3672','Fairhill Ave E / Of Creditview Rd',43.68235,-79.82708
 30012,'3688','Commuter Dr N / Of Signal Ln',43.677277,-79.824661
 30015,'3675','Mt Pleasant Vlg - Route 23 Stop',43.675503,-79.821877
@@ -1827,18 +1827,18 @@
 30025,'3677','Bleasdale Ave S / Of Haverty Tr',43.678848,-79.826302
 30030,'3678','Bleasdale Ave S / Of Creditview Rd',43.679401,-79.827904
 30035,'3679','Creditview Rd S / Of Fairhill Ave',43.681873,-79.827293
-30100,'4216','Brampton Gateway Terminal Route 4 / 4A / 104 Stop',43.664951,-79.734604
-30101,'4217','Brampton Gateway Terminal Route 53 / 56 Stop',43.665192,-79.734306
-30102,'4218','Brampton Gateway Terminal Route 11 / 51 / 511 / 511C WB',43.665421,-79.73407
-30106,'4203','Brampton Gateway Terminal Route 57 Stop',43.665257,-79.73439
-30107,'4204','Brampton Gateway Terminal Route 3 / 3A Stop',43.665436,-79.734215
-30108,'4205','Brampton Gateway Terminal Route 11 / 11A EB Stop',43.665615,-79.734039
-30109,'4206','Brampton Gateway Terminal Route 511 / 511A / 511C EB',43.665821,-79.733963
-30110,'4207','Brampton Gateway Terminal Route 502 NB Stop',43.666027,-79.733955
-30111,'4208','Brampton Gateway Terminal Route 2 NB Stop',43.666279,-79.733986
-30112,'4209','Brampton Gateway Terminal Route 52 Stop',43.666454,-79.734322
-30113,'4210','Brampton Gateway Terminal Route 54 / 199 Stop',43.666672,-79.734589
-30117,'4214','Brampton Gateway Terminal Route 2 / 502 SB',43.666183,-79.733627
+30100,'4216','Brampton Gateway Term Route 4 / 4A / 104 Stop',43.664951,-79.734604
+30101,'4217','Brampton Gateway Term Route 53 / 56 Stop',43.665192,-79.734306
+30102,'4218','Brampton Gateway Term Route 11 / 51 / 511 / 511C WB',43.665421,-79.73407
+30106,'4203','Brampton Gateway Term Route 57 Stop',43.665257,-79.73439
+30107,'4204','Brampton Gateway Term Route 3 / 3A Stop',43.665436,-79.734215
+30108,'4205','Brampton Gateway Term Route 11 / 11A EB Stop',43.665615,-79.734039
+30109,'4206','Brampton Gateway Term Route 511 / 511A / 511C EB',43.665821,-79.733963
+30110,'4207','Brampton Gateway Term Route 502 NB Stop',43.666027,-79.733955
+30111,'4208','Brampton Gateway Term Route 2 NB Stop',43.666279,-79.733986
+30112,'4209','Brampton Gateway Term Route 52 Stop',43.666454,-79.734322
+30113,'4210','Brampton Gateway Term Route 54 / 199 Stop',43.666672,-79.734589
+30117,'4214','Brampton Gateway Term Route 2 / 502 SB',43.666183,-79.733627
 40030,'3182','Cottrelle Blvd W / Of Redwillow Rd',43.773079,-79.700653
 40035,'4077','Cottrelle Blvd @ Eastway St - School Only',43.762459,-79.711632
 40036,'4078','Cottrelle Blvd @ Dwyer Dr - School Only',43.760269,-79.714165
@@ -1982,7 +1982,7 @@
 42330,'6148','Tranmere Dr @ Boylen Rd',43.686077,-79.667923
 42335,'6149','Tranmere Dr N / Of Gage Crt',43.686787,-79.668839
 42340,'6150','Tranmere Dr @ Drew Rd',43.688389,-79.67099
-42395,'3545','Heart Lk Terminal Route 3 / 3A / 201 Stop',43.728054,-79.797913
+42395,'3545','Heart Lk Term Route 3 / 3A / 201 Stop',43.728054,-79.797913
 42400,'3355','Hurontario St S / Of Mayfield Rd',43.733486,-79.824333
 42980,'6181','Airport Rd S / Of Derry Rd',43.701885,-79.640381
 43011,'6187','Airport Rd S / Of Hwy 409',43.686005,-79.609116
@@ -2151,22 +2151,22 @@
 45270,'3494','Charolais Blvd W / Of Chinguacousy Rd',43.650196,-79.760101
 45280,'3495','Castlemore Rd @ Goreway Dr',43.772308,-79.711426
 45290,'3496','Fernforest Dr S / Of Father Tobin Rd',43.756256,-79.772728
-45505,'3547','Downtown Terminal Route 1 / 1A EB',43.686741,-79.763
-45510,'3548','Downtown Terminal Route 1 / 1A WB / 561 Stop',43.686893,-79.763023
-45520,'3550','Downtown Terminal Route 52 Stop',43.687065,-79.762238
-45528,'4001','Bramalea Terminal Route 1 / 1A WB - Departure',43.719116,-79.720436
-45533,'4004','Bramalea Terminal Route 1 / 1A EB - Departure',43.718761,-79.720818
-45538,'4005','Bramalea Terminal Route 18 / 18B NB - Departure',43.718914,-79.720879
-45543,'4006','Bramalea Terminal Route 18 SB / 185 Stop',43.719021,-79.720749
-45545,'4007','Bramalea Terminal Route 15 / 15A SB Stop',43.719135,-79.720612
-45550,'4008','Bramalea Terminal Route 15 / 15A NB Stop',43.719242,-79.720497
-45555,'4009','Bramalea Terminal Route 12 / 205 / 217',43.718967,-79.720154
-45560,'4010','Bramalea Terminal Route 9 WB / 19 / 208 Stop',43.71888,-79.720253
-45565,'4011','Bramalea Terminal Route 9 EB / 17 / 207 Stop',43.718792,-79.720367
-45570,'4012','Bramalea Terminal Route 10 / 16 Stop',43.718693,-79.720482
-45575,'4016','Bramalea Terminal Route 115 Stop',43.718712,-79.720566
-45580,'4017','Bramalea Terminal Route 13 / 20 Stop',43.718979,-79.720276
-45585,'4018','Bramalea Terminal Route 8 / 205 Stop',43.719059,-79.720192
+45505,'3547','Downtown Term Route 1 / 1A EB',43.686741,-79.763
+45510,'3548','Downtown Term Route 1 / 1A WB / 561 Stop',43.686893,-79.763023
+45520,'3550','Downtown Term Route 52 Stop',43.687065,-79.762238
+45528,'4001','Bramalea Term Route 1 / 1A WB - Departure',43.719116,-79.720436
+45533,'4004','Bramalea Term Route 1 / 1A EB - Departure',43.718761,-79.720818
+45538,'4005','Bramalea Term Route 18 / 18B NB - Departure',43.718914,-79.720879
+45543,'4006','Bramalea Term Route 18 SB / 185 Stop',43.719021,-79.720749
+45545,'4007','Bramalea Term Route 15 / 15A SB Stop',43.719135,-79.720612
+45550,'4008','Bramalea Term Route 15 / 15A NB Stop',43.719242,-79.720497
+45555,'4009','Bramalea Term Route 12 / 205 / 217',43.718967,-79.720154
+45560,'4010','Bramalea Term Route 9 WB / 19 / 208 Stop',43.71888,-79.720253
+45565,'4011','Bramalea Term Route 9 EB / 17 / 207 Stop',43.718792,-79.720367
+45570,'4012','Bramalea Term Route 10 / 16 Stop',43.718693,-79.720482
+45575,'4016','Bramalea Term Route 115 Stop',43.718712,-79.720566
+45580,'4017','Bramalea Term Route 13 / 20 Stop',43.718979,-79.720276
+45585,'4018','Bramalea Term Route 8 / 205 Stop',43.719059,-79.720192
 45590,'3882','Ganton Hts E / Of Bevington Rd',43.676743,-79.825813
 45595,'3883','Ganton Hts E / Of Stemford Rd',43.676418,-79.827461
 46000,'3497','Torbram Rd S / Of Countryside Dr',43.773869,-79.760567
@@ -2218,7 +2218,7 @@
 49080,'3648','Williams Pky E / Of Elbern Markell Dr',43.665112,-79.809799
 49090,'3649','Williams Pky E / Of Abbotsbury Dr',43.669018,-79.805908
 49100,'3650','Williams Pky @ Valleyway Dr',43.671329,-79.805046
-50100,'4020','Downtown Terminal Zum Queen Stop',43.686871,-79.762466
+50100,'4020','Downtown Term Zum Queen Stop',43.686871,-79.762466
 50102,'4021','Ctr - Zum Queen Sta Stop EB',43.690952,-79.754372
 50104,'4022','Kennedy - Zum Queen Sta Stop EB',43.695969,-79.748863
 50106,'4023','Rutherford - Zum Queen Sta Stop EB',43.701454,-79.742622
@@ -2247,8 +2247,8 @@
 50172,'4046','Rutherford - Zum Queen Sta Stop WB',43.701542,-79.743111
 50174,'4047','Kennedy - Zum Queen Sta Stop WB',43.695366,-79.750008
 50176,'4048','Ctr - Zum Queen Sta Stop WB',43.690964,-79.754761
-50193,'4002','Bramalea Terminal- Zum Queen 501 / 501A WB-Departure',43.719017,-79.720566
-50198,'4003','Bramalea Terminal- Zum Queen 501 / 501A / 501C EB-Dep',43.718887,-79.720726
+50193,'4002','Bramalea Term- Zum Queen 501 / 501A WB-Departure',43.719017,-79.720566
+50198,'4003','Bramalea Term- Zum Queen 501 / 501A / 501C EB-Dep',43.718887,-79.720726
 51000,'3501','McLaughlin Rd N / Of Gurdwara Gt',43.648293,-79.732346
 51010,'3502','McLaughlin Rd Btwn Gurdwara & Ray Lawson Blvd',43.649342,-79.733833
 51020,'3503','McLaughlin Rd N / Of Ray Lawson Blvd',43.65155,-79.736725
@@ -2356,7 +2356,7 @@
 93880,'3870','Castlemore Rd Opp Gardenbrooke Trl',43.797222,-79.684074
 93885,'3871','Castlemore Rd Opp Bloom Dr',43.794834,-79.686852
 93890,'3872','Castlemore Rd E / Of The Gore Rd',43.792393,-79.689705
-93950,'3825','Exchange Dr W / Of Humberwest Pkwy',43.754738,-79.688118
+93950,'3825','Exch Dr W / Of Humberwest Pkwy',43.754738,-79.688118
 94000,'3784','Chinguacousy Rd S / Of Earlsbridge Blvd',43.701263,-79.828438
 94005,'3785','Chinguacousy Rd S / Of Sugarhill Dr',43.703739,-79.831825
 94010,'3786','Wanless Dr W / Of Chinguacousy Rd',43.705845,-79.835823
@@ -2393,7 +2393,7 @@
 14090116,'3916','Cherrytree Dr N / Of Sparrow Crt',43.652092,-79.721756
 14090117,'3917','Cherrytree Dr S / Of Redwood Pl',43.654881,-79.720398
 14090118,'3918','Cherrytree Dr N / Of 20 Cherrytree Dr',43.655945,-79.723297
-14090119,'3919','Heart Lk Terminal Route 23 EB Stop',43.727993,-79.798218
+14090119,'3919','Heart Lk Term Route 23 EB Stop',43.727993,-79.798218
 14090120,'3920','Mt Pleasant Vlg - Route 26 / 27 Stop',43.675224,-79.823158
 14090125,'3925','Robert Parkinson Dr N / Of Sandalwood Pkwy',43.687111,-79.838417
 14090126,'3926','Robert Parkinson Dr S / Of Tribune Dr',43.689278,-79.840599
@@ -2403,8 +2403,8 @@
 14090132,'3888','Mt Pleasant GO Sta - 5 / 5A / 505 Zum Bovaird',43.67485,-79.822792
 14090133,'3889','McLaughlin- Zum Bovaird Sta Stop WB',43.695747,-79.798172
 14090134,'3890','Heart Lk - Zum Bovaird Sta Stop WB',43.721291,-79.77047
-14090135,'3891','Trinity Common Terminal - 5 / 5A EB / 505 EB Stop',43.730759,-79.763802
-14090136,'3892','Trinity Common Terminal - 5 / 5A WB / 505 WB / 17 Stop',43.730652,-79.764336
+14090135,'3891','Trinity Common Term - 5 / 5A EB / 505 EB Stop',43.730759,-79.763802
+14090136,'3892','Trinity Common Term - 5 / 5A WB / 505 WB / 17 Stop',43.730652,-79.764336
 14090137,'3893','Dixie - Zum Bovaird Sta Stop EB',43.735252,-79.753906
 14090138,'3894','Dixie - Zum Bovaird Sta Stop WB',43.734314,-79.755615
 14090139,'3895','Bramalea - Zum Bovaird Sta Stop EB',43.743874,-79.744408
@@ -2415,7 +2415,7 @@
 15010503,'3935','Royal West Dr S / Of Williams Pkwy W',43.659348,-79.812965
 15021601,'3936','Steeles Ave E / Of Resolution Dr',43.678638,-79.719093
 15033001,'4224','Sheridan College Term - 3 / 3A / 4/4A / 11 / 51 / 511 / 104 WB',43.655819,-79.741821
-15033002,'4225','Sheridan College Terminal - 11 / 51 / 511 / 511C EB',43.656078,-79.741524
+15033002,'4225','Sheridan College Term - 11 / 51 / 511 / 511C EB',43.656078,-79.741524
 15033003,'3942','Malta - Zum Steeles Sta Stop EB',43.66127,-79.738083
 15033004,'3938','Chinguacousy - Zum Steeles Sta Stop WB',43.64637,-79.75531
 15033005,'3941','Financial - Zum Steeles Sta Stop EB',43.632915,-79.769516
@@ -2493,9 +2493,9 @@
 15090778,'2763','Goreway Dr N / Of Jacksonville Dr',43.788025,-79.731857
 15090779,'2764','Bloomsbury Ave S / Of Jacksonville Dr',43.785774,-79.733643
 15090780,'2765','Bloomsbury Ave S / Of Jacksonville Dr',43.785847,-79.733437
-15090801,'4226','Humber College Terminal - Route 50 / 50A Stop',43.728943,-79.604408
-15090802,'4227','Humber College Terminal- Zum Steeles 511 / 511A / 511C',43.729156,-79.605278
-15090803,'4228','Humber College Terminal - Route 11 / 11A Stop',43.729015,-79.604919
+15090801,'4226','Humber College Term - Route 50 / 50A Stop',43.728943,-79.604408
+15090802,'4227','Humber College Term- Zum Steeles 511 / 511A / 511C',43.729156,-79.605278
+15090803,'4228','Humber College Term - Route 11 / 11A Stop',43.729015,-79.604919
 15090804,'1007','Williams - Zum Queen West Sta Stop SB',43.658333,-79.818245
 15090805,'1091','Mississauga Rd Opp Credit Rdg Commons',43.655933,-79.814972
 15090806,'1092','Mississauga Rd S / Of Settlers Field Rd',43.653648,-79.81179
@@ -2715,7 +2715,7 @@
 18043008,'4136','Chinguacousy Wellness Ctr',43.749214,-79.741806
 18043009,'4137','Ashby Field Rd E / Of Elbern Markell Dr',43.668064,-79.819611
 18090401,'4138','Veterans Dr Btwn Fann Dr & Sandalwood Pkwy',43.683002,-79.843956
-18090402,'4139','Brampton Gateway Terminal Route 8 Stop',43.665138,-79.734573
+18090402,'4139','Brampton Gateway Term Route 8 Stop',43.665138,-79.734573
 18090403,'4140','Morning Star - Zum Bovaird Stop SB',43.70937,-79.6502
 18090406,'4143','Veterans Dr N / Of Monument Tr',43.686741,-79.849808
 18090412,'4149','Robert Parkinson Dr S / Of Mayfield Rd',43.702095,-79.859055
@@ -2754,7 +2754,7 @@
 18090452,'4189','Mountainash Rd N / Of Judson Gt',43.776535,-79.752266
 18090453,'4190','Mountainash Rd S / Of Welland Rd',43.777729,-79.753883
 18090454,'4191','Countryside Dr Opp Frobischer Dr',43.77684,-79.758369
-18090455,'7223','Smart VMC Terminal - Route 501 Zum Queen WB',43.797424,-79.527649
+18090455,'7223','Smart VMC Term - Route 501 Zum Queen WB',43.797424,-79.527649
 18090457,'4194','Malton GO Sta - Route 505 Stop',43.705315,-79.638298
 18090458,'4195','Sandalwood Pkwy E / Of Robert Parkinson Dr',43.686993,-79.837662
 18090459,'4196','Sandalwood Pkwy W / Of Robert Parkinson Dr',43.686554,-79.838394
@@ -2795,9 +2795,9 @@
 19090330,'5012','Kennedy Rd N / Of Snellview Blvd',43.745556,-79.817268
 19090331,'5013','Kennedy Rd N / Of Mayfield Rd',43.743885,-79.81498
 19090332,'4250','Creditview Rd N / Of Veterans Dr',43.676228,-79.829155
-19090334,'4252','Bramalea GO Temp Terminal - Route 13 / 16',43.702145,-79.692383
-19090335,'4253','Bramalea GO Temp Terminal - Route 15 / 15A NB',43.701756,-79.692245
-19090336,'4254','Bramalea GO Temp Terminal - Route 15 SB / 92 AM',43.701977,-79.692047
+19090334,'4252','Bramalea GO Temp Term - Route 13 / 16',43.702145,-79.692383
+19090335,'4253','Bramalea GO Temp Term - Route 15 / 15A NB',43.701756,-79.692245
+19090336,'4254','Bramalea GO Temp Term - Route 15 SB / 92 AM',43.701977,-79.692047
 19090337,'4255','Torbram Rd S / Of Father Tobin Rd',43.770882,-79.756004
 19090338,'4256','The Gore Rd S / Of Mayfield Rd',43.819111,-79.726837
 19090339,'4257','Mississauga Rd S / Of Royal West Dr',43.662159,-79.822662
