@@ -134,7 +134,7 @@
 1650,'1149','Kensington Rd @ Kingscross Rd',43.721161,-79.718788
 1660,'1150','Kensington Rd Opp Bramalea Medical Ctr',43.722038,-79.717278
 1670,'1151','Kensington Rd @ Bramalea Rd',43.722824,-79.715935
-1680,'1152','Bramalea Rd @ Knightsbridge Rd - Rte 12 Only',43.72179,-79.714058
+1680,'1152','Bramalea Rd @ Knightsbridge Rd - Rte 12 ONLY',43.72179,-79.714058
 1720,'1153','Finchgate Blvd @ Feston Pl',43.726265,-79.70916
 1730,'1154','Finchgate Blvd @ Queen St E',43.727543,-79.71225
 1740,'1155','Glenvale Blvd S / Of Gatwick Ln',43.729168,-79.714539
@@ -1103,7 +1103,7 @@
 14900,'2266','Airport Rd Btwn Williams Pky E & Cottrelle Blvd',43.756264,-79.712593
 14905,'2267','Cottrelle - Zum Bovaird Sta Stop NB',43.759209,-79.716553
 14906,'2268','Airport Rd @ Triple Crown Dr',43.760899,-79.718803
-14910,'2269','Airport Rd @ Castlemore Rd - Rte 30 / 35 Only',43.762756,-79.721252
+14910,'2269','Airport Rd @ Castlemore Rd - Rte 30 / 35 ONLY',43.762756,-79.721252
 14915,'2270','Airport Rd @ Mistymorning Dr',43.765354,-79.724785
 14920,'2271','Airport Rd N / Of Humberwest Pkwy',43.769352,-79.730225
 14930,'2272','Airport Rd @ Braydon Blvd',43.772808,-79.734924
@@ -1778,7 +1778,7 @@
 26730,'3160','Williams Pky W W / Of Chinguacousy Rd',43.681656,-79.802948
 26735,'3161','Williams Pky W Btwn Whitewash Way & Chinguacousy',43.682888,-79.800896
 26790,'3165','County Court South - Zum Main Sta Stop NB',43.659122,-79.72364
-26792,'6131','Hwy 407 Pk & Ride',43.65218,-79.711586
+26792,'6131','HWY 407 P&R',43.65218,-79.711586
 26800,'3167','County Court North - Zum Main Sta Stop NB',43.662216,-79.727768
 26805,'6132','Hurontario St @ Topflight Dr',43.650177,-79.712067
 26807,'6162','Hurontario St @ Longside Dr',43.643623,-79.703331
@@ -2176,7 +2176,7 @@
 47000,'3551','Cottrelle Blvd E / Of Redwillow Rd',43.773048,-79.699448
 47010,'3552','Cottrelle Blvd S / Of Prince Edward Blvd',43.772034,-79.696236
 47020,'3553','Cottrelle Blvd W / Of Huntspoint Dr',43.771091,-79.694267
-47021,'3764','Cottrelle Blvd E / Of Huntspoint Dr - 214 Only',43.77095,-79.692429
+47021,'3764','Cottrelle Blvd E / Of Huntspoint Dr - 214 ONLY',43.77095,-79.692429
 47030,'3554','Cottrelle Blvd W / Of Maple Vly St',43.771381,-79.690704
 47040,'3555','Cottrelle Blvd @ McVean Dr',43.77264,-79.688774
 47051,'3666','Cottrelle Blvd W / Of Midsummer Dr',43.774471,-79.68541
@@ -2270,8 +2270,8 @@
 51115,'1080','Goreway - Zum Steeles Sta Stop WB',43.73283,-79.658905
 51116,'4111','Finch - Zum Steeles Sta Stop EB',43.742043,-79.646614
 51117,'4112','Finch - Zum Steeles Sta Stop WB',43.742527,-79.647896
-55560,'3884','Bramalea Rd @ Smart Centres',43.770779,-79.779663
-55565,'3885','Smart Centres - Walmart Plz',43.771729,-79.778717
+55560,'3884','Bramalea Rd @ Smart Ctrs',43.770779,-79.779663
+55565,'3885','Smart Ctrs - Walmart Plz',43.771729,-79.778717
 55575,'3887','Bramalea Rd N / Of Countryside Dr',43.764442,-79.771507
 90100,'3507','Dixie Rd @ Countryside Dr',43.754055,-79.781219
 90410,'3597','Inder Hts Dr @ Eddystone Cr - 201 School Only',43.73732,-79.812424
@@ -2562,7 +2562,7 @@
 16021501,'2772','Airport Rd Opp Treeline Blvd',43.780735,-79.74617
 16050901,'2775','Dixie Rd N / Of Templehill Rd',43.752144,-79.778671
 16050902,'2776','Mavis Rd N / Of Clementine Dr',43.644279,-79.751282
-16050903,'2777','Smart Centres - Walmart Plz',43.77179,-79.778923
+16050903,'2777','Smart Ctrs - Walmart Plz',43.77179,-79.778923
 16050904,'2778','Biscayne Cres E / Of 1st Gulf Blvd (S)',43.677006,-79.712326
 16050905,'2779','Biscayne Cres N / Of Clipper Crt',43.677845,-79.709961
 16050906,'2780','Biscayne Cres @ 150 Biscayne Cres',43.680031,-79.710922
