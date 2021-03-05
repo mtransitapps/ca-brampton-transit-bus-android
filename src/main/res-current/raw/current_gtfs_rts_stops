@@ -341,7 +341,7 @@
 4420,'1384','Bramalea Rd @ Algonquin Blvd',43.713436,-79.702827
 4430,'1385','Bramalea Rd @ Alexandria Gt',43.711197,-79.699821
 4440,'1386','Bramalea Rd @ Avondale Blvd',43.708981,-79.696877
-4500,'3464','Mayfield Secondary School',43.773594,-79.7817
+4500,'3464','Mayfield SS',43.773594,-79.7817
 4720,'1412','Bramalea Rd S / Of Dewside Dr',43.757149,-79.761124
 4780,'1413','Dearbourne Blvd Opp Dorset Dr (E / Of Bramalea Rd)',43.709908,-79.695061
 4790,'1414','Dearbourne Blvd Opp Delmere Rd',43.712704,-79.692055
@@ -805,7 +805,7 @@
 10925,'4054','Sunny Mdw Blvd Btwn Vanderbrink Dr & Serenes',43.764412,-79.759483
 10929,'4053','Sunny Mdw Blvd N / Of Australia Dr',43.763508,-79.758255
 10930,'1921','Sunny Mdw Blvd @ Australia Dr',43.762951,-79.757759
-10931,'4052','Sunny Mdw Blvd @ Stanley Mills Public School',43.760777,-79.757362
+10931,'4052','Sunny Mdw Blvd @ Stanley Mills Public S',43.760777,-79.757362
 10934,'4051','Sunny Mdw Blvd S / Of Chapparal Dr',43.762009,-79.757004
 10938,'4050','Sunny Mdw N / Of Black Cherry Ln',43.759289,-79.757057
 10940,'1922','Sunny Mdw Blvd Opp Black Cherry Ln',43.759144,-79.757225
@@ -989,14 +989,14 @@
 13150,'2122','Wanless Dr W / Of Queen Mary Dr',43.71283,-79.827652
 13160,'2123','Wanless Dr E / Of McLaughlin Rd N',43.716122,-79.823921
 13170,'2124','Wanless Dr W / Of Van Kirk Dr',43.718109,-79.821724
-13230,'2128','Conservation Dr Opp Axminster Rd - 201 School Only',43.734653,-79.804764
+13230,'2128','Conservation Dr Opp Axminster Rd - 201 S Only',43.734653,-79.804764
 13240,'2129','Kennedy Dr N S / Of Conservation Dr',43.735241,-79.803154
 13250,'2130','Kennedy Rd N Opp McFadden Dr',43.734291,-79.801826
 13260,'2131','Kennedy Rd N S / Of Somerset Dr',43.731716,-79.798332
 13383,'4086','Kennedy Rd @ Richvale Dr - School Only',43.732143,-79.79837
-13385,'2137','Kennedy Rd N @ McFadden Dr - 201 School Only',43.7342,-79.801216
-13400,'2139','Conservation Dr @ Axminister Rd - 201 School Only',43.734661,-79.804947
-13410,'2140','Conservation Dr @ Carnforth Dr - 201 School Only',43.733139,-79.806587
+13385,'2137','Kennedy Rd N @ McFadden Dr - 201 S Only',43.7342,-79.801216
+13400,'2139','Conservation Dr @ Axminister Rd - 201 S Only',43.734661,-79.804947
+13410,'2140','Conservation Dr @ Carnforth Dr - 201 S Only',43.733139,-79.806587
 13470,'2144','Wanless Dr E / Of Van Kirk Dr',43.718754,-79.821472
 13480,'2145','McLaughlin Rd S / Of Wanless Dr',43.715103,-79.823738
 13610,'2153','Edenbrook Hl Dr Opp Queen Mary Dr',43.693844,-79.80661
@@ -1004,8 +1004,8 @@
 13630,'2155','Fletchers Crk Blvd S / Of Bovaird Dr W',43.690716,-79.802429
 13650,'2156','Fletchers Crk Blvd @ Binder Twine Trl',43.687069,-79.797546
 13660,'2157','Fletchers Crk Blvd Opp Porchlight Rd',43.685936,-79.793999
-13675,'4087','Carnforth Dr @ Ramsgate Crt - 201 School Only',43.734257,-79.808983
-13676,'4090','Carforth Dr @ Lennox Crt - 201 School Only',43.73481,-79.809937
+13675,'4087','Carnforth Dr @ Ramsgate Crt - 201 S Only',43.734257,-79.808983
+13676,'4090','Carforth Dr @ Lennox Crt - 201 S Only',43.73481,-79.809937
 13680,'2158','Williams Pky W E / Of McLaughlin Rd N',43.688801,-79.78669
 13730,'2159','Vodden St W @ Mill St N',43.690033,-79.772858
 13740,'2160','Vodden St W @ Main St N',43.692654,-79.769669
@@ -1014,7 +1014,7 @@
 13880,'2165','McLaughlin Rd S N / Of Elgin St',43.664352,-79.754433
 13895,'2166','McLaughlin Rd S N / Of Curtis Dr',43.665554,-79.756149
 13900,'2167','McLaughlin Rd S @ Harold St',43.668404,-79.760025
-13910,'2168','McLaughlin Rd S @ John Knox Christian School',43.671558,-79.76432
+13910,'2168','McLaughlin Rd S @ John Knox Christian S',43.671558,-79.76432
 13920,'2169','McLaughlin Rd S @ Corona Gt',43.672638,-79.765762
 13930,'2170','Flower City Community Campus Route 1 / 1A / 3A / 57 Stop',43.671368,-79.769836
 13935,'2171','McLaughlin Rd S N / Of Bufford Dr',43.674694,-79.768578
@@ -1187,7 +1187,6 @@
 15850,'2376','Brisdale Dr S / Of Grovewood Dr',43.684845,-79.814835
 15860,'2377','Brisdale Dr @ Bovaird Dr W',43.683578,-79.812599
 15870,'2378','Worthington - Zum Bovaird Sta Stop WB',43.681026,-79.814537
-15875,'2379','Bovaird Dr W @ Mt Pleasant GO',43.673599,-79.821686
 15880,'2380','Mt Pleasant GO Sta Route 4 / 4A / 104 Stop',43.674526,-79.821907
 15895,'2381','Bovaird Dr W E / Of Ashby Field Rd',43.673622,-79.820763
 15900,'2382','Lk Louise - Zum Bovaird Sta Stop EB',43.680984,-79.81395
@@ -1365,13 +1364,13 @@
 17865,'8065','Humber College Blvd W / Of John Garland Blvd',43.733593,-79.593796
 17866,'8066','John Gardland Blvd S / Of Finch Ave W',43.735603,-79.594666
 17867,'8067','Finch Ave E / Of Damascus Dr',43.735554,-79.597382
-17868,'8068','Finch Ave E / Of Hwy 27',43.734467,-79.60215
 17869,'8069','Finch Ave E / Of Woodbine Downs Blvd',43.73381,-79.606415
-17870,'8030','Finch Ave @ Humber College Blvd',43.734028,-79.610191
+17870,'8030','Finch Ave W / Of Humber College Blvd',43.734028,-79.610191
 17871,'8070','Woodbine Downs Blvd N / Of Finch Ave',43.73494,-79.606178
 17872,'8071','Woodbine Downs Blvd S / Of Carrier Dr @ McDonalds',43.737843,-79.607079
 17881,'8072','Humber College Blvd S / Of Carrier Dr',43.737476,-79.610786
 17882,'8073','Humber College Blvd N / Of Finch Ave',43.735645,-79.609962
+17883,'8074','Finch Ave E / Of Westmore Dr',43.734863,-79.60067
 17960,'2590','County Court Blvd Opp Turtlecreek Blvd',43.662762,-79.725975
 17970,'2591','County Court Blvd Opp Seminole Dr',43.664242,-79.723869
 17980,'2592','County Court Blvd Opp Mossbank Dr (S)',43.663811,-79.721588
@@ -1383,7 +1382,7 @@
 18030,'2597','Ray Lawson Blvd Opp Cherrytree Dr (W)',43.654434,-79.728096
 18031,'4098','Ray Lawson Blvd @ Cherrytree Dr (W)',43.654469,-79.727753
 18040,'2598','Ray Lawson Blvd @ Timberlane Dr',43.653282,-79.732414
-18045,'4094','Ray Lawson Blvd @ Windmill Blvd - 206 School Only',43.649891,-79.737587
+18045,'4094','Ray Lawson Blvd @ Windmill Blvd - 206 S Only',43.649891,-79.737587
 18050,'2599','Ray Lawson Blvd @ McLaughlin Rd S',43.651474,-79.736153
 18053,'2600','McLaughlin Rd Btwn Ray Lawson Blvd & Kingknoll Dr',43.652504,-79.738052
 18055,'2601','McLaughlin Rd S S / Of Kingknoll Dr',43.653912,-79.739853
@@ -1533,7 +1532,7 @@
 20300,'2791','Queen St E E / Of Delta Pk Blvd',43.746506,-79.692017
 20310,'2792','Queen St E @ Auction Ln',43.749832,-79.688065
 20355,'2796','Chrysler Dr S / Of Williams Pky E',43.748287,-79.714157
-20370,'7018','Hwy 7 W / Of Roybridge Gt (Drop-Off Only)',43.771786,-79.626015
+20370,'7018','Hwy 7 W / Of Roybridge Gt',43.771786,-79.626015
 20390,'7019','Hwy 7 E / Of Hwy 27',43.773907,-79.617912
 20400,'7021','Hwy 7 E / Of Martin Grv Rd',43.775921,-79.608658
 20420,'7023','Hwy 7 @ Kipling Ave',43.778484,-79.597504
@@ -1552,7 +1551,7 @@
 21020,'7080','Hwy 7 W / Of Kipling Ave',43.778904,-79.597046
 21040,'7082','Hwy 7 @ Martin Grv Rd',43.776035,-79.60923
 21060,'7084','Hwy 7 E / Of Hwy 27',43.773556,-79.620323
-21070,'7085','Hwy 7 E / Of Vaughan Vly Blvd (Pick-Up Only)',43.772438,-79.624916
+21070,'7085','Hwy 7 E / Of Vaughan Vly Blvd',43.772438,-79.624916
 21100,'2881','Queen St E W / Of Palleschi Dr',43.765198,-79.661736
 21135,'2885','Queen St E @ Auction Ln',43.750946,-79.687393
 21137,'2886','Queen St E @ Maritime Ontario',43.745823,-79.693443
@@ -1787,7 +1786,7 @@
 27000,'3171','The Gore Rd Opp Strathdale Rd',43.784954,-79.680283
 27010,'3172','The Gore Rd N / Of Castle Oaks Xing',43.787437,-79.683411
 27012,'3709','The Gore Rd Opp Fitzpatrick Dr',43.788586,-79.684998
-27013,'3753','The Gore Rd Opp Castlemore School',43.789932,-79.686859
+27013,'3753','The Gore Rd Opp Castlemore S',43.789932,-79.686859
 27020,'3618','The Gore Rd S / Of Castlemore Rd',43.791809,-79.689369
 27040,'3652','Castlemore Rd W / Of Bloom Dr',43.794121,-79.687042
 27045,'3651','Castlemore Rd W / Of Gardenbrooke Tr',43.796528,-79.684242
@@ -2274,12 +2273,12 @@
 55565,'3885','Smart Ctrs - Walmart Plz',43.771729,-79.778717
 55575,'3887','Bramalea Rd N / Of Countryside Dr',43.764442,-79.771507
 90100,'3507','Dixie Rd @ Countryside Dr',43.754055,-79.781219
-90410,'3597','Inder Hts Dr @ Eddystone Cr - 201 School Only',43.73732,-79.812424
-90415,'4089','Inder Hts Dr @ Ravinder Crt - 201 School Only',43.738728,-79.815926
-90420,'3598','Inder Hts Dr Opp Mohan Crt - 201 School Only',43.736504,-79.813797
-90425,'4088','Inder Hts Dr @ Redtail Crt - 201 School Only',43.737385,-79.815254
+90410,'3597','Inder Hts Dr @ Eddystone Cr - 201 S Only',43.73732,-79.812424
+90415,'4089','Inder Hts Dr @ Ravinder Crt - 201 S Only',43.738728,-79.815926
+90420,'3598','Inder Hts Dr Opp Mohan Crt - 201 S Only',43.736504,-79.813797
+90425,'4088','Inder Hts Dr @ Redtail Crt - 201 S Only',43.737385,-79.815254
 90500,'4091','Braidwood Lk Rd @ Ridelle Crt - School Only',43.726795,-79.811874
-90600,'3511','Cresthaven Rd W / Of Buffridge Trl - 202 School',43.726807,-79.818848
+90600,'3511','Cresthaven Rd W / Of Buffridge Trl - 202 S',43.726807,-79.818848
 90601,'3628','Van Kirk Dr @ Wanless Dr',43.718498,-79.821976
 90610,'3512','Van Kirk Dr @ Bramtrail Gt',43.720776,-79.824471
 90620,'3513','Van Kirk Dr @ Game Crk Cres',43.721985,-79.826462
@@ -2312,7 +2311,7 @@
 91385,'3809','Royal West Dr S / Of Airlie Crt',43.650162,-79.800598
 91600,'3531','Christie Dr E / Of Kennedy Rd',43.737743,-79.80529
 91610,'3532','Kenpark Ave Opp Starling Crt',43.743462,-79.811302
-91611,'4093','Kenpark Ave W / Of Kingfisher Crt - 202 School Only',43.744392,-79.811195
+91611,'4093','Kenpark Ave W / Of Kingfisher Crt - 202 S Only',43.744392,-79.811195
 91650,'3810','Royal West Dr S / Of Adamsville Rd N',43.651901,-79.805588
 91655,'3811','Royal West Dr S / Of Beacon Hl Dr',43.655029,-79.809746
 91660,'3812','Royal West Dr Btwn Beacon Hl Dr & Williams Pkwy',43.658123,-79.811043
@@ -2717,6 +2716,8 @@
 18090401,'4138','Veterans Dr Btwn Fann Dr & Sandalwood Pkwy',43.683002,-79.843956
 18090402,'4139','Brampton Gateway Term Route 8 Stop',43.665138,-79.734573
 18090403,'4140','Morning Star - Zum Bovaird Stop SB',43.70937,-79.6502
+18090404,'4141','Derry - Zum Bovaird Stop SB',43.704338,-79.642563
+18090405,'4142','Derry - Zum Bovaird Stop NB',43.70459,-79.642548
 18090406,'4143','Veterans Dr N / Of Monument Tr',43.686741,-79.849808
 18090412,'4149','Robert Parkinson Dr S / Of Mayfield Rd',43.702095,-79.859055
 18090413,'4150','Edenbrook Hl Dr Opp Mincing Trl',43.71537,-79.842033
