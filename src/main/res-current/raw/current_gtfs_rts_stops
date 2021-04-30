@@ -1485,7 +1485,7 @@
 19490,'6120','Hurontario St N / Of Ambassador Dr',43.639767,-79.697403
 19500,'6121','Hurontario St N / Of Superior Blvd',43.641731,-79.700058
 19510,'6122','Hurontario St N / Of Admiral Blvd',43.644035,-79.703171
-19520,'6123','Hurontario St @ Derry Rd',43.646164,-79.705765
+19520,'6123','Hurontario St @ Derry Rd',43.645782,-79.705498
 19530,'6124','Derry Rd @ Edwards Blvd',43.648415,-79.703339
 19540,'6125','Derry Rd Btwn Edwards Blvd & Kenderry Gt',43.650726,-79.700699
 19550,'6126','Derry Rd @ Kenderry Gt',43.652077,-79.699341
@@ -1530,7 +1530,7 @@
 20200,'2785','Bramalea Rd N / Of Fleetwood Cres',43.721962,-79.713913
 20270,'2788','Queen St Btwn Gateway Blvd & Airport Rd',43.740379,-79.699158
 20300,'2791','Queen St E E / Of Delta Pk Blvd',43.746506,-79.692017
-20310,'2792','Queen St E @ Auction Ln',43.749832,-79.688065
+20310,'2792','Queen St W / Of Auction Ln',43.749832,-79.688065
 20355,'2796','Chrysler Dr S / Of Williams Pky E',43.748287,-79.714157
 20370,'7018','Hwy 7 W / Of Roybridge Gt',43.771786,-79.626015
 20390,'7019','Hwy 7 E / Of Hwy 27',43.773907,-79.617912
@@ -1553,7 +1553,7 @@
 21060,'7084','Hwy 7 E / Of Hwy 27',43.773556,-79.620323
 21070,'7085','Hwy 7 E / Of Vaughan Vly Blvd',43.772438,-79.624916
 21100,'2881','Queen St E W / Of Palleschi Dr',43.765198,-79.661736
-21135,'2885','Queen St E @ Auction Ln',43.750946,-79.687393
+21135,'2885','Queen St E / Of Sun Pac Blvd',43.750946,-79.687393
 21137,'2886','Queen St E @ Maritime Ontario',43.745823,-79.693443
 21160,'2888','Queen St E @ Canadian Tire',43.740463,-79.699715
 21200,'2890','Torbram Rd N / Of Queen St E',43.734882,-79.708061
@@ -2011,7 +2011,6 @@
 44060,'3366','Bramalea Rd @ Sandalwood Pky E',43.754292,-79.757866
 44061,'4065','Bramalea Rd Btwn Dewside Dr & Father Tobin Rd',43.759617,-79.764465
 44065,'4066','Bramalea Rd S / Of Father Tobin Rd',43.761032,-79.766403
-44070,'3367','Father Tobin Rd E / Of Torbram Rd',43.771217,-79.755989
 44080,'3368','Father Tobin Rd @ Tundra Swan Rd',43.77227,-79.754562
 44090,'3369','Father Tobin Rd @ Polar Bear Pl',43.773197,-79.753258
 44100,'3370','Father Tobin Rd @ Mountainash Rd',43.775047,-79.750648
@@ -2355,7 +2354,7 @@
 93880,'3870','Castlemore Rd Opp Gardenbrooke Trl',43.797222,-79.684074
 93885,'3871','Castlemore Rd Opp Bloom Dr',43.794834,-79.686852
 93890,'3872','Castlemore Rd E / Of The Gore Rd',43.792393,-79.689705
-93950,'3825','Exch Dr W / Of Humberwest Pkwy',43.754738,-79.688118
+93950,'3825','Humberwest Pkwy S / Of Exch Dr',43.754604,-79.687553
 94000,'3784','Chinguacousy Rd S / Of Earlsbridge Blvd',43.701263,-79.828438
 94005,'3785','Chinguacousy Rd S / Of Sugarhill Dr',43.703739,-79.831825
 94010,'3786','Wanless Dr W / Of Chinguacousy Rd',43.705845,-79.835823
@@ -2799,7 +2798,7 @@
 19090334,'4252','Bramalea GO Temp Term - Route 13 / 16',43.702145,-79.692383
 19090335,'4253','Bramalea GO Temp Term - Route 15 / 15A NB',43.701756,-79.692245
 19090336,'4254','Bramalea GO Temp Term - Route 15 SB / 92 AM',43.701977,-79.692047
-19090337,'4255','Torbram Rd S / Of Father Tobin Rd',43.770882,-79.756004
+19090337,'4255','Torbram Rd @ Father Tobin Rd',43.770882,-79.756004
 19090338,'4256','The Gore Rd S / Of Mayfield Rd',43.819111,-79.726837
 19090339,'4257','Mississauga Rd S / Of Royal West Dr',43.662159,-79.822662
 19102800,'4258','Castlemore Rd E / Of McVean Dr',43.782913,-79.700104
