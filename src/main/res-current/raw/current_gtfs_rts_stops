@@ -409,8 +409,8 @@
 5780,'6055','Courtneypark Dr @ Van Deemter Crt',43.666088,-79.655106
 5790,'6056','Courtneypark Dr @ 1750 Courtneypark Dr',43.66777,-79.653183
 5800,'6057','Courtneypark Dr @ 1820 Courtneypark Dr',43.669022,-79.651756
-5810,'6058','Courtneypark Dr @ Netherhart Rd',43.671818,-79.648415
-5820,'6059','Netherhart Rd @ Bonhill Rd',43.670506,-79.646873
+5810,'6058','Courtneypark Dr W / Of Netherhart Rd',43.671688,-79.648613
+5820,'6059','Netherhart Rd N / Of Bonhill Rd',43.670506,-79.646873
 5825,'6060','Meyerside Dr W / Of Netherhart Rd',43.668152,-79.645149
 5840,'6061','Meyerside Dr @ 1795 Meyerside Dr',43.666782,-79.646782
 5850,'6062','Meyerside Dr @ 1715 Meyerside Dr',43.665359,-79.648285
@@ -1352,7 +1352,7 @@
 17863,'8063','Humber College Blvd W / Of Westmore Dr',43.730778,-79.599602
 17864,'8064','Humber College Blvd W / Of Lynmount Rd',43.731819,-79.596062
 17865,'8065','Humber College Blvd W / Of John Garland Blvd',43.733593,-79.593796
-17866,'8066','John Gardland Blvd S / Of Finch Ave W',43.735603,-79.594666
+17866,'8066','John Garland Blvd S / Of Finch Ave W',43.735603,-79.594666
 17867,'8067','Finch Ave E / Of Damascus Dr',43.735729,-79.596779
 17868,'8068','Finch Ave E / Of Hwy 27',43.734467,-79.60215
 17869,'8069','Finch Ave E / Of Woodbine Downs Blvd',43.73381,-79.606415
@@ -2085,7 +2085,6 @@
 44910,'3457','Father Tobin Rd W / Of Moldovan Dr',43.769833,-79.757904
 44920,'3458','Father Tobin Rd Opp Sugarcane Ave',43.767803,-79.759048
 44930,'3459','Father Tobin Rd @ Sunny Mdw Blvd',43.76614,-79.761383
-44940,'3460','Sunny Mdw Blvd @ Finlayson Cres',43.767502,-79.764122
 44945,'4059','Sunny Mdw Blvd N / Of Resserville St',43.76762,-79.765289
 44950,'3461','Countryside Dr E / Of Sunny Mdw Blvd',43.768761,-79.766548
 44960,'3462','Countryside Dr @ Moldovan Dr',43.771706,-79.763763
@@ -2789,5 +2788,5 @@
 21062803,'4270','Mountainash Rd S / Of Father Tobin Rd',43.774891,-79.750237
 21062804,'4271','Remembrance Rd W / Of McLaughlin Rd',43.717911,-79.827934
 21090600,'4272','Veterans Dr N / Of Nightjar Dr',43.691223,-79.857658
-21090601,'4273','Veterans Dr S / Of Elverton Cres (S)',43.691074,-79.85717
 21090602,'4274','Castlemore Rd Opp Valleycreek Dr',43.77549,-79.708588
+21110100,'4275','Bramalea Rd N / Of Inspire Blvd',43.769684,-79.778679
