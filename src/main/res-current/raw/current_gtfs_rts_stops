@@ -62,7 +62,6 @@
 670,'1064','Steeles Ave E Btwn Tomken Rd & Dixie Rd',43.692356,-79.704086
 680,'1065','Steeles Ave W / Of Dixie Rd',43.694267,-79.701942
 700,'1067','Steeles Ave E @ Advance Blvd',43.698715,-79.696487
-710,'1068','Steeles Ave @ Bramalea GO Sta',43.702145,-79.693146
 730,'1070','Steeles Ave E @ Melanie Dr (W)',43.710072,-79.684311
 740,'1071','Steeles Ave E @ Melanie Dr (E)',43.712017,-79.682114
 760,'1073','Steeles Ave E Opp Pearson Convention Ctr',43.721794,-79.671021
@@ -106,7 +105,6 @@
 1250,'1114','Steeles Ave E @ Bramalea GO Sta',43.702911,-79.692909
 1260,'1115','Steeles Ave W / Of Advance Blvd',43.698204,-79.69783
 1280,'1117','Steeles Ave E Btwn Dixie Rd & West Dr',43.69276,-79.704132
-1300,'1119','Steeles Ave Btwn Hwy 410 & West Dr',43.688606,-79.708687
 1315,'1121','Steeles Ave E E / Of Resolution Dr',43.678406,-79.719986
 1320,'1122','Steeles Ave E / Of Kennedy Rd',43.676125,-79.722481
 1340,'1124','Steeles Ave E @ Orchard Dr',43.673527,-79.72525
@@ -220,7 +218,7 @@
 2720,'1249','Dixie Rd S / Of Clark Blvd',43.710583,-79.722198
 2735,'3771','Gore Mdws CC - Route 50 / 50A & 36 Stop',43.793678,-79.695587
 2740,'1251','Avondale Blvd @ Bramalea Rd',43.708691,-79.696747
-2750,'1252','Bramalea Rd Opp East Dr',43.70755,-79.694954
+2750,'1252','Bramalea Rd S / Of East Dr',43.707138,-79.694389
 2760,'1253','Bramalea Rd @ Orenda Rd',43.706051,-79.69294
 2770,'1254','Bramalea Rd S / Of Steeles Ave E',43.704227,-79.689842
 2816,'6157','Westwood Mall Term Route 14 Stop',43.72147,-79.640327
@@ -278,7 +276,7 @@
 3560,'1314','Torbram Rd @ East Dr',43.717182,-79.684097
 3570,'1315','Torbram Rd @ Steeles Ave E',43.71476,-79.68055
 3580,'1316','Torbram Rd S / Of Steeles Ave E',43.713772,-79.679115
-3590,'1317','1317 Tobram Rd @ Waste Manager',43.710209,-79.674347
+3590,'1317','7795 Torbram Rd @ Waste Management',43.710209,-79.674347
 3600,'6025','Torbram Rd @ Rena Rd',43.705471,-79.667992
 3620,'6027','Torbram Rd N / Of Kimbel St',43.701797,-79.663116
 3630,'6028','Torbram Rd @ Drew Rd',43.699268,-79.659576
@@ -293,6 +291,7 @@
 3720,'6038','Goreway Dr @ Dorcas St',43.715149,-79.633499
 3730,'6039','Goreway Dr @ Etude Dr',43.717125,-79.636162
 3740,'6040','Goreway Dr @ Jolliffe Ave',43.719147,-79.639
+3760,'1335','Advance Blvd @ Steeles Ave E',43.698093,-79.69664
 3810,'1336','Bramalea Rd N / Of Dearbourne Blvd',43.709282,-79.696907
 3820,'1337','Bramalea Rd Opp Alexandria Gt',43.711182,-79.699471
 3830,'1338','Bramalea Rd Opp Algonquin Blvd',43.713566,-79.70266
@@ -341,7 +340,33 @@
 4420,'1384','Bramalea Rd @ Algonquin Blvd',43.713436,-79.702827
 4430,'1385','Bramalea Rd @ Alexandria Gt',43.711197,-79.699821
 4440,'1386','Bramalea Rd @ Avondale Blvd',43.708981,-79.696877
+4470,'1387','Orenda Rd W / Of Bramalea Rd',43.705582,-79.693153
+4480,'1388','Orenda Rd @ Victoria Cres (E)',43.704678,-79.694237
+4490,'1389','Orenda Rd @ Victoria Cres (W)',43.702976,-79.696312
 4500,'3464','Mayfield SS',43.773594,-79.7817
+4505,'3587','Orenda Rd E @ 346 Orenda Rd',43.701981,-79.699501
+4510,'1391','Orenda Rd @ 318 Orenda Rd',43.701508,-79.701851
+4520,'1392','Orenda Rd @ Dover Cup',43.700897,-79.70488
+4530,'1393','Orenda Rd @ Dixie Rd',43.700249,-79.707382
+4540,'1394','Orenda Rd W / Of Dixie Rd',43.700855,-79.711823
+4550,'1395','Orenda Rd @ West Dr',43.699734,-79.716408
+4560,'1396','West Dr S / Of Glidden Rd',43.694897,-79.712784
+4570,'1397','West Dr @ Finley Rd',43.692352,-79.709328
+4575,'1398','West Dr @ Steeles Ave E',43.690952,-79.707497
+4580,'1399','Tomken Rd S / Of Steeles Ave E',43.689693,-79.705818
+4590,'1400','Steelwell Rd @ Laila''s Whse',43.68771,-79.70668
+4600,'1401','Steelwell Rd @ Hedgedale Rd',43.686111,-79.707581
+4610,'1402','Steelwell Rd @ Nissan Whse',43.683941,-79.706047
+4620,'1403','Steelwell Rd @ Westcreek Blvd',43.683407,-79.704437
+4630,'1404','Westcreek Blvd E / Of Hedgedale Rd',43.685127,-79.7015
+4640,'1405','Advance Blvd E / Of Tomken Rd',43.686539,-79.700195
+4650,'1406','Advance Blvd E / Of Copper Rd',43.68816,-79.698471
+4660,'1407','Advance Blvd @ Willkinson Rd',43.689442,-79.697098
+4670,'1408','Advance Blvd E / Of Dixie Rd',43.69149,-79.694817
+4680,'1409','Advance Blvd E / Of Rainham Crt',43.692436,-79.693764
+4690,'1410','Advance Blvd @ 175 Advance Blvd',43.693386,-79.69278
+4700,'1411','Advance Blvd @ Alfred Kuehne Blvd',43.695633,-79.693298
+4710,'3630','Advance Blvd Btwn Alfred Kuehne Blvd & Strathearn',43.697361,-79.695396
 4720,'1412','Bramalea Rd S / Of Dewside Dr',43.757149,-79.761124
 4780,'1413','Dearbourne Blvd Opp Dorset Dr (E / Of Bramalea Rd)',43.709908,-79.695061
 4790,'1414','Dearbourne Blvd Opp Delmere Rd',43.712704,-79.692055
@@ -1101,7 +1126,7 @@
 14950,'2274','Airport Rd @ Treeline Blvd',43.780388,-79.745209
 14960,'2275','Airport Rd S / Of Countryside Dr',43.78297,-79.748711
 14970,'2276','Airport Rd S / Of Lacoste Blvd',43.78653,-79.753532
-14980,'2277','Airport Rd S / Of Mayfield Rd',43.790394,-79.758728
+14980,'2277','Airport Rd S / Of Mayfield Rd',43.790916,-79.759415
 14989,'5001','12101 Airport Rd',43.793247,-79.762665
 14990,'5000','Airport Rd N / Of Davis Ln',43.795448,-79.765625
 15040,'2282','Goreway Dr S / Of Countryside Dr',43.792294,-79.73761
@@ -1318,6 +1343,8 @@
 17563,'2546','The Gore Rd N / Of Ebenezer Rd',43.773064,-79.664253
 17565,'3595','The Gore Rd S / Of Tyler Ave',43.775803,-79.667786
 17568,'3596','The Gore Rd S / Of Eastbrook Way',43.777802,-79.670479
+17590,'2549','Westbrook Ave @ Diploma Dr',43.773922,-79.67289
+17600,'2550','Westbrook Ave @ Flatfield Way',43.775639,-79.675323
 17605,'2551','Cottrelle Blvd E / Of Westbrook Ave',43.777084,-79.676819
 17620,'2553','The Gore Rd S / Of Panahill Dr',43.782562,-79.677391
 17623,'2554','The Gore Rd S / Of Cottrelle Blvd',43.779678,-79.672989
@@ -1379,7 +1406,6 @@
 18060,'2602','McLaughlin Rd S S / Of Ray Lawson Blvd',43.6506,-79.735992
 18070,'2603','McLaughlin Rd S @ Oaklea Blvd',43.647995,-79.732498
 18080,'2604','Oaklea Blvd @ Pauline Vanier ES (56 Oaklea Blvd)',43.64653,-79.733871
-18090,'2605','Oaklea Blvd Opp Rollingwood Dr',43.645687,-79.735832
 18100,'2606','Oaklea Blvd Opp Rodwell Crt',43.646088,-79.737625
 18110,'2607','Ray Lawson Blvd @ Stalbridge Ave',43.646152,-79.739601
 18120,'2608','Ray Lawson Blvd @ Hickory Wood Jr ES',43.645691,-79.742439
@@ -2077,6 +2103,11 @@
 44775,'3441','Heart Lk Rd N / Of Brussels Ave',43.729771,-79.77169
 44818,'3664','Ebenezer Rd E / Of The Gore Rd',43.77285,-79.662247
 44820,'3446','Ebenezer Rd W / Of Nexus Ave',43.774063,-79.660851
+44825,'3447','Westcreek Blvd Btwn 80 & 100 Westcreek Blvd',43.680847,-79.705002
+44830,'3448','Westcreek Blvd Btwn 150 & 200 Westcreek Blvd',43.679111,-79.70295
+44840,'3449','Westcreek Blvd N / Of 1 Westcreek Blvd',43.676983,-79.699814
+44850,'3450','Westcreek Blvd Opp 150 & 200 Westcreek Blvd',43.679325,-79.702972
+44860,'3451','Westcreek Blvd Opp Steelwell Rd',43.68261,-79.703857
 44870,'3452','Sunny Mdw Blvd Btwn Red River Dr & Shady Oak Ln',43.756435,-79.75045
 44880,'3453','Sunny Mdw Blvd @ Mint Leaf Blvd',43.75684,-79.752335
 44890,'3454','Sunny Mdw Blvd @ Mint Leaf Blvd',43.756916,-79.752983
@@ -2177,6 +2208,11 @@
 47537,'3706','Clarkway Dr N / Of Oklahoma Dr',43.788445,-79.664154
 47538,'3705','Clarkway Dr S / Of Bellchase Tr',43.790104,-79.664536
 47553,'3703','Castlemore Rd W / Of Drummondville Dr',43.79866,-79.681786
+48000,'3574','Don Minaker Dr Opp Imperial Lks Dr',43.765362,-79.67186
+48010,'3575','Don Minaker Dr Btwn Vespahills & Desertrose',43.766232,-79.673027
+48020,'3576','Don Minaker Dr W / Of Vissini Way',43.768036,-79.67495
+48030,'3577','Don Minaker Dr E / Of Eaglesprings Cres',43.770897,-79.673805
+48040,'3578','Don Minaker Dr @ Westbrook Dr',43.772701,-79.67173
 49000,'3640','Williams Pky E / Of Personna Cir',43.669109,-79.806259
 49010,'3641','Williams Pky E / Of Elbern Markell Dr',43.663719,-79.811745
 49020,'3642','Royalwest Dr S / Of Williams Pkwy W',43.659138,-79.812851
@@ -2350,6 +2386,8 @@
 14090101,'3901','Castle Oaks Xing E / Of Long Branch Trl',43.79388,-79.673561
 14090102,'3902','Castle Oaks Xing Opp Bellchase Trl',43.792389,-79.676102
 14090103,'3903','Castle Oaks Xing E / Of Gardenbrook Trl',43.791386,-79.678551
+14090104,'3904','Westbrook Ave S / Of Cottrelle Blvd',43.776695,-79.677048
+14090105,'3905','Skyvalley Dr S / Of Heathbrook Ave',43.777836,-79.67878
 14090107,'3907','Steeles Ave W / Of Paget Rd',43.734825,-79.656021
 14090108,'3908','Paget Rd N / Of Kenview Blvd',43.734051,-79.652145
 14090109,'3909','Production Rd @ Production Rd Cul-De-Sac',43.718304,-79.668274
@@ -2403,6 +2441,17 @@
 15062901,'3954','Castlemore Rd W / Of Julian Dr',43.788376,-79.69368
 15090504,'3347','Dixie Rd S / Of Dolbyhill Dr',43.756317,-79.783867
 15090505,'3348','Inspire Blvd E / Of Dixie Rd',43.758472,-79.786316
+15090700,'2247','Don Minaker Dr N / Of Ebenezer Rd',43.764996,-79.6716
+15090701,'2248','Cherrycrest Dr N / Of Queen St',43.763462,-79.669838
+15090702,'2249','Panahill Dr W / Of The Gore Rd',43.782291,-79.678299
+15090703,'2250','Gardenbrooke Tr W / Of Freedom Oaks Tr',43.783886,-79.676567
+15090704,'2251','Gardenbrooke Tr W / Of Thorndale Rd',43.785023,-79.67524
+15090705,'2252','Gardenbrooke Tr Opp Toddville Rd',43.787666,-79.674576
+15090706,'2310','Gardenbrooke Tr Opp Penelope St',43.788773,-79.675713
+15090707,'2311','Gardenbrooke Tr Opp Mulgrave St',43.789948,-79.67688
+15090708,'2312','Gardenbrooke Tr N / Of Castle Oaks Xing',43.791393,-79.678841
+15090709,'2313','Gardenbrooke Tr Opp Academy Dr',43.794338,-79.681656
+15090710,'2314','Gardenbrooke Tr Opp Snowpass St',43.795906,-79.682732
 15090711,'2315','Mt Pleasant GO Sta - Route 1 / 561 Stop',43.674774,-79.82283
 15090712,'2316','James Potter Rd N / Of Fahey Dr',43.651978,-79.767235
 15090713,'2317','James Potter Rd Opp Young Dr',43.650002,-79.763771
@@ -2523,6 +2572,25 @@
 15090878,'1493','Drinkwater Rd S / Of Spalding Gt',43.662514,-79.766357
 15090879,'1494','Drinkwater Rd Opp Vivians Cres (N)',43.661396,-79.764923
 15090880,'1495','Drinkwater Rd E / Of Lockwood Rd',43.659523,-79.765503
+15090881,'1255','Gardenbrooke Tr N / Of Mulgrave St',43.790237,-79.677475
+15090882,'1256','Gardenbrooke Tr N / Of Penelope St',43.789097,-79.676079
+15090883,'1496','Gardenbrooke Tr N / Of Toddville Rd',43.787952,-79.67514
+15090884,'1497','Gardenbrooke Tr E / Of Thorndale Rd',43.785744,-79.674637
+15090885,'1551','Gardenbrooke Tr @ Castlebrooke SS',43.784409,-79.676155
+15090886,'1552','Panahill Dr W / Of The Gore Rd',43.782333,-79.678581
+15090887,'1553','Panahill Dr E / Of Templeton Crt',43.781261,-79.680984
+15090888,'1554','Panahill Dr E / Of Strathdale Rd',43.781101,-79.683411
+15090889,'1555','Panahill Dr W / Of Smithville Dr',43.780273,-79.685944
+15090890,'1556','Panahill Dr Opp Fieldview Dr',43.780773,-79.684715
+15090891,'1557','Panahill Dr W / Of Dilworth Chase Rd',43.781174,-79.680832
+15090892,'1558','Skyvalley Dr N / Of Riverglen St',43.778332,-79.67926
+15090893,'1559','Skyvalley Dr N / Of Cottrelle Blvd',43.776909,-79.677666
+15090894,'1649','Westbrook Ave N / Of Gorevale Dr',43.775581,-79.675476
+15090895,'1832','Westbrook Ave N / Of Trevino Cres (N)',43.774578,-79.673981
+15090896,'2136','Westbrook Ave N / Of Don Minaker Dr',43.772976,-79.671753
+15090897,'2244','Don Minaker Dr E / Of Hampton Spgs Dr',43.770828,-79.674072
+15090898,'2245','Don Minaker Dr S / Of Pasadena Ave',43.768696,-79.675377
+15090899,'2246','Don Minaker Dr N / Of Riverstone Dr',43.766994,-79.674301
 15110201,'2767','Mississauga Rd S / Of Howard Stewart Rd',43.632496,-79.783142
 15110202,'2768','Sandalwood Pkwy E / Of Creditview Rd',43.689117,-79.834831
 15110203,'2769','Castlemore Rd W / Of The Gore Rd',43.790371,-79.691399
@@ -2533,12 +2601,12 @@
 16050902,'2776','Mavis Rd N / Of Clementine Dr',43.644279,-79.751282
 16050903,'2777','Smart Ctrs - Walmart Plz',43.77179,-79.778923
 16050904,'2778','Biscayne Cres E / Of 1st Gulf Blvd (S)',43.677006,-79.712326
-16050905,'2779','Biscayne Cres N / Of Clipper Crt',43.677845,-79.709961
+16050905,'2779','Biscayne Cres E / Of Clipper Crt',43.677917,-79.709953
 16050906,'2780','Biscayne Cres @ 150 Biscayne Cres',43.680031,-79.710922
 16050907,'2781','Biscayne Cres E / Of 1st Gulf Blvd (N)',43.680618,-79.714188
 16050908,'2782','Bramalea Rd S / Of Balmoral Dr',43.715363,-79.705017
 16050909,'2783','Bramalea Rd N / Of Balmoral Dr',43.715546,-79.705673
-16062708,'2805','Sandalwood Pkwy Btwn Bramalea Rd & Sunny Mdw',43.755123,-79.75602
+16062708,'2805','Sandalwood Pkwy Btwn Bramalea Rd & Sunny Mdw',43.75539,-79.75573
 16062709,'2806','Sandalwood Pkwy Btwn Bramalea Rd & Sunny Mdw',43.755161,-79.756462
 16090501,'2807','Bovaird - Zum Queen West Sta Stop SB',43.666393,-79.829025
 16090502,'2808','Mississauga Rd - Zum Queen West Sta Stop EB',43.648415,-79.801025
@@ -2707,11 +2775,11 @@
 18090432,'4169','Deerhurst Dr E / Of Goreway Dr',43.749844,-79.678604
 18090433,'4170','Deerhurst Dr @ 420 Deerhurst Dr',43.748775,-79.674438
 18090434,'4171','Deerhurst Dr N / Of Armthorpe Rd',43.746731,-79.671288
-18090435,'4172','Deerhurst Dr Opp Wentworth Crt',43.744434,-79.667847
+18090435,'4172','Deerhurst Dr S / Of Wentworth Crt',43.744488,-79.667923
 18090436,'4173','Deerhurst Dr N / Of Intermodal Dr',43.740517,-79.664566
 18090438,'4175','Goreway Dr S / Of Intermodal Dr',43.739357,-79.665878
 18090439,'4176','Deerhurst Dr N / Of Intermodal Dr',43.740974,-79.664505
-18090440,'4177','Deerhurst Dr S / Of Wentworth Crt',43.744431,-79.667572
+18090440,'4177','Deerhurst Dr S / Of Wentworth Crt',43.74456,-79.667763
 18090441,'4178','Deerhurst Dr Opp Armthorpe Rd',43.746498,-79.670662
 18090442,'4179','Deerhurst Dr @ 419 Deerhurst Dr',43.749214,-79.674751
 18090443,'4180','Deerhurst Dr E / Of Goreway Dr',43.749626,-79.679184
@@ -2767,9 +2835,6 @@
 19090330,'5012','Kennedy Rd N / Of Snellview Blvd',43.745556,-79.817268
 19090331,'5013','Kennedy Rd N / Of Mayfield Rd',43.743885,-79.81498
 19090332,'4250','Creditview Rd N / Of Veterans Dr',43.676228,-79.829155
-19090334,'4252','Bramalea GO Temp Term - Route 13 / 16',43.702145,-79.692383
-19090335,'4253','Bramalea GO Temp Term - Route 15 / 15A NB',43.701756,-79.692245
-19090336,'4254','Bramalea GO Temp Term - Route 15 SB / 92 AM',43.701977,-79.692047
 19090337,'4255','Torbram Rd @ Father Tobin Rd',43.770882,-79.756004
 19090338,'4256','The Gore Rd S / Of Mayfield Rd',43.819111,-79.726837
 19090339,'4257','Mississauga Rd S / Of Royal West Dr',43.662159,-79.822662
@@ -2789,4 +2854,10 @@
 21062804,'4271','Remembrance Rd W / Of McLaughlin Rd',43.717911,-79.827934
 21090600,'4272','Veterans Dr N / Of Nightjar Dr',43.691223,-79.857658
 21090602,'4274','Castlemore Rd Opp Valleycreek Dr',43.77549,-79.708588
-21110100,'4275','Bramalea Rd N / Of Inspire Blvd',43.769684,-79.778679
+21110100,'4275','Bramalea Rd N / Of Inspire Blvd',43.769791,-79.778809
+22010300,'4276','Bovaird Dr W / Of Creditview Rd',43.670845,-79.825691
+22010301,'4277','Bramalea Rd N / Of Steeles Ave',43.705025,-79.691292
+22010302,'4278','Bramalea GO Temp Term - Route 15 / 15A NB',43.702488,-79.69178
+22010303,'4279','Bramalea GO Temp Term - Route 15 SB / 40',43.702648,-79.691597
+22010304,'4280','Bramalea GO Temp Term - Route 16',43.702595,-79.691933
+22010305,'4281','Bramalea GO Temp Term - Route 13',43.702774,-79.691734
