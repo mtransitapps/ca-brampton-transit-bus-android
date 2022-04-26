@@ -64,7 +64,7 @@
 700,'1067','Steeles Ave E @ Advance Blvd',43.698715,-79.696487
 730,'1070','Steeles Ave E @ Melanie Dr (W)',43.710072,-79.684311
 740,'1071','Steeles Ave E @ Melanie Dr (E)',43.712017,-79.682114
-760,'1073','Steeles Ave E Opp Pearson Convention Ctr',43.721794,-79.671021
+760,'1073','Steeles Ave Opp Pearson Convention Ctr',43.721794,-79.671021
 780,'1075','Steeles Ave E Opp Parkhurst Sq',43.72646,-79.665665
 790,'1076','Steeles Ave E @ 3389 Steeles Ave E (Bombay Whse)',43.730907,-79.6605
 800,'1077','Steeles Ave E @ Goreway Dr',43.732727,-79.658417
@@ -658,7 +658,7 @@
 9160,'1733','Theatre Ln - Zum Main Sta Stop NB',43.687393,-79.761818
 9170,'1734','Main St N @ Church St',43.688042,-79.762718
 9180,'1735','Main St N @ Alexander St',43.689079,-79.764091
-9190,'1736','Main St N @ Sproule Dr',43.690937,-79.766594
+9190,'1736','Main St @ Sproule Dr',43.691067,-79.766769
 9195,'1737','Vodden - Zum Main Sta Stop NB',43.692806,-79.769043
 9210,'1739','Main St N @ English St',43.694538,-79.771362
 9220,'1740','Main St N @ Layham Gt',43.696209,-79.773605
@@ -712,7 +712,7 @@
 9730,'1794','Main St S @ Elgin Dr',43.673603,-79.743774
 9750,'1796','Main St S @ Charolais Blvd',43.669998,-79.738861
 9760,'1797','Main St S @ Bartley Bull Pkwy',43.667603,-79.735718
-9770,'1799','Hurontario St S / Of Steeles Ave (School Special)',43.665237,-79.732552
+9770,'1799','Hurontario St @ Lancashire Ln (School Special)',43.664837,-79.731979
 9780,'1800','Sir Lou - Zum Main Sta Stop SB',43.661194,-79.727081
 9785,'1801','Ray Lawson - Zum Main Sta Stop SB',43.658695,-79.723785
 9790,'1802','County Court Blvd (S) E / Of Hurontario St',43.659519,-79.722191
@@ -762,7 +762,7 @@
 10190,'1843','Summerlea Rd N / Of Walker Dr',43.720428,-79.68042
 10200,'1844','Summerlea Rd @ 75 Summerlea Rd',43.721981,-79.682503
 10210,'1845','Summerlea Rd @ 99 Summerlea Rd',43.723442,-79.684456
-10230,'1847','Summerlea Rd N / Of Trojan Crt',43.725105,-79.686714
+10230,'1847','Summerlea Rd N / Of Trojan Crt',43.725067,-79.686722
 10240,'1848','Summerlea Rd @ Atlas Crt',43.727524,-79.690025
 10250,'1849','Summerlea Rd @ Barton Crt',43.729111,-79.692162
 10260,'1850','Clark Blvd @ Torbram Rd',43.727741,-79.697411
@@ -1048,7 +1048,7 @@
 14060,'2185','McLaughlin Rd N @ Bovaird Dr W',43.695808,-79.797096
 14070,'2186','McLaughlin Rd N Opp Marycroft Crt',43.697845,-79.799782
 14080,'2187','McLaughlin Rd N @ Lowry Dr',43.701126,-79.804283
-14085,'2188','McLaughlin Rd Btwn Lowry Dr & Sandalwood Pkwy',43.703888,-79.808022
+14085,'2188','McLaughlin Rd Btwn Lowry Dr & Sandalwood Pkwy',43.7038,-79.807899
 14090,'2189','McLaughlin Rd N @ Sandalwood Pky W',43.706402,-79.811378
 14100,'2190','McLaughlin Rd N @ Potters Wheel Gt',43.7094,-79.815582
 14110,'2191','McLaughlin Rd N N / Of Van Scott Dr',43.713909,-79.821762
@@ -1071,7 +1071,7 @@
 14370,'2213','McLaughlin Rd N @ Earlsbridge Blvd',43.713768,-79.82209
 14380,'2214','McLaughlin Rd N Opp Potters Wheel Gt',43.709675,-79.816452
 14390,'2215','McLaughlin Rd N @ Sandalwood Pky W',43.70676,-79.812355
-14396,'2217','McLaughlin Rd Btwn Sandalwood Pkwy & Lormel Gt',43.703697,-79.808136
+14396,'2217','McLaughlin Rd Btwn Sandalwood Pkwy & Lormel Gt',43.703892,-79.808395
 14400,'2218','McLaughlin Rd N @ Lormel Gt',43.701252,-79.804916
 14410,'2220','McLaughlin Rd N @ Marycroft Crt',43.698002,-79.800468
 14420,'2221','McLaughlin Rd N @ Bovaird Dr W',43.696125,-79.797935
@@ -1105,7 +1105,7 @@
 14770,'6091','Airport Rd @ Thamesgate Dr',43.714752,-79.656944
 14780,'2253','Airport Rd @ Driver Rd',43.720592,-79.664566
 14790,'2254','Steeles - Zum Bovaird Sta Stop NB',43.723431,-79.668365
-14800,'2255','Airport Rd N / Of 407 Ramp (Dynacare Med Lab)',43.72963,-79.676788
+14800,'2255','Airport Rd N / Of 407 Ramp',43.72963,-79.676788
 14820,'2256','Airport Rd Btwn Intermodal Dr & Clark Blvd',43.733768,-79.682381
 14830,'2257','Airport Rd @ Clark Blvd',43.735729,-79.684929
 14840,'2258','Airport Rd Btwn Clark Blvd & Nevets Rd',43.738777,-79.68911
@@ -1450,7 +1450,7 @@
 18885,'2658','Hurontario St S / Of Roycrest St',43.730396,-79.820099
 18920,'2662','Mayfield Rd Opp Summer Vly Dr',43.736164,-79.822182
 18930,'2663','Mayfield Rd W / Of Inder Hts Dr',43.74052,-79.817657
-18940,'2664','Kennedy Rd N S / Of Mayfield Rd',43.743145,-79.81395
+18940,'2664','Mayfield Rd W / Of Kennedy Rd',43.743347,-79.814667
 18950,'2665','Kennedy Rd N S / Of Kenpark Ave',43.741909,-79.812271
 18960,'2666','Kennedy Rd N @ Carnforth Dr',43.738571,-79.807724
 18970,'2667','Kennedy Rd N Opp Christie Dr',43.737267,-79.805923
@@ -2677,7 +2677,6 @@
 16090578,'3175','Cresthaven Rd W / Of Tournament Dr',43.725853,-79.819695
 16090579,'3176','Braidwood Lk Rd Opp Shadywood Dr',43.725933,-79.81118
 16090580,'3177','Braidwood Lk Rd N / Of Petworth Rd',43.723228,-79.807762
-16090581,'3178','U Of Toronto Mississauga Campus Stop',43.547852,-79.664833
 16103101,'3286','Peel Memorial Hosp - Route 8 / 25 WB',43.690968,-79.752357
 16103103,'3179','Mississauga Rd S / Of Financial Dr',43.634842,-79.786392
 16103104,'3288','Peel Memorial Hosp - Route 8 EB / 24 WB',43.691044,-79.752487
@@ -2788,7 +2787,7 @@
 18090446,'4183','Squire Ellis Dr E / Of Strength St',43.812366,-79.729515
 18090447,'4184','Squire Ellis Dr E / Of John Carroll Dr',43.811554,-79.732033
 18090448,'4185','Squire Ellis Dr Opp Trl Rider Dr',43.809921,-79.734489
-18090449,'4186','Kingknoll Dr W / Of McLaughlin Rd',43.65369,-79.740906
+18090449,'4186','Kingknoll Dr W / Of McLaughlin Rd',43.653484,-79.74118
 18090450,'4187','Kingknoll Dr E / Of Windmill Blvd',43.651833,-79.743095
 18090451,'4188','Kingknoll Dr N / Of Derby Rd',43.645374,-79.747116
 18090452,'4189','Mountainash Rd N / Of Judson Gt',43.776535,-79.752266
@@ -2862,3 +2861,4 @@
 22010303,'4279','Bramalea GO Temp Term - Route 15 SB / 40',43.702648,-79.691597
 22010304,'4280','Bramalea GO Temp Term - Route 16',43.702595,-79.691933
 22010305,'4281','Bramalea GO Temp Term - Route 13',43.702774,-79.691734
+22042500,'7224','Hwy 50 S / Of Gibraltar Rd',43.754883,-79.641876
