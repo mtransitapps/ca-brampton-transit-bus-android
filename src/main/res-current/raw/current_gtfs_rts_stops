@@ -61,7 +61,7 @@
 620,'1061','Steeles Ave E @ Hartford Trl',43.673,-79.725319
 670,'1064','Steeles Ave E Btwn Tomken Rd & Dixie Rd',43.692356,-79.704086
 680,'1065','Steeles Ave W / Of Dixie Rd',43.694267,-79.701942
-700,'1067','Steeles Ave E @ Advance Blvd',43.698715,-79.696487
+700,'1067','Steeles Ave E @ Advance Blvd',43.698746,-79.696518
 730,'1070','Steeles Ave E @ Melanie Dr (W)',43.710072,-79.684311
 740,'1071','Steeles Ave E @ Melanie Dr (E)',43.712017,-79.682114
 760,'1073','Steeles Ave Opp Pearson Convention Ctr',43.721794,-79.671021
@@ -101,9 +101,7 @@
 1180,'1106','Steeles Ave E @ Parkhurst Sq',43.727177,-79.665413
 1230,'1111','Steeles Ave E W / Of Melanie Dr (E)',43.71175,-79.682953
 1235,'1112','Steeles Ave E W / Of Melanie Dr (W)',43.710007,-79.684929
-1237,'3665','Steeles Ave W / Of Melanie Dr',43.707935,-79.687286
-1250,'1114','Steeles Ave E @ Bramalea GO Sta',43.702911,-79.692909
-1260,'1115','Steeles Ave W / Of Advance Blvd',43.698204,-79.69783
+1260,'1115','Steeles Ave W / Of Advance Blvd',43.6982,-79.697823
 1280,'1117','Steeles Ave E Btwn Dixie Rd & West Dr',43.69276,-79.704132
 1315,'1121','Steeles Ave E E / Of Resolution Dr',43.678406,-79.719986
 1320,'1122','Steeles Ave E / Of Kennedy Rd',43.676125,-79.722481
@@ -339,7 +337,7 @@
 4410,'1383','Bramalea Rd @ Balmoral Dr',43.715519,-79.705658
 4420,'1384','Bramalea Rd @ Algonquin Blvd',43.713436,-79.702827
 4430,'1385','Bramalea Rd @ Alexandria Gt',43.711197,-79.699821
-4440,'1386','Bramalea Rd @ Avondale Blvd',43.708981,-79.696877
+4440,'1386','Bramalea Rd N / Of Avondale Blvd',43.708981,-79.696877
 4470,'1387','Orenda Rd W / Of Bramalea Rd',43.705582,-79.693153
 4480,'1388','Orenda Rd @ Victoria Cres (E)',43.704678,-79.694237
 4490,'1389','Orenda Rd @ Victoria Cres (W)',43.702976,-79.696312
@@ -1183,8 +1181,8 @@
 15850,'2376','Brisdale Dr S / Of Grovewood Dr',43.684845,-79.814835
 15860,'2377','Brisdale Dr @ Bovaird Dr W',43.683578,-79.812599
 15870,'2378','Worthington - Zum Bovaird Sta Stop WB',43.681026,-79.814537
+15875,'2379','Bovaird Dr E / Of Lagerfeld Dr',43.673599,-79.821686
 15880,'2380','Mt Pleasant GO Sta Route 4 / 4A / 104 Stop',43.674526,-79.821907
-15895,'2381','Bovaird Dr W E / Of Ashby Field Rd',43.673622,-79.820763
 15900,'2382','Lk Louise - Zum Bovaird Sta Stop EB',43.680984,-79.81395
 15910,'2383','Brisdale Dr N / Of Bovaird Dr W',43.683807,-79.812668
 15920,'2384','Brisdale Dr S / Of Grovewood Dr',43.68483,-79.814575
@@ -2223,10 +2221,8 @@
 51103,'1120','Rutherford - Zum Steeles Sta Stop WB',43.680313,-79.71785
 51104,'4107','Tomken - Zum Steeles Sta Stop EB',43.690865,-79.705681
 51105,'1118','West Dr - Zum Steeles Sta Stop WB',43.690063,-79.70713
-51106,'1066','Dixie - Zum Steeles Sta Stop EB',43.695805,-79.700218
-51107,'1116','Dixie - Zum Steeles Sta Stop WB',43.694656,-79.702126
-51108,'4108','Bramalea - Zum Steeles Sta Stop EB',43.703941,-79.691223
-51109,'1113','Bramalea - Zum Steeles Sta Stop WB',43.704483,-79.691261
+51106,'1066','Dixie - Zum Steeles Sta Stop EB',43.695812,-79.70015
+51107,'1116','Dixie - Zum Steeles Sta Stop WB',43.694649,-79.702148
 51110,'4109','Torbram - Zum Steeles Sta Stop EB',43.714725,-79.678978
 51111,'1110','Torbram - Zum Steeles Sta Stop WB',43.714027,-79.680458
 51112,'1074','Airport Rd - Zum Steeles Sta Stop EB',43.724304,-79.668114
@@ -2783,9 +2779,14 @@
 21090602,'4274','Castlemore Rd Opp Valleycreek Dr',43.77549,-79.708588
 21110100,'4275','Bramalea Rd N / Of Inspire Blvd',43.769791,-79.778809
 22010300,'4276','Bovaird Dr W / Of Creditview Rd',43.670845,-79.825691
-22010301,'4277','Bramalea Rd N / Of Steeles Ave',43.705025,-79.691292
-22010302,'4278','Bramalea GO Temp Term - Route 15 / 15A NB',43.702488,-79.69178
-22010303,'4279','Bramalea GO Temp Term - Route 15 SB / 40',43.702648,-79.691597
-22010304,'4280','Bramalea GO Temp Term - Route 16',43.702595,-79.691933
-22010305,'4281','Bramalea GO Temp Term - Route 13',43.702774,-79.691734
 22042500,'7224','Hwy 50 S / Of Gibraltar Rd',43.754883,-79.641876
+22080100,'4282','Bramalea Rd N / Of Avondale Blvd',43.708958,-79.696922
+22080101,'4283','Bramalea Rd N / Of Dearbourne Blvd',43.709305,-79.696861
+22080102,'4284','Steeles Ave E / Of Bramalea Rd',43.70594,-79.689606
+22080103,'4285','Steeles Ave E / Of Bramalea Rd',43.705196,-79.689827
+22080104,'4286','Bramalea GO Sta - Route 13 / 16 Stop',43.701954,-79.691086
+22080105,'4287','Bramalea GO Sta - Route 40 / 115 NB Stop',43.701912,-79.691353
+22080106,'4288','Bramalea GO Sta - Route 15 SB / 115 SB Stop',43.701859,-79.691635
+22080107,'4289','Bramalea GO Sta - Route 15 / 15A NB Stop',43.701801,-79.691895
+22080108,'4290','Bramalea GO Sta-Route 11 / 11A, 511 / A/C WB Stop',43.701996,-79.692162
+22080109,'4291','Bramalea GO Sta-Route 11 / 11A, 511 / A/C EB Stop',43.70216,-79.692429
