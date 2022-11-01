@@ -893,12 +893,12 @@
 11770,'1994','Sandalwood Pky E @ Glover Gt',43.733341,-79.785423
 11780,'1995','Sandalwood Pky E @ Heart Lk Rd',43.735214,-79.782143
 11790,'1996','Great Lks Dr @ Sandalwood Pky E',43.741016,-79.773369
-11810,'1998','Great Lks Dr S / Of Sailwind Rd (St Isac ES)',43.736481,-79.769081
+11810,'1998','Great Lks Dr S / Of Masjid Dr (St Isac ES)',43.736481,-79.769081
 11815,'3588','Great Lks Dr S / Of Serenity Ln',43.734726,-79.767258
 11825,'3624','Great Lks Dr S / Of Guru Nanak St',43.732773,-79.764351
 11830,'2000','Trinity Common Term Route 33 / 23 EB / 21 Stop',43.731213,-79.763298
 11840,'2001','Great Lks Dr @ Beachsurf Rd',43.734158,-79.766235
-11850,'2002','Great Lks Dr @ Sailwind Rd',43.736832,-79.769173
+11850,'2002','Great Lks Dr S / Of Masjid Dr',43.736832,-79.769173
 11860,'2003','Great Lks Dr @ Harold M Brathwaite SS',43.73777,-79.770393
 11870,'2004','Great Lks Dr @ Sandalwood Pky E',43.741188,-79.77317
 11875,'2005','Sandalwood Pky @ Rec Ctr Entrance',43.743206,-79.771271
@@ -1138,7 +1138,7 @@
 15120,'2294','Airport Rd S / Of Bovaird Dr E',43.76273,-79.72197
 15125,'2295','Airport Rd S / Of Triple Crown Dr',43.760586,-79.719078
 15130,'2296','North Pk - Zum Bovaird Sta Stop SB',43.758816,-79.716721
-15140,'2297','Airport Rd Btwn North Pk Dr & Williams Pky E',43.755993,-79.71286
+15140,'2297','Airport Rd Btwn North Pk Dr & Williams Pkwy',43.755661,-79.712372
 15160,'2299','Williams - Zum Bovaird Sta Stop SB',43.752712,-79.708412
 15162,'2300','Airport Rd @ 9264 Airport Rd',43.749386,-79.704033
 15165,'2301','Airport Rd @ 9250 Airport Rd',43.747684,-79.701752
@@ -1203,6 +1203,7 @@
 15870,'2378','Worthington - Zum Bovaird Sta Stop WB',43.681026,-79.814537
 15875,'2379','Bovaird Dr E / Of Lagerfeld Dr',43.673599,-79.821686
 15880,'2380','Mt Pleasant GO Sta Route 4 / 4A / 104 Stop',43.674526,-79.821907
+15895,'2381','Bovaird Dr E / Of Ashby Field Rd',43.673622,-79.820763
 15900,'2382','Lk Louise - Zum Bovaird Sta Stop EB',43.680984,-79.81395
 15910,'2383','Brisdale Dr N / Of Bovaird Dr W',43.683807,-79.812668
 15920,'2384','Brisdale Dr S / Of Grovewood Dr',43.68483,-79.814575
@@ -1222,7 +1223,7 @@
 16150,'2399','Chinguacousy Rd N / Of Daviselm Dr',43.670303,-79.787102
 16170,'2401','Chinguacousy - Zum Queen West Sta Stop EB',43.666851,-79.780861
 16250,'2410','Drinkwater Rd @ Ready Crt (St Augustine SS)',43.658268,-79.76635
-16270,'2412','Chinguacousy Rd Btwn Charolais Blvd & Rail Xing',43.652866,-79.763145
+16270,'2412','Chinguacousy Rd N / Of Charolais Blvd',43.652645,-79.762856
 16280,'2413','Charolais Blvd @ Moffat Ave',43.651592,-79.758621
 16290,'2414','Charolais Blvd @ Duggan Dr',43.653481,-79.756798
 16310,'2416','Duggan Dr S / Of Matterdale Ave',43.653603,-79.754242
@@ -1355,7 +1356,6 @@
 17675,'2563','Via Romano Way Bwtn Alfredo & Big Moe Cres',43.778717,-79.658905
 17680,'2564','Via Romano Way @ Zia Dodda Cres',43.780399,-79.66021
 17690,'2565','Via Romano Way Btwn Zia Dodda & Youngestar',43.781719,-79.66188
-17700,'2566','Via Romano Way S / Of Rednor Dr',43.783085,-79.663284
 17740,'2570','The Gore Rd Opp Fogal Rd',43.769218,-79.659492
 17745,'2571','The Gore Rd N / Of Royton St',43.770473,-79.661301
 17750,'2572','The Gore Rd N / Of Queen St',43.766365,-79.656128
@@ -1831,8 +1831,6 @@
 28130,'6175','Hurontario St @ Matheson - SB (Zum Main)',43.619534,-79.670731
 28140,'6176','Hurontario St @ Bristol Rd - SB (Zum Main)',43.614502,-79.663857
 28150,'6177','Hurontario St @ Eglinton Ave - SB (Zum Main)',43.60598,-79.652145
-28180,'6178','Mississauga City Ctr Term - Departure',43.594051,-79.647217
-28190,'9992','Mississauga City Ctr Term - Arrival',43.593407,-79.647903
 30000,'3672','Fairhill Ave E / Of Creditview Rd',43.68235,-79.82708
 30012,'3688','Commuter Dr N / Of Signal Ln',43.677277,-79.824661
 30015,'3675','Mt Pleasant Vlg - Route 23 Stop',43.675503,-79.821877
@@ -1999,13 +1997,13 @@
 42400,'3355','Hurontario St S / Of Mayfield Rd',43.733486,-79.824333
 42980,'6181','Airport Rd S / Of Derry Rd',43.701885,-79.640381
 43011,'6187','Airport Rd S / Of Hwy 409',43.686005,-79.609116
-43013,'6188','Airport Rd @ American Dr',43.68959,-79.622032
+43013,'6188','Airport Rd N / Of American Dr',43.68959,-79.622032
 43015,'6189','Airport Rd N / Of American Dr',43.691063,-79.625191
 43017,'6190','Airport Rd S / Of Orlando Rd',43.692982,-79.627678
 43019,'6191','Airport Rd @ Orlando Rd',43.694897,-79.630241
 43021,'6192','Airport Rd S / Of Northwest Dr',43.696461,-79.632385
 43023,'6193','Airport Rd @ Northwest Dr',43.698822,-79.635521
-43025,'6180','Airport Rd S / Of Derry Rd',43.700562,-79.637901
+43025,'6180','Airport Rd N / Of Northwest Dr',43.700562,-79.637901
 43300,'6182','Airport Rd @ Northwest Dr',43.699047,-79.63649
 43303,'6183','Airport Rd @ Silver Dart Rd',43.695015,-79.631218
 43305,'6184','Airport Rd S / Of Silver Dart',43.69297,-79.628273
@@ -2128,7 +2126,7 @@
 45070,'3472','Father Tobin Rd @ Torbram Rd',43.770779,-79.756653
 45080,'3473','Father Tobin Rd E / Of Tennant Dr',43.768524,-79.758171
 45090,'3474','Father Tobin Rd Opp Pape Dr (Hewson PS)',43.76685,-79.760147
-45100,'8501','York U - 501A - Zum Sta Stop WB',43.77652,-79.500549
+45100,'8501','York U - 501C - Zum Sta Stop WB',43.77652,-79.500549
 45110,'3476','Father Tobin Rd @ Wall St',43.763924,-79.763947
 45120,'3477','Father Tobin Rd @ Bramalea Rd',43.761742,-79.766342
 45130,'3478','Father Tobin Rd @ Helman Rd',43.75988,-79.768364
@@ -2252,8 +2250,8 @@
 50172,'4046','Rutherford - Zum Queen Sta Stop WB',43.701542,-79.743111
 50174,'4047','Kennedy - Zum Queen Sta Stop WB',43.695366,-79.750008
 50176,'4048','Ctr - Zum Queen Sta Stop WB',43.690964,-79.754761
-50193,'4002','Bramalea Term- Zum Queen 501 / 501A WB-Departure',43.719017,-79.720566
-50198,'4003','Bramalea Term- Zum Queen 501 / 501A / 501C EB-Dep',43.718887,-79.720726
+50193,'4002','Bramalea Term- Zum Queen 501 WB-Departure',43.719017,-79.720566
+50198,'4003','Bramalea Term- Zum Queen 501 / 501C EB-Departure',43.718887,-79.720726
 51000,'3501','McLaughlin Rd N / Of Gurdwara Gt',43.648293,-79.732346
 51010,'3502','McLaughlin Rd Btwn Gurdwara & Ray Lawson Blvd',43.649342,-79.733833
 51020,'3503','McLaughlin Rd N / Of Ray Lawson Blvd',43.65155,-79.736725
@@ -2842,7 +2840,6 @@
 20030202,'4261','Father Tobin Rd E / Of Fairservice Dr',43.758266,-79.770454
 20090800,'4262','Williams Pkwy W / Of Edvac Dr',43.76033,-79.700996
 20090801,'4263','Clark Blvd E / Of Dixie Rd',43.711094,-79.722412
-20090802,'4264','Dixie Rd S / Of Mid-Way Blvd',43.666389,-79.662819
 20090803,'4265','Veterans Dr Opp Remembrance Rd',43.690205,-79.856079
 20110200,'4266','The Gore Rd N / Of Alovera St',43.813637,-79.719612
 21062800,'4267','James Potter Rd S / Of Borrelli Dr',43.661224,-79.78315
@@ -2853,6 +2850,7 @@
 21090600,'4272','Veterans Dr N / Of Nightjar Dr',43.691223,-79.857658
 21090601,'4273','Veterans Dr S / Of Elverton Cres (S)',43.691074,-79.85717
 21090602,'4274','Castlemore Rd Opp Valleycreek Dr',43.77549,-79.708588
+21103100,'6221','Rathburn Rd Opp City Ctr Term',43.5942,-79.647446
 21110100,'4275','Bramalea Rd N / Of Inspire Blvd',43.769791,-79.778809
 22010300,'4276','Bovaird Dr W / Of Creditview Rd',43.670845,-79.825691
 22042500,'7224','Hwy 50 S / Of Gibraltar Rd',43.754883,-79.641876
@@ -2871,3 +2869,10 @@
 22080602,'4294','The Gore Rd N / Of Edgeforest Dr',43.802341,-79.704262
 22080603,'4295','The Gore Rd N / Of Countryside Dr',43.81208,-79.716995
 22080604,'4296','Creditview Rd S / Of Mayfield Rd',43.704136,-79.856499
+22103101,'6222','Viscount Rd S / Of American Dr',43.691311,-79.618874
+22103102,'6223','Viscount Sta - Route 505A Stop',43.689541,-79.615044
+22103103,'6224','American Dr W / Of Viscount Rd',43.691071,-79.619942
+22103104,'6225','Airport Rd S / Of Derry Rd',43.703407,-79.641983
+22103105,'4297','John Carroll Dr N / Of Squire Ellis Dr',43.811386,-79.732689
+22103106,'4298','Squire Ellis Dr W / Of Landview Rd',43.81226,-79.72921
+22103107,'4299','Squire Ellis Dr W / Of Martin Byrne Dr',43.812561,-79.727203
