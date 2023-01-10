@@ -101,6 +101,7 @@
 1180,'1106','Steeles Ave E @ Parkhurst Sq',43.727177,-79.665413
 1230,'1111','Steeles Ave E W / Of Melanie Dr (E)',43.71175,-79.682953
 1235,'1112','Steeles Ave E W / Of Melanie Dr (W)',43.710007,-79.684929
+1237,'3665','Steeles Ave W / Of Melanie Dr',43.707935,-79.687286
 1260,'1115','Steeles Ave W / Of Advance Blvd',43.6982,-79.697823
 1280,'1117','Steeles Ave E Btwn Dixie Rd & West Dr',43.69276,-79.704132
 1315,'1121','Steeles Ave E E / Of Resolution Dr',43.678406,-79.719986
@@ -403,7 +404,7 @@
 5400,'1449','Nasmith St @ Newport St',43.729027,-79.758026
 5410,'1450','Nasmith St @ Bovaird Dr E',43.730125,-79.759499
 5450,'1452','Nasmith St S / Of Bovaird Dr E',43.729706,-79.759186
-5460,'1453','Nasmith St @ Niagara Pl',43.728104,-79.757011
+5460,'1453','Nasmith St N / Of Niagara Pl',43.728188,-79.757156
 5470,'1454','North Pk Dr W / Of Nasmith St',43.726532,-79.754196
 5480,'1455','North Pk Dr @ Nuffield St',43.724049,-79.753899
 5490,'1456','North Pk Dr Opp Northampton St',43.722439,-79.750671
@@ -804,7 +805,6 @@
 10700,'1894','Guru Nanak St Opp Canada Goose Blvd',43.736954,-79.761909
 10705,'1895','Guru Nanak St W / Of Dixie Rd',43.738266,-79.760445
 10710,'1896','Peter Robertson Blvd @ Softneedle Ave',43.740231,-79.757339
-10720,'1897','Peter Robertson Blvd @ Fernforest Dr',43.740379,-79.754669
 10730,'1898','Fernforest Dr @ Kimberly Cres (S)',43.741058,-79.753899
 10740,'1899','Fernforest Dr @ Hackberry Gt',43.743938,-79.75547
 10750,'1900','Black Forest Dr E / Of Bunchberry Way',43.746651,-79.755486
@@ -1203,7 +1203,7 @@
 15870,'2378','Worthington - Zum Bovaird Sta Stop WB',43.681026,-79.814537
 15875,'2379','Bovaird Dr E / Of Lagerfeld Dr',43.673599,-79.821686
 15880,'2380','Mt Pleasant GO Sta Route 4 / 4A / 104 Stop',43.674526,-79.821907
-15895,'2381','Bovaird Dr E / Of Ashby Field Rd',43.673622,-79.820763
+15895,'2381','Bovaird Dr E / Of Ashby Field Rd',43.673244,-79.821602
 15900,'2382','Lk Louise - Zum Bovaird Sta Stop EB',43.680984,-79.81395
 15910,'2383','Brisdale Dr N / Of Bovaird Dr W',43.683807,-79.812668
 15920,'2384','Brisdale Dr S / Of Grovewood Dr',43.68483,-79.814575
@@ -1356,6 +1356,7 @@
 17675,'2563','Via Romano Way Bwtn Alfredo & Big Moe Cres',43.778717,-79.658905
 17680,'2564','Via Romano Way @ Zia Dodda Cres',43.780399,-79.66021
 17690,'2565','Via Romano Way Btwn Zia Dodda & Youngestar',43.781719,-79.66188
+17700,'2566','Via Romano Way S / Of Rednor Dr',43.783085,-79.663284
 17740,'2570','The Gore Rd Opp Fogal Rd',43.769218,-79.659492
 17745,'2571','The Gore Rd N / Of Royton St',43.770473,-79.661301
 17750,'2572','The Gore Rd N / Of Queen St',43.766365,-79.656128
@@ -1492,7 +1493,6 @@
 19400,'6110','Kennedy Rd S @ Gibraltar Dr',43.654701,-79.693939
 19410,'6111','Kennedy Rd S @ Admiral Blvd',43.652702,-79.691345
 19420,'6112','Kennedy Rd S @ Courtneypark Dr E',43.647758,-79.684677
-19430,'6113','Courtneypark Dr E W / Of Kennedy Rd',43.647411,-79.684982
 19440,'6114','Courtneypark Dr E @ Innovator Dr',43.64463,-79.686745
 19450,'6115','Courtneypark Dr Btwn Innovator Dr & Edwards Bl',43.642162,-79.688843
 19455,'6116','Courtneypark Dr @ Edwards Blvd',43.639538,-79.69175
@@ -2406,7 +2406,7 @@
 14090132,'3888','Mt Pleasant GO Sta - 5 / 5A / 505 Zum Bovaird',43.67485,-79.822792
 14090133,'3889','McLaughlin- Zum Bovaird Sta Stop WB',43.695747,-79.798172
 14090134,'3890','Heart Lk - Zum Bovaird Sta Stop WB',43.721291,-79.77047
-14090135,'3891','Trinity Common Term - 5 / 5A EB / 505 EB Stop',43.730759,-79.763802
+14090135,'3891','Trinity Common Term-5 / 5A EB / 505 / 505A EB Stop',43.730759,-79.763802
 14090136,'3892','Trinity Common Term - 5 / 5A WB / 505 WB / 17 Stop',43.730652,-79.764336
 14090137,'3893','Dixie - Zum Bovaird Sta Stop EB',43.735252,-79.753906
 14090138,'3894','Dixie - Zum Bovaird Sta Stop WB',43.734314,-79.755615
@@ -2870,9 +2870,10 @@
 22080603,'4295','The Gore Rd N / Of Countryside Dr',43.81208,-79.716995
 22080604,'4296','Creditview Rd S / Of Mayfield Rd',43.704136,-79.856499
 22103101,'6222','Viscount Rd S / Of American Dr',43.691311,-79.618874
-22103102,'6223','Viscount Sta - Route 505A Stop',43.689541,-79.615044
+22103102,'6223','Viscount Sta - Route 505A Stop',43.689575,-79.615288
 22103103,'6224','American Dr W / Of Viscount Rd',43.691071,-79.619942
-22103104,'6225','Airport Rd S / Of Derry Rd',43.703407,-79.641983
+22103104,'6225','Airport Rd S / Of Derry Rd',43.702087,-79.640129
 22103105,'4297','John Carroll Dr N / Of Squire Ellis Dr',43.811386,-79.732689
 22103106,'4298','Squire Ellis Dr W / Of Landview Rd',43.81226,-79.72921
 22103107,'4299','Squire Ellis Dr W / Of Martin Byrne Dr',43.812561,-79.727203
+23010900,'4301','Mississauga Rd N / Of Steeles Ave',43.627785,-79.776817
