@@ -56,7 +56,6 @@
 540,'1055','Mavis - Zum Steeles Sta Stop EB',43.647339,-79.753532,1
 550,'1056','Steeles Ave W @ Windmill Blvd',43.653267,-79.747025,1
 560,'1057','Steeles Ave W @ McLaughlin Rd S',43.656006,-79.743874,1
-600,'1059','Steeles Ave E E / Of Hurontario St',43.666519,-79.732285,1
 610,'1060','Steeles Ave E Btwn Hurontario St & Hartford Tr',43.670456,-79.728065,1
 620,'1061','Steeles Ave E @ Hartford Trl',43.673,-79.725319,1
 670,'1064','Steeles Ave E Btwn Tomken Rd & Dixie Rd',43.692356,-79.704086,1
@@ -101,7 +100,6 @@
 1180,'1106','Steeles Ave E @ Parkhurst Sq',43.727177,-79.665413,1
 1230,'1111','Steeles Ave E W / Of Melanie Dr (E)',43.71175,-79.682953,1
 1235,'1112','Steeles Ave E W / Of Melanie Dr (W)',43.710007,-79.684929,1
-1237,'3665','Steeles Ave W / Of Melanie Dr',43.707935,-79.687286,1
 1260,'1115','Steeles Ave W / Of Advance Blvd',43.6982,-79.697823,1
 1280,'1117','Steeles Ave E Btwn Dixie Rd & West Dr',43.69276,-79.704132,1
 1315,'1121','Steeles Ave E E / Of Resolution Dr',43.678406,-79.719986,1
@@ -219,7 +217,6 @@
 2740,'1251','Avondale Blvd @ Bramalea Rd',43.708691,-79.696747,0
 2750,'1252','Bramalea Rd S / Of East Dr',43.707138,-79.694389,1
 2760,'1253','Bramalea Rd @ Orenda Rd',43.706051,-79.69294,1
-2770,'1254','Bramalea Rd S / Of Steeles Ave E',43.704227,-79.689842,1
 2816,'6157','Westwood Mall Term Route 14 Stop',43.72147,-79.640327,1
 2817,'6158','Westwood Mall Term Route 30 Stop',43.721321,-79.640488,1
 2820,'6004','Goreway Dr S / Of Morning Star Dr',43.720024,-79.640694,1
@@ -248,7 +245,7 @@
 3050,'1283','Torbram Rd @ 8555 Torbram Rd',43.725124,-79.694382,1
 3055,'1284','Torbram Rd @ Clark Blvd',43.727245,-79.697243,1
 3070,'1285','Torbram Rd @ 8705 Torbram Rd',43.729824,-79.700775,0
-3075,'1286','Torbram Rd @ 8875 Torbram Rd (Zellers Entrance)',43.731071,-79.702469,0
+3075,'1286','Torbram Rd @ 8875 Torbram Rd',43.731071,-79.702469,0
 3080,'1288','Torbram Rd @ Queen St E',43.733681,-79.705925,1
 3100,'1290','Torbram Rd @ Corporation Dr',43.738308,-79.712212,1
 3110,'1291','Torbram Rd Opp Gatewood Dr',43.742195,-79.717407,1
@@ -480,7 +477,7 @@
 6250,'1526','Dixie Rd @ Octillo Blvd',43.748077,-79.772568,1
 6253,'3527','Dixie Rd @ Father Tobin Rd',43.751957,-79.777863,1
 6255,'1527','Dixie Rd N / Of Octillo Blvd',43.749401,-79.774422,1
-6258,'4073','Dixie Rd N / Of Father Tobin Rd',43.752777,-79.778931,1
+6258,'4073','Dixie Rd N / Of Father Tobin Rd',43.75317,-79.779465,1
 6260,'4074','Countryside Dr E / Of Dixie Rd',43.75481,-79.781052,1
 6262,'4075','Countryside Dr W / Of Moira Crk Dr',43.756161,-79.779572,1
 6310,'1531','Fernforest Dr @ Sandalwood Pky E',43.750122,-79.764099,1
@@ -488,7 +485,7 @@
 6340,'1533','Dixie Rd @ Springtown Trl',43.74321,-79.766495,1
 6350,'1534','Dixie Rd Btwn Springtown Trl & Peter Robertson',43.740971,-79.763451,1
 6360,'1535','Dixie Rd N / Of Guru Nanak St',43.738754,-79.760513,1
-6370,'1536','Dixie Rd N / Of Bovaird Dr E',43.735985,-79.756699,0
+6370,'1536','Dixie Rd @ 10078 Dixie Rd',43.736248,-79.757034,0
 6380,'1537','Dixie Rd S / Of Bovaird Dr E',43.734161,-79.754341,1
 6390,'1538','Dixie Rd @ Northcliffe St',43.732349,-79.751808,0
 6400,'1539','Dixie Rd Btwn Northcliffe St & North Pk Dr',43.731201,-79.750198,0
@@ -592,7 +589,7 @@
 8390,'1659','Queen St W @ Mercer Dr',43.677937,-79.768806,1
 8400,'1660','McLaughlin - Zum Queen West Sta Stop WB',43.675743,-79.771301,1
 8410,'1661','Queen St W E / Of Kimbark Dr',43.672955,-79.774391,1
-8420,'1662','Major William Sharpe Dr N / Of Queen St W',43.670792,-79.777756,1
+8420,'1662','Major William Sharpe Dr N / Of Queen St',43.670792,-79.777756,1
 8430,'1663','Major William Sharpe Dr N / Of Burgby Ave',43.671532,-79.78299,1
 8440,'1664','Major William Sharpe Dr Opp Candy Cres (S)',43.672867,-79.785202,1
 8450,'1665','Flowertown Ave W / Of Major William Sharpe Dr',43.675613,-79.788277,0
@@ -1493,7 +1490,7 @@
 19400,'6110','Kennedy Rd S @ Gibraltar Dr',43.654701,-79.693939,0
 19410,'6111','Kennedy Rd S @ Admiral Blvd',43.652702,-79.691345,0
 19420,'6112','Kennedy Rd S @ Courtneypark Dr E',43.647758,-79.684677,1
-19440,'6114','Courtneypark Dr E @ Innovator Dr',43.64463,-79.686745,1
+19440,'6114','Courtneypark Dr E / Of Innovator Dr',43.644989,-79.686638,1
 19450,'6115','Courtneypark Dr Btwn Innovator Dr & Edwards Bl',43.642162,-79.688843,1
 19455,'6116','Courtneypark Dr @ Edwards Blvd',43.639538,-79.69175,1
 19470,'6118','Courtneypark Dr E @ Hurontario St',43.637547,-79.694016,1
@@ -1831,6 +1828,7 @@
 28130,'6175','Hurontario St @ Matheson - SB (Zum Main)',43.619534,-79.670731,1
 28140,'6176','Hurontario St @ Bristol Rd - SB (Zum Main)',43.614502,-79.663857,1
 28150,'6177','Hurontario St @ Eglinton Ave - SB (Zum Main)',43.60598,-79.652145,1
+28180,'6178','City Ctr TT - P:L',43.594021,-79.647346,1
 30000,'3672','Fairhill Ave E / Of Creditview Rd',43.68235,-79.82708,1
 30012,'3688','Commuter Dr N / Of Signal Ln',43.677277,-79.824661,1
 30015,'3675','Mt Pleasant Vlg - Route 23 Stop',43.675503,-79.821877,1
@@ -2330,10 +2328,24 @@
 92485,'3819','Creditview - Zum Queen West Sta Stop EB',43.656483,-79.792442,1
 92490,'3820','Queen St W W / Of Angelgate Rd',43.660225,-79.788277,1
 92495,'3821','James Potter - Zum Queen West Sta Stop EB',43.662941,-79.785278,1
+93000,'3827','Financial Dr N / Of Steeles Ave',43.632797,-79.771194,1
+93005,'3828','Financial Dr N / Of Antamina St',43.633598,-79.773346,1
 93020,'3845','Financial Dr @ 6701 Financial Dr',43.610462,-79.739311,1
 93025,'3846','Financial Dr @ 6745 Financial Dr',43.609627,-79.741631,1
 93030,'3847','Financial Dr @ 6897 Financial Dr',43.609467,-79.745003,1
 93035,'3848','Financial Dr S / Of Derry Rd',43.61084,-79.748283,1
+93040,'3849','Financial Dr S / Of Westbridge Way',43.616337,-79.752312,0
+93045,'3850','Financial Dr S / Of Grouse Ln',43.623833,-79.759125,1
+93050,'3851','Financial Dr S / Of Hallstone Rd',43.625893,-79.761917,1
+93055,'3852','Financial Dr S / Of Miner St',43.627476,-79.764053,1
+93060,'3853','Financial Dr S / Of Cooperage St',43.630653,-79.768448,1
+93505,'3833','Financial Dr N / Of Plentywood Dr',43.634792,-79.778542,1
+93510,'3834','Financial Dr N / Of Shediac Rd',43.63364,-79.777,1
+93515,'3835','Financial Dr N / Of Olivia Marie Rd',43.633419,-79.775101,1
+93520,'3836','Financial Dr Opp Antamina St',43.633366,-79.773018,1
+93530,'3838','Hereford St S / Of Steeles Ave',43.621437,-79.780228,0
+93535,'3839','Edgeware Rd E / Of Hereford St',43.618919,-79.775269,0
+93540,'3840','Edgeware Rd W / Of Ironbridge Rd',43.621025,-79.772926,0
 93545,'3841','Mississauga Rd N / Of Hereford St',43.621372,-79.76825,1
 93550,'3842','Derry Rd W / Of Financial Dr',43.611443,-79.749413,1
 93555,'3843','Derry Rd W / Of Creditview Rd',43.613846,-79.744698,1
@@ -2427,6 +2439,7 @@
 15033008,'3943','Gore Mdws CC - Route 35 Stop',43.793533,-79.695763,1
 15051801,'3944','Heart Lk Rd S / Of Sprucewood Rd',43.727924,-79.771141,1
 15051802,'3945','Bramalea Rd S / Of Inspire Blvd',43.769535,-79.777969,1
+15051803,'3946','Financial Dr N / Of Meadowvale',43.614769,-79.751175,1
 15051804,'3947','The Gore Rd N / Of Castlemore Rd',43.791965,-79.690247,1
 15051805,'3948','Castlemore Rd E / Of The Gore Rd',43.792236,-79.689278,1
 15051806,'3949','Creditview Rd S / Of Aylesbury Rd',43.68391,-79.829254,1
@@ -2626,7 +2639,6 @@
 16090523,'2829','Veterans Dr S / Of Buick Blvd',43.68507,-79.847221,1
 16090524,'2830','Veterans Dr N / Of Fann Dr',43.684151,-79.845688,1
 16090525,'2831','Veterans Dr S / Of Sandalwood Pkwy',43.68148,-79.84211,1
-16090526,'2832','Martin Byrne Dr N / Of Bering Rd',43.814842,-79.729073,1
 16090527,'2833','Squire Ellis Dr Btwn Quintette Cl & Belladonna Cir',43.813274,-79.72464,1
 16090529,'2835','Squire Ellis Dr W / Of The Gore Rd',43.815182,-79.722435,1
 16090531,'2837','Ray Lawson Blvd E / Of Rollingwood Dr',43.644276,-79.744568,1
@@ -2688,7 +2700,6 @@
 17030608,'3302','Ray Lawson Blvd @ 300 Ray Lawson Blvd',43.653416,-79.730591,1
 17030610,'3304','Timberlane Dr S / Of Ray Lawson Blvd',43.652565,-79.732582,1
 17030614,'3340','Timberlane Dr Btwn Gdn Gt Cir & Gurdwara Gt',43.648937,-79.73172,1
-17050101,'3341','Martin Byrne Dr N / Of Squire Ellis Dr',43.813427,-79.727249,0
 17050103,'3343','Wanless Dr Btwn Brisdale Dr & Thornbush Blvd-4A',43.699921,-79.842545,0
 17090503,'3346','Dixie Rd S / Of Countryside Dr',43.754402,-79.781265,1
 17090506,'3349','Inspire Blvd W / Of Fringetree Rd',43.760822,-79.783028,1
@@ -2728,6 +2739,21 @@
 17103030,'3982','James Potter Rd Opp Kirkbridge Crt',43.670521,-79.798882,1
 17103031,'3983','James Potter Rd Opp Richmead Rd',43.668098,-79.796356,1
 17103032,'3984','James Potter Rd N / Of Antibes Dr',43.666229,-79.793587,1
+18010802,'3986','Financial Dr Opp Shediac Rd',43.633686,-79.776291,1
+18010803,'3987','Financial Dr Opp Plentywood Dr',43.634388,-79.777824,1
+18010804,'3988','Financial Dr S / Of Sacramento Rd',43.635834,-79.779228,1
+18010805,'3989','Financial Dr S / Of Tilsonburg Ave',43.636894,-79.780647,1
+18010806,'3990','Financial Dr S / Of Mastersview Dr',43.637524,-79.783768,1
+18010807,'3991','Financial Dr E / Of Mississauga Rd',43.635674,-79.786469,1
+18010808,'3992','Financial Dr E / Of Elysian Fields Cir',43.633457,-79.792526,1
+18010809,'3993','Financial Dr E / Of Lower Thames Dr',43.632931,-79.794342,1
+18010811,'3995','Lionhead Golf Club Rd E / Of Lower Thames Dr',43.6353,-79.797096,1
+18010812,'3996','Lionhead Golf Club Rd W / Of Bushfield Cir (E)',43.636612,-79.793579,1
+18010813,'3997','Lionhead Golf Club Rd W / Of Mississauga Rd',43.63731,-79.790337,1
+18010814,'3998','Financial Dr E / Of Mississauga Rd',43.635658,-79.786064,1
+18010815,'3999','Financial Dr W / Of Stonecrop Rd',43.637032,-79.784477,1
+18010816,'4000','Financial Dr N / Of Noble Oaks Rd',43.637207,-79.781654,1
+18010817,'4113','Financial Dr N / Of Wardsville Dr',43.636173,-79.780045,1
 18010818,'4114','Sunnyvale Gt S / Of Bovaird Dr',43.757313,-79.729431,0
 18010819,'4115','Sunnyvale Gt N / Of Blue Diamond Dr',43.756134,-79.727318,0
 18010820,'4116','Blue Diamond Dr E / Of Vlg Lk Cir (E)',43.753498,-79.729477,0
@@ -2736,10 +2762,12 @@
 18010823,'4119','Sunnyvale Gt S / Of Bovaird Dr',43.757725,-79.72963,0
 18010824,'4120','Hwy 7 @ (EB) Vaughan Metropolitan Ctr Sta',43.793232,-79.52787,1
 18010827,'4123','Hwy 7 @ (WB) Vaughan Metropolitan Ctr Sta',43.793488,-79.527992,1
+18030501,'3985','Rivermont Rd N / Of Vetch St',43.633732,-79.798439,0
 18030502,'4124','Darcel - Zum Steeles Stop',43.733391,-79.634148,1
 18030503,'4125','Winston Churchill Blvd @ Maple Lodge Farms',43.614037,-79.806358,0
 18030504,'4126','Queen - Zum Bovaird Sta Stop NB',43.744175,-79.696358,1
 18030505,'4127','Queen - Zum Bovaird Sta Stop SB',43.742496,-79.694847,1
+18030506,'4128','Rivermont Rd N / Of Temple Mnr Rd',43.63237,-79.797577,1
 18043001,'4129','Winston Churchill Blvd N / Of Steeles Ave',43.608242,-79.798386,1
 18043002,'4130','Templehill Rd E / Of Naperton Dr',43.750935,-79.779869,1
 18043003,'4131','Ross Dr N / Of Templehill Rd',43.750038,-79.7817,1
@@ -2790,6 +2818,7 @@
 18090453,'4190','Mountainash Rd S / Of Welland Rd',43.777729,-79.753883,1
 18090454,'4191','Countryside Dr Opp Frobischer Dr',43.77684,-79.758369,1
 18090455,'7223','Smart VMC Term - Route 501 Zum Queen WB',43.797424,-79.527649,1
+18090456,'4193','Heritage Rd @ Amazon Fulfillment Ctr YYZ4',43.617783,-79.78727,1
 18090457,'4194','Malton GO Sta - Route 505 Stop',43.705315,-79.638298,1
 18090458,'4195','Sandalwood Pkwy E / Of Robert Parkinson Dr',43.686993,-79.837662,1
 18090459,'4196','Sandalwood Pkwy W / Of Robert Parkinson Dr',43.686554,-79.838394,1
@@ -2850,7 +2879,6 @@
 21090600,'4272','Veterans Dr N / Of Nightjar Dr',43.691223,-79.857658,1
 21090601,'4273','Veterans Dr S / Of Elverton Cres (S)',43.691074,-79.85717,1
 21090602,'4274','Castlemore Rd Opp Valleycreek Dr',43.77549,-79.708588,0
-21103100,'6221','Rathburn Rd Opp City Ctr Term',43.5942,-79.647446,1
 21110100,'4275','Bramalea Rd N / Of Inspire Blvd',43.769791,-79.778809,0
 22010300,'4276','Bovaird Dr W / Of Creditview Rd',43.670845,-79.825691,1
 22042500,'7224','Hwy 50 S / Of Gibraltar Rd',43.754883,-79.641876,1
@@ -2877,3 +2905,12 @@
 22103106,'4298','Squire Ellis Dr W / Of Landview Rd',43.81226,-79.72921,1
 22103107,'4299','Squire Ellis Dr W / Of Martin Byrne Dr',43.812561,-79.727203,1
 23010900,'4301','Mississauga Rd N / Of Steeles Ave',43.627785,-79.776817,1
+23030600,'4302','Countryside Dr W / Of The Gore Rd',43.811481,-79.717125,0
+23030601,'4303','Countryside Dr Opp Everglade Dr',43.807518,-79.721519,1
+23030602,'4304','Countryside Dr E / Of Martin Byrne Dr',43.806278,-79.722824,1
+23030603,'4305','Martin Byrne Dr S / Of Arda Cres (S)',43.807129,-79.72467,1
+23030604,'4306','Martin Byrne Dr S / Of Mugo Pine St',43.810135,-79.725777,1
+23030605,'4307','Martin Byrne Dr N / Of Squire Ellis Dr',43.813065,-79.726837,1
+23030606,'4308','Martin Byrne Dr N / Of Duet St',43.815022,-79.729057,1
+23030607,'4309','Martin Byrne Dr S / Of Mayfield Rd',43.816036,-79.73056,1
+23030608,'4310','The Gore Rd N / Of Squire Ellis Dr',43.815788,-79.722626,1
