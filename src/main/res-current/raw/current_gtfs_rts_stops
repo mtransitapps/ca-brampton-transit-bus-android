@@ -375,8 +375,7 @@
 5110,'1427','Balmoral Dr @ Deloraine Dr',43.720296,-79.695276,1
 5120,'1428','Balmoral Dr @ Dearbourne Blvd',43.71931,-79.693463,1
 5130,'1429','Dearbourne Blvd @ Devonshire Dr',43.717061,-79.692352,1
-5140,'1430','Dearbourne Blvd @ Dorchester Dr',43.715644,-79.692046,0
-5150,'1431','Dearbourne Blvd Opp Deerfield Cres (S)',43.71429,-79.691769,0
+5140,'1430','Dearbourne Blvd S / Of Dorchester Dr',43.715192,-79.691924,0
 5160,'1432','Dearbourne Blvd @ Delmere Rd',43.713055,-79.692084,1
 5170,'1433','Dearbourne Blvd @ Dorset Dr (E / Of Bramalea Rd)',43.710057,-79.69518,1
 5260,'1435','Hanover Rd W / Of Hartnell Sq',43.720785,-79.724984,1
@@ -1229,7 +1228,7 @@
 16490,'2429','Bovaird Dr W E / Of Royal Orchard Dr',43.698533,-79.794302,1
 16500,'2430','Bovaird Dr W @ Gillingham Dr',43.702838,-79.78975,1
 16510,'2431','Main - Zum Bovaird Sta Stop EB',43.706446,-79.785766,1
-16520,'2432','Bovaird Dr E E / Of Yellow Brick Rd',43.709188,-79.782962,1
+16520,'2432','Bovaird Dr W / Of Yellow Brick Rd',43.708255,-79.783865,1
 16530,'2433','Bovaird Dr E @ Hinchley Wood Grv',43.712369,-79.780002,1
 16540,'2434','Kennedy - Zum Bovaird Sta Stop EB',43.716331,-79.775795,1
 16550,'2435','Bovaird Dr E W / Of Langston Dr',43.718526,-79.773358,1
@@ -1396,7 +1395,7 @@
 18175,'4099','Kingknoll Dr Btwn Creditstone Rd & Pennsylvania Av',43.647459,-79.746962,1
 18180,'2615','Kingknoll Dr W / Of Windmill Blvd',43.651506,-79.743115,1
 18190,'2616','Kingknoll Dr @ 45 Kingknoll Dr (W / Of McLaughlin)',43.653275,-79.741217,1
-18200,'2617','Sheridan Rt 53 WB / 56',43.656413,-79.740497,1
+18205,'2618','Sheridan Rt 53 / 56 WB Stop',43.656442,-79.740551,1
 18290,'2623','Central Pk Dr N / Of Hanover Rd',43.722177,-79.724262,1
 18300,'2624','Central Pk Dr N / Of Howden Blvd',43.724836,-79.727029,1
 18310,'2625','Central Pk Dr E / Of Hilldale Cres (W)',43.726374,-79.727756,1
@@ -1496,7 +1495,6 @@
 19680,'2736','Kennedy Rd S Opp Dean St (@ 110 Kennedy Rd)',43.687008,-79.737725,1
 19690,'2737','Kennedy Rd S Opp Research Rd (@ 90 Kennedy Rd)',43.687906,-79.738914,1
 19700,'2738','Kennedy Rd S @ Clarence St',43.689537,-79.741097,1
-19710,'2739','Kennedy Rd S N / Of Orenda Rd',43.693019,-79.745783,1
 19720,'2740','Kennedy Rd S @ Eastern Ave',43.693939,-79.747006,0
 19730,'2741','Kennedy Rd S @ Queen St E',43.695344,-79.748798,1
 19740,'2742','Kennedy Rd N Opp Church St',43.697629,-79.751934,1
@@ -2412,7 +2410,7 @@
 15033005,'3941','Financial - Zum Steeles Sta Stop EB',43.632914,-79.769518,1
 15033006,'3940','Hereford - Zum Steeles Sta Stop EB',43.622682,-79.7808,1
 15033007,'3939','Rivermont - Zum Steeles Sta Stop WB',43.622035,-79.782019,1
-15033008,'3943','Gore Mdws CC - Route 50A, 35, 36 NB Stop',43.793338,-79.69607,1
+15033008,'3943','Gore Mdws CC - Route 50A / 35 / 36 NB Stop',43.793338,-79.69607,1
 15051801,'3944','Heart Lk Rd S / Of Sprucewood Rd',43.727923,-79.771143,1
 15051802,'3945','Bramalea Rd S / Of Inspire Blvd',43.769536,-79.777967,1
 15051803,'3946','Financial Dr N / Of Meadowvale',43.61477,-79.751176,1
@@ -2493,6 +2491,7 @@
 15090776,'2761','Ganton Hts W / Of Butterworth Rd',43.676098,-79.827991,1
 15090777,'2762','Creditview Rd Opp Aylesbury Dr',43.684168,-79.82918,1
 15090778,'2763','Goreway Dr N / Of Jacksonville Dr',43.788026,-79.731857,0
+15090780,'2765','Bloomsbury Ave S / Of Jacksonville Dr',43.785847,-79.733435,1
 15090801,'4226','Humber College Term - Route 50 / 50A Stop',43.728943,-79.604405,1
 15090802,'4227','Humber College Term- Zum Steeles 511 / 511A / 511C',43.729155,-79.605278,1
 15090803,'4228','Humber College Term - Route 11 / 11A Stop',43.729016,-79.604922,1
@@ -2520,6 +2519,9 @@
 15090838,'1322','Chinguacousy Rd N / Of Drinkwater Rd',43.656829,-79.767917,1
 15090839,'1323','Chinguacousy Rd Btwn Queen St & Bonnie Braes Dr',43.663192,-79.777202,1
 15090840,'1324','Chinguacousy Rd Btwn Bonnie Braes Dr & Dusk Dr',43.659006,-79.771503,1
+15090843,'1327','Bloomsbury Ave N / Of Latania Blvd',43.782703,-79.727969,0
+15090844,'1328','Bloomsbury Ave S / Of Richgrove Dr',43.784399,-79.731006,1
+15090845,'1329','Jacksonville Dr W / Of Goreway Dr',43.787516,-79.731924,0
 15090846,'1330','Humberwest Pkwy E / Of Airport Rd',43.769265,-79.729366,1
 15090847,'1331','Humberwest Pkwy N / Of Castlemore Rd',43.767288,-79.718958,1
 15090848,'1332','Humberwest Pkwy N / Of Crystal Hl Dr',43.769308,-79.721813,1
@@ -2557,7 +2559,7 @@
 15090886,'1552','Panahill Dr W / Of The Gore Rd',43.782333,-79.678582,0
 15090887,'1553','Panahill Dr E / Of Templeton Crt',43.78126,-79.680981,0
 15090888,'1554','Panahill Dr E / Of Strathdale Rd',43.7811,-79.683408,1
-15090889,'1555','Panahill Dr W / Of Smithville Dr',43.780272,-79.68594,0
+15090889,'1555','Panahill Dr W / Of Smithville Dr',43.780255,-79.685774,0
 15090890,'1556','Panahill Dr Opp Fieldview Dr',43.780775,-79.684712,0
 15090891,'1557','Panahill Dr W / Of Dilworth Chase Rd',43.781175,-79.680833,0
 15090892,'1558','Skyvalley Dr N / Of Riverglen St',43.778333,-79.679264,0
@@ -2864,10 +2866,10 @@
 23050101,'4312','Queen St E / Of Cherrycrest Dr',43.763426,-79.669314,1
 23050102,'4313','The Gore Rd @ Castlemore S',43.790069,-79.687501,1
 23090400,'4314','Countryside Dr W / Of Naperton Dr',43.752374,-79.783635,0
-23090401,'4315','Dixie Rd S / Of Inspire Blvd',43.758265,-79.786415,0
+23090401,'4315','Dixie Rd S / Of Inspire Blvd',43.758202,-79.786466,0
 23090402,'4316','Dixie Rd S / Of George Gray Dr',43.760166,-79.78908,0
-23090403,'4317','Dixie Rd S / Of Mayfield Rd',43.762237,-79.791699,0
-23090404,'5014','Dixie Rd @ UPS (Caledon)',43.770344,-79.804078,1
+23090403,'4317','Dixie Rd S / Of Mayfield Rd',43.762189,-79.791721,0
+23090404,'5014','Dixie Rd @ UPS (Caledon)',43.767513,-79.800955,1
 23090405,'4318','Mayfield Rd W / Of Russell Crk Dr',43.766321,-79.787912,0
 23090406,'4319','Russell Crk Dr S / Of Seymour Rd',43.764744,-79.785248,1
 23090407,'4320','Edenbrook Hl Dr Btwn Wanless Dr & Dolucci Cres',43.70915,-79.834121,1
@@ -2892,11 +2894,13 @@
 23090427,'4340','Remembrance Rd W / Of Iguana Tr',43.714262,-79.833935,1
 23090428,'4341','Remembrance Rd E / Of Divers Rd',43.713211,-79.83506,1
 23090429,'4342','Remembrance Rd E / Of Edenbrook Hl Dr',43.71172,-79.836256,1
-23090430,'4343','The Gore Rd S / Of Castle Oaks Xing',43.786705,-79.682929,1
+23090430,'4343','The Gore Rd S / Of Castle Oaks Xing',43.786687,-79.682895,1
 23090431,'4344','McVean Dr S / Of Castlemore Rd',43.781999,-79.699647,1
 23090432,'4345','McVean Dr S / Of Carl Finlay Dr',43.805185,-79.731033,0
 23090433,'4346','McVean Dr S / Of Squire Ellis Dr',43.808492,-79.735339,0
 23090434,'4347','Countryside Dr W / Of Gordon Randle Dr',43.79887,-79.730719,1
 23090435,'4348','Countryside Dr W / Of McVean Dr',43.801928,-79.727248,1
 23090436,'4349','Chinguacousy Rd S / Of Queen St (Rt 55 Stop)',43.665745,-79.780859,1
-23090437,'4350','Gore Mdws CC - Route 35, 36 SB Stop',43.793525,-79.69583,1
+23090437,'4350','Gore Mdws CC - Route 35 / 36 SB Stop',43.793525,-79.69583,1
+23103001,'4352','Wanless Dr E / Of McLaughlin Rd',43.716209,-79.82433,1
+23103002,'4353','Remembrance Rd W / Of Chinguacousy Rd',43.708624,-79.83911,1
