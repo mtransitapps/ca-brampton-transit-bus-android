@@ -1,19 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="MissingVersion" >
+    tools:ignore="MissingVersion">
+
     <application
         android:allowBackup="true"
         android:description="@string/app_desc"
         android:icon="@mipmap/module_app_icon"
         android:label="@string/app_name"
-        tools:ignore="GoogleAppIndexingWarning" >
+        tools:ignore="GoogleAppIndexingWarning">
         <!-- GTFS ROUTE TRIP STOP & SCHEDULE PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.GTFSProvider"
             android:authorities="@string/gtfs_rts_authority"
             android:exported="true"
             android:readPermission="${permission_provider_read}"
-            tools:ignore="MissingRegistered" >
+            tools:ignore="MissingRegistered">
             <meta-data
                 android:name="@string/agency_provider"
                 android:value="@string/agency_provider" />
@@ -39,13 +41,17 @@
                 android:name="@string/schedule_provider_target"
                 android:value="@string/gtfs_rts_authority" />
         </provider>
+        <!--
+            TODO https://nextride.brampton.ca:81/API/ServiceAlerts?format=gtfs.proto
+            TODO ROUTE ID is "RSN-000" which can't be converted to integer anc can't be used for RSN in UI
+        -->
         <!-- TWITTER NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
             android:authorities="@string/twitter_authority"
             android:exported="true"
             android:readPermission="${permission_provider_read}"
-            tools:ignore="MissingRegistered" >
+            tools:ignore="MissingRegistered">
             <meta-data
                 android:name="@string/news_provider"
                 android:value="@string/news_provider" />
