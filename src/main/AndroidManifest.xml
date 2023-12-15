@@ -41,10 +41,20 @@
                 android:name="@string/schedule_provider_target"
                 android:value="@string/gtfs_rts_authority" />
         </provider>
-        <!--
-            TODO https://nextride.brampton.ca:81/API/ServiceAlerts?format=gtfs.proto
-            TODO ROUTE ID is "RSN-000" which can't be converted to integer anc can't be used for RSN in UI
-        -->
+        <!-- GTFS REAL TIME PROVIDER -->
+        <provider
+            android:name="org.mtransit.android.commons.provider.GTFSRealTimeProvider"
+            android:authorities="@string/gtfs_real_time_authority"
+            android:exported="true"
+            android:readPermission="${permission_provider_read}"
+            tools:ignore="MissingRegistered">
+            <meta-data
+                android:name="@string/service_update_provider"
+                android:value="@string/service_update_provider" />
+            <meta-data
+                android:name="@string/service_update_provider_target"
+                android:value="@string/gtfs_real_time_for_poi_authority" />
+        </provider>
         <!-- TWITTER NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
