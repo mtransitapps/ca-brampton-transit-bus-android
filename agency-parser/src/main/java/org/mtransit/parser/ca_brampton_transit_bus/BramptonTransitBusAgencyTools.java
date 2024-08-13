@@ -68,6 +68,12 @@ public class BramptonTransitBusAgencyTools extends DefaultAgencyTools {
 		return true;
 	}
 
+	@Nullable
+	@Override
+	public String getRouteIdCleanupRegex() {
+		return "\\-\\d+$";
+	}
+
 	@Override
 	public boolean defaultAgencyColorEnabled() {
 		return true;
