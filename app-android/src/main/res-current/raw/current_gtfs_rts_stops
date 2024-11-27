@@ -368,7 +368,7 @@
 5390,'1448','Nasmith St @ Nevada Crt',43.72827,-79.75701,1,-1173788107
 5400,'1449','Nasmith St @ Newport St',43.72903,-79.75803,1,-1173787425
 5410,'1450','Nasmith St @ Bovaird Dr E',43.73013,-79.75950,1,-1173787394
-5450,'1452','Nasmith St S / Of Bovaird Dr E',43.72971,-79.75918,0,-1173787270
+5450,'1452','Great Lks Dr N / Of Bovaird Dr',43.73052,-79.76047,0,-1173787270
 5460,'1453','Nasmith St N / Of Niagara Pl',43.72819,-79.75716,0,-1173787239
 5470,'1454','North Pk Dr W / Of Nasmith St',43.72653,-79.75420,1,-1173787208
 5480,'1455','North Pk Dr @ Nuffield St',43.72405,-79.75390,1,-1173787177
@@ -1527,7 +1527,6 @@
 22720,'2905','Harper Rd N / Of Bartley Bull Pkwy',43.68083,-79.73786,0,-1172026811
 22730,'2906','Harper Rd @ Jersey Ave',43.68221,-79.74026,0,-1172026780
 22740,'2907','Harper Rd S / Of Cornwall Rd',43.68343,-79.74238,1,-1172026749
-22750,'2908','Marsden Cres @ Eldomar Ave',43.68342,-79.74391,0,-1172026718
 22760,'2909','Sterne Ave N / Of Eldomar Ave',43.68439,-79.74364,1,-1172026687
 22770,'2910','Sterne Ave @ Clarence St',43.68587,-79.74563,1,-1172026656
 22780,'2911','Ctr St @ Hardwick Dr',43.68660,-79.74681,1,-1172026625
@@ -1588,7 +1587,6 @@
 23440,'2983','Ctr St N / Of Hardwick Dr',43.68688,-79.74741,1,-1171999841
 23450,'2984','Sterne Ave S / Of Clarence St',43.68554,-79.74542,1,-1171999810
 23460,'2985','Sterne Ave @ Eldomar Ave',43.68418,-79.74358,1,-1171999779
-23475,'2986','Marsden Cres N / Of Cornwall Rd',43.68311,-79.74373,0,-1171999743
 23480,'2987','Harper Rd N / Of Golding Ave',43.68319,-79.74222,1,-1171999717
 23490,'2988','Harper Rd Opp Jersey Ave',43.68226,-79.74060,1,-1171999686
 23500,'2989','Harper Rd @ Bartley Bull Pky',43.68061,-79.73771,1,-1171999004
@@ -1954,7 +1952,7 @@
 43305,'6184','Airport Rd S / Of Silver Dart',43.69297,-79.62827,1,-1170153879
 43307,'6185','Airport Rd @ American Dr',43.68918,-79.62181,1,-1170153877
 43309,'6186','Airport Rd @ Jetliner Rd',43.68577,-79.60731,1,-1170153875
-44000,'3359','Fernforest Dr Opp Hartwell Gt',43.75393,-79.76929,0,-1170126976
+44000,'3359','Fernforest Dr Opp Hartwell Gt',43.75403,-79.76950,0,-1170126976
 44002,'4070','Fernforest Dr S / Of Abitibi Lk Dr',43.75725,-79.77502,1,-1170126974
 44005,'4071','Fernforest Dr N / Of Father Tobin Rd',43.75654,-79.77334,1,-1170126971
 44010,'3360','Father Tobin Rd @ Fairservice Dr (W / Of Bramalea)',43.75793,-79.77072,1,-1170126945
@@ -2187,7 +2185,6 @@
 50193,'4002','Bramalea Term- Zum Queen 501 WB-Departure',43.71902,-79.72056,1,-1169321376
 50198,'4003','Bramalea Term- Zum Queen 501 EB-Departure',43.71889,-79.72073,1,-1169321371
 51000,'3501','McLaughlin Rd N / Of Gurdwara Gt',43.64829,-79.73235,1,-1169292828
-51010,'3502','McLaughlin Rd Btwn Gurdwara & Ray Lawson Blvd',43.64934,-79.73384,1,-1169292797
 51020,'3503','McLaughlin Rd N / Of Ray Lawson Blvd',43.65155,-79.73673,1,-1169292766
 51100,'1003','Kennedy - Zum Steeles Sta Stop EB',43.67620,-79.72175,1,-1169291867
 51101,'1123','Kennedy - Zum Steeles Sta Stop WB',43.67512,-79.72355,1,-1169291866
@@ -2662,7 +2659,7 @@
 18010807,'3991','Financial Dr @ Mississauga Rd',43.63567,-79.78647,1,-920103817
 18010808,'3992','Financial Dr E / Of Elysian Fields Cir',43.63346,-79.79253,1,-920103816
 18010809,'3993','Financial Dr E / Of Lower Thames Dr',43.63293,-79.79434,1,-920103815
-18010811,'3995','Lionhead Golf Club Rd E / Of Lower Thames Dr',43.63530,-79.79710,1,-920103792
+18010811,'3995','Lionhead Golf Club Rd E / Of Lower Thames Dr',43.63508,-79.79737,1,-920103792
 18010812,'3996','Lionhead Golf Club Rd W / Of Bushfield Cir (E)',43.63661,-79.79358,1,-920103791
 18010813,'3997','Lionhead Golf Club Rd W / Of Mississauga Rd',43.63731,-79.79034,1,-920103790
 18010814,'3998','Financial Dr E / Of Mississauga Rd',43.63566,-79.78607,1,-920103789
@@ -2677,12 +2674,10 @@
 18010823,'4119','Sunnyvale Gt S / Of Bovaird Dr',43.75773,-79.72963,0,-920103759
 18010824,'4120','Hwy 7 @ (EB) Vaughan Metropolitan Ctr Sta',43.79323,-79.52787,1,-920103758
 18010827,'4123','Hwy 7 @ (WB) Vaughan Metropolitan Ctr Sta',43.79349,-79.52799,1,-920103755
-18030501,'3985','Rivermont Rd N / Of Vetch St',43.63373,-79.79844,0,-918259664
 18030502,'4124','Darcel - Zum Steeles Stop',43.73339,-79.63415,1,-918259663
 18030503,'4125','Winston Churchill Blvd @ Maple Lodge Farms',43.61404,-79.80636,0,-918259662
 18030504,'4126','Queen - Zum Bovaird Sta Stop NB',43.74417,-79.69636,1,-918259661
 18030505,'4127','Queen - Zum Bovaird Sta Stop SB',43.74250,-79.69485,1,-918259660
-18030506,'4128','Rivermont Rd N / Of Temple Mnr Rd',43.63237,-79.79758,1,-918259659
 18043001,'4129','Winston Churchill Blvd N / Of Steeles Ave',43.60824,-79.79838,1,-917251575
 18043002,'4130','Templehill Rd E / Of Naperton Dr',43.75093,-79.77987,1,-917251574
 18043003,'4131','Ross Dr N / Of Templehill Rd',43.75004,-79.78170,1,-917251573
@@ -2928,3 +2923,11 @@
 24072905,'4424','Darcel Ave Opp Middleshire Dr',43.73052,-79.63585,1,1573260757
 24072906,'4425','Heart Lk Rd S / Of Sandalwood Pkwy',43.73621,-79.78036,0,1573260758
 24072907,'4426','Heart Lk Rd S / Of Ecopark Cl',43.74790,-79.79639,1,1573260759
+24102800,'4427','Financial Dr W / Of Mississauga Rd',43.63477,-79.78747,1,1595424295
+24102801,'4428','Financial Dr @ Rivermont Rd',43.63106,-79.79716,1,1595424296
+24102802,'4429','Financial Dr @ Heritage Rd',43.62835,-79.79989,1,1595424297
+24102803,'4430','Heritage Rd @ Merrimac Dr',43.63486,-79.80938,1,1595424298
+24102804,'4431','Rivermont Rd S / Of Gladmary Dr',43.63803,-79.80778,1,1595424299
+24102805,'4432','Rivermont Rd S / Of Merrimac Dr',43.63738,-79.80591,1,1595424300
+24102806,'4433','Rivermont Rd S / Of Fordham Rd',43.63659,-79.80358,1,1595424301
+24102807,'4434','Rivermont Rd N / Of Ferdinand Dr',43.63553,-79.80180,1,1595424302
