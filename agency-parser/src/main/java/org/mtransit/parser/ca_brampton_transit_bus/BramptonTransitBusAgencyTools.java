@@ -32,11 +32,6 @@ public class BramptonTransitBusAgencyTools extends DefaultAgencyTools {
 		new BramptonTransitBusAgencyTools().start(args);
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -165,6 +160,7 @@ public class BramptonTransitBusAgencyTools extends DefaultAgencyTools {
 		case 217: return "0161AB";
 		case 218: return null; // TODO?
 		case 300: return null; // TODO?
+		case 301: return null; // TODO?
 		case 501: return "EC2027";
 		case 502: return "EC2027";
 		case 505: return "EC2027";
