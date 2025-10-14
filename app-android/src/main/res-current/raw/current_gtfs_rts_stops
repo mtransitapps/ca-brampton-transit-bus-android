@@ -362,7 +362,7 @@
 5320,'1441','Howden Blvd @ Vodden Rd E',43.71712,-79.74146,1,-1173788324
 5330,'1442','Howden Blvd @ Ladin Dr',43.71819,-79.74403,1,-1173788293
 5340,'1443','Howden Blvd @ Leander St',43.71936,-79.74550,1,-1173788262
-5350,'1444','North Pk Dr N / Of Williams Pwky E',43.72072,-79.74716,0,-1173788231
+5350,'1444','North Pk Dr N / Of Williams Pwky E',43.72093,-79.74743,0,-1173788231
 5360,'1445','North Pk Dr S / Of Northampton St',43.72238,-79.74999,1,-1173788200
 5370,'1446','North Pk Dr @ Neptune Crt',43.72385,-79.75344,1,-1173788169
 5380,'1447','Nasmith St N / Of North Pk Dr',43.72704,-79.75445,0,-1173788138
@@ -1045,7 +1045,7 @@
 14480,'2227','McLaughlin Rd N @ 9500 McLaughlin Rd N',43.68546,-79.78356,1,-1172893447
 14490,'2228','McLaughlin Rd N @ 9446 McLaughlin Rd N',43.68441,-79.78206,1,-1172893416
 14500,'2229','McLaughlin Rd @ Flowertown Ave',43.68240,-79.77937,0,-1172892734
-14510,'2230','McLaughlin Rd N N / Of Campbell Dr',43.68134,-79.77790,1,-1172892703
+14510,'2230','McLaughlin Rd N N / Of Campbell Dr',43.68092,-79.77736,1,-1172892703
 14520,'2231','McLaughlin Rd N Opp Amsterdam Cres',43.68010,-79.77620,1,-1172892672
 14530,'2232','McLaughlin Rd Opp Denison Ave',43.67854,-79.77408,1,-1172892641
 14540,'2233','McLaughlin Rd N N / Of Horwood Dr',43.67775,-79.77302,1,-1172892610
@@ -1163,7 +1163,7 @@
 15860,'2377','Brisdale Dr @ Bovaird Dr W',43.68358,-79.81260,0,-1172859874
 15870,'2378','Worthington - Zum Bovaird Sta Stop WB',43.68103,-79.81454,1,-1172859843
 15875,'2379','Bovaird Dr E / Of Lagerfeld Dr',43.67360,-79.82169,1,-1172859838
-15880,'2380','Mt Pleasant GO Sta Route 4 / 4A / 104 Stop',43.67453,-79.82191,1,-1172859812
+15880,'2380','Mt Pleasant GO Sta Route 4 / 4C / 104 Stop',43.67453,-79.82191,1,-1172859812
 15895,'2381','Bovaird Dr E / Of Ashby Field Rd',43.67325,-79.82160,1,-1172859776
 15900,'2382','Lk Louise - Zum Bovaird Sta Stop EB',43.68098,-79.81395,1,-1172859099
 15910,'2383','Brisdale Dr N / Of Bovaird Dr W',43.68381,-79.81267,1,-1172859068
@@ -1782,7 +1782,7 @@
 30025,'3677','Bleasdale Ave S / Of Haverty Tr',43.67885,-79.82630,1,-1171169594
 30030,'3678','Bleasdale Ave S / Of Creditview Rd',43.67940,-79.82790,1,-1171169568
 30035,'3679','Creditview Rd S / Of Fairhill Ave',43.68188,-79.82730,1,-1171169563
-30100,'4216','Brampton Gateway Term Route 4 / 4A / 104 Stop',43.66495,-79.73460,1,-1171168700
+30100,'4216','Brampton Gateway Term Route 4 / 4C / 104 Stop',43.66495,-79.73460,1,-1171168700
 30101,'4217','Brampton Gateway Term Route 53 / 56 Stop',43.66519,-79.73431,1,-1171168699
 30102,'4218','Brampton Gateway Term Route 11 / 51 / 511 / 511C WB',43.66542,-79.73407,1,-1171168698
 30106,'4203','Brampton Gateway Term Route 57 Stop',43.66526,-79.73439,1,-1171168694
@@ -1819,7 +1819,7 @@
 40210,'3201','Sandalwood Pky E / Of Queen Mary Dr',43.70482,-79.81467,1,-1170244187
 40220,'3202','Sandalwood Pky W Btwn Queen Mary Dr & Edenbrook H',43.70100,-79.81851,1,-1170244156
 40230,'3203','Sandalwood Pky E / Of Edenbrook Hl Dr',43.69955,-79.81979,1,-1170244125
-40240,'3204','Sandalwood Pky W W / Of Chinguacousy Rd',43.69638,-79.82374,1,-1170244094
+40240,'3204','Sandalwood Pky W / Of Chinguacousy Rd',43.69638,-79.82374,1,-1170244094
 40250,'3205','Sandalwood Pky W @ St Edmund Campion',43.69434,-79.82914,1,-1170244063
 40253,'3876','Sandalwood Pkwy W / Of Brisdale Dr',43.69309,-79.83051,1,-1170244060
 40255,'3775','Sandalwood Pkwy E / Of Crown Victoria Dr',43.69123,-79.83277,1,-1170244058
@@ -2311,7 +2311,7 @@
 94000,'3784','Chinguacousy Rd S / Of Earlsbridge Blvd',43.70126,-79.82844,1,-1165509371
 94005,'3785','Chinguacousy Rd S / Of Sugarhill Dr',43.70374,-79.83183,1,-1165509366
 94010,'3786','Wanless Dr W / Of Chinguacousy Rd',43.70585,-79.83583,1,-1165509340
-94015,'3826','Wanless Dr E / Of Brisdale Dr - 4A',43.70248,-79.83945,1,-1165509335
+94015,'3826','Wanless Dr E / Of Brisdale Dr',43.70248,-79.83945,1,-1165509335
 94025,'3788','Chinguacousy Rd S / Of Wanless Dr',43.70564,-79.83489,1,-1165509304
 94030,'3789','Chinguacousy Rd N / Of Sugarhill Dr',43.70392,-79.83255,1,-1165509278
 94035,'3790','James Potter Rd S / Of Teal Crest Cir',43.66462,-79.78826,1,-1165509273
@@ -2367,7 +2367,7 @@
 15010502,'3934','Ray Lawson Blvd W / Of Timberlane Dr',43.65303,-79.73311,1,712349548
 15010503,'3935','Royal West Dr S / Of Williams Pkwy W',43.65935,-79.81297,1,712349549
 15021601,'3936','Steeles Ave E / Of Resolution Dr',43.67864,-79.71909,1,713303820
-15033001,'4224','Sheridan College Term - 3 / 3A / 4/4A / 11 / 51 / 511 / 104 WB',43.65582,-79.74182,1,714281157
+15033001,'4224','Sheridan College Term - 3 / 3A / 4/4C / 11 / 51 / 511 / 104 WB',43.65582,-79.74182,1,714281157
 15033002,'4225','Sheridan College Term - 11 / 51 / 511 / 511C EB',43.65608,-79.74152,1,714281158
 15033003,'3942','Malta - Zum Steeles Sta Stop EB',43.66127,-79.73808,1,714281159
 15033004,'3938','Chinguacousy - Zum Steeles Sta Stop WB',43.64637,-79.75531,1,714281160
