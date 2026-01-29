@@ -53,6 +53,12 @@ public class BramptonTransitBusAgencyTools extends DefaultAgencyTools {
 		return MAgency.ROUTE_TYPE_BUS;
 	}
 
+
+	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^\\d{6}-(MULTI)-|-\\d{2}(-|$)";
+	}
+
 	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
@@ -189,14 +195,13 @@ public class BramptonTransitBusAgencyTools extends DefaultAgencyTools {
 	private static final Pattern PARSE_HEAD_SIGN_ = Pattern.compile("(^\\d+([a-z]?)((\\s+)(\\w+))+((-| - | to )(.*))?$)", Pattern.CASE_INSENSITIVE);
 	private static final String PARSE_HEAD_SIGN_KEEP_BOUND = "$5";
 
-	@NotNull
 	@Override
-	public String cleanDirectionHeadsign(int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
+	public @NotNull String cleanDirectionHeadsign(@Nullable GRoute gRoute, int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
 		directionHeadSign = CleanUtils.toLowerCaseUpperCaseWords(Locale.ENGLISH, directionHeadSign, getIgnoreWords());
 		//noinspection deprecation
 		directionHeadSign = CleanUtils.removePoints(directionHeadSign); // before parse
 		directionHeadSign = PARSE_HEAD_SIGN_.matcher(directionHeadSign).replaceAll(PARSE_HEAD_SIGN_KEEP_BOUND);
-		return CleanUtils.cleanLabel(directionHeadSign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), directionHeadSign);
 	}
 
 	private static final String PARSE_HEAD_SIGN_KEEP_LETTER_AND_DISTINCT = "$2 $8";
@@ -208,7 +213,7 @@ public class BramptonTransitBusAgencyTools extends DefaultAgencyTools {
 		//noinspection deprecation
 		tripHeadsign = CleanUtils.removePoints(tripHeadsign); // before parse
 		tripHeadsign = PARSE_HEAD_SIGN_.matcher(tripHeadsign).replaceAll(PARSE_HEAD_SIGN_KEEP_LETTER_AND_DISTINCT);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	@NotNull
@@ -229,12 +234,12 @@ public class BramptonTransitBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.CLEAN_AT.matcher(gStopName).replaceAll(CleanUtils.CLEAN_AT_REPLACEMENT);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stopId = gStop.getStopId();
 		if (!stopId.isEmpty() && CharUtils.isDigitsOnly(stopId)) {
 			return Integer.parseInt(stopId);
