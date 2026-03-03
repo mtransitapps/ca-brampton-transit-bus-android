@@ -332,6 +332,7 @@
 4430,'1385','Bramalea Rd @ Alexandria Gt',43.71120,-79.69982,1,-1173817123
 4440,'1386','Bramalea Rd @ Avondale Blvd',43.70898,-79.69688,1,-1173817092
 4500,'3464','Mayfield SS',43.77359,-79.78170,1,1070633585
+4580,'1399','Tomken Rd S / Of Steeles Ave E',43.68969,-79.70582,1,-1173816007
 4630,'1404','Westcreek Blvd E / Of Hedgedale Rd',43.68513,-79.70150,1,-1173815201
 4720,'1412','Bramalea Rd S / Of Dewside Dr',43.75715,-79.76112,1,-1173814271
 4780,'1413','Dearbourne Blvd Opp Dorset Dr (E / Of Bramalea Rd)',43.70991,-79.69506,1,-1173814085
@@ -1242,6 +1243,7 @@
 16890,'6104','Westwood Mall Term Route 5 Stop',43.72160,-79.64015,1,-1172829990
 16910,'6105','Goreway Dr N / Of Morning Star Dr (7475 Goreway Dr)',43.72299,-79.64426,1,-1172829277
 16930,'6107','Goreway Dr N / Of Brandon Gt',43.72585,-79.64811,1,-1172829215
+16940,'2477','Goreway Dr N / Of Kenview Blvd',43.73075,-79.65460,1,-1172829184
 16970,'2479','Goreway Dr N / Of Intermodal Dr',43.73984,-79.66663,1,-1172829091
 16980,'2480','Goreway Dr @ 8495 Goreway Dr',43.74300,-79.67071,1,-1172829060
 16990,'2481','Goreway Dr @ Armthorpe Rd',43.74474,-79.67301,1,-1172829029
@@ -2044,6 +2046,8 @@
 44775,'3441','Heart Lk Rd N / Of Brussels Ave',43.72977,-79.77169,1,-1170120027
 44818,'3664','Ebenezer Rd E / Of The Gore Rd',43.77285,-79.66225,1,-1170119249
 44820,'3446','Ebenezer Rd W / Of Nexus Ave',43.77406,-79.66085,1,-1170119226
+44825,'3447','Westcreek Blvd Btwn 80 & 100 Westcreek Blvd',43.68085,-79.70501,0,-1170119221
+44830,'3448','Westcreek Blvd Btwn 150 & 200 Westcreek Blvd',43.67911,-79.70295,1,-1170119195
 44840,'3449','Westcreek Blvd N / Of 201 Westcreek Blvd',43.67698,-79.69982,0,-1170119164
 44850,'3450','Westcreek Blvd Opp 150 & 200 Westcreek Blvd',43.67933,-79.70297,0,-1170119133
 44860,'3451','Westcreek Blvd Opp Steelwell Rd',43.68261,-79.70386,1,-1170119102
@@ -2523,7 +2527,6 @@
 15090887,'1553','Skyvalley Dr S / Of River Hts Dr (N)',43.78047,-79.67925,0,719740852
 15090888,'1554','Pannahill Dr E / Of Strathdale Rd',43.78110,-79.68341,1,719740853
 15090889,'1555','Pannahill Dr W / Of Smithville Dr',43.78026,-79.68577,0,719740854
-15090890,'1556','Pannahill Dr Opp Fieldview Dr',43.78078,-79.68471,0,719740876
 15090891,'1557','Skyvalley Dr S / Of Pannahill Dr',43.78124,-79.67949,0,719740877
 15090892,'1558','Skyvalley Dr N / Of Riverglen St',43.77833,-79.67926,0,719740878
 15090893,'1559','Skyvalley Dr N / Of Cottrelle Blvd',43.77691,-79.67767,0,719740879
@@ -2773,6 +2776,7 @@
 19090338,'4256','The Gore Rd S / Of Mayfield Rd',43.81911,-79.72683,0,-25216679
 19090339,'4257','Mississauga Rd S / Of Royal West Dr',43.66216,-79.82267,1,-25216678
 19102800,'4258','Castlemore Rd E / Of McVean Dr',43.78292,-79.70011,0,-4834931
+20010500,'6226','Mississauga Rd @ 7330 Mississauga Rd',43.61413,-79.75780,0,-1982358524
 20030200,'4259','Van Kirk Dr N / Of Whitepoppy Dr',43.72424,-79.82973,1,-1980514365
 20030201,'4260','Van Kirk Dr N / Of Bramtrail Gt',43.72088,-79.82499,1,-1980514364
 20030202,'4261','Father Tobin Rd E / Of Fairservice Dr',43.75827,-79.77046,1,-1980514363
@@ -2953,3 +2957,8 @@
 25102702,'4455','Brisdale Dr S / Of Blk Rd',43.70644,-79.84684,0,-1812040279
 25102703,'4456','Wanless Dr @ Edenbrook Hl Dr',43.70854,-79.83289,1,-1812040278
 25102704,'4457','Richgrove Dr @ Goreway Dr',43.78580,-79.72917,1,-1812040277
+26030200,'5015','Airport Rd @ Nls',43.79663,-79.76784,1,-950459575
+26030201,'4459','Tomken Rd N / Of Westcreek Blvd',43.68605,-79.70120,0,-950459574
+26030202,'4460','Westcreek Blvd @ Steelwell Rd',43.68335,-79.70357,0,-950459573
+26030204,'4461','Pannahill Dr E / Of Templeton Crt',43.78124,-79.68097,0,-950459571
+26030205,'4462','Pannahill Dr W / Of Dilworth Chase Rd',43.78119,-79.68067,0,-950459570
