@@ -98,6 +98,7 @@
 1180,'1106','Steeles Ave E @ Parkhurst Sq',43.72718,-79.66541,1,-1173909224
 1230,'1111','Steeles Ave E W / Of Melanie Dr (E)',43.71175,-79.68295,1,-1173908418
 1235,'1112','Steeles Ave E W / Of Melanie Dr (W)',43.71001,-79.68493,1,-1173908413
+1237,'3665','W Steeles Ave @ 1810 Steeles Ave',43.70794,-79.68729,1,-1173908411
 1260,'1115','Steeles Ave W / Of Advance Blvd',43.69820,-79.69782,1,-1173908325
 1280,'1117','Steeles Ave E Btwn Dixie Rd & West Dr',43.69276,-79.70413,1,-1173908263
 1315,'1121','Steeles Ave E E / Of Resolution Dr',43.67841,-79.71999,1,-1173907514
@@ -753,13 +754,8 @@
 10630,'1889','Guru Nanak St E / Of Canada Goose Blvd',43.73745,-79.76166,1,-1173010844
 10640,'1890','Guru Nanak St E / Of Blue Whale Blvd',43.73632,-79.76275,1,-1173010813
 10650,'1891','Guru Nanak St Opp Riverbank Rd',43.73426,-79.76384,1,-1173010782
-10680,'1892','Guru Nanak St W / Of Riverbank Rd',43.73408,-79.76370,1,-1173010689
-10690,'1893','Guru Nanak St W / Of Rainstorm Rd',43.73550,-79.76295,0,-1173010658
-10700,'1894','Guru Nanak St Opp Canada Goose Blvd',43.73695,-79.76191,1,-1173009976
-10705,'1895','Guru Nanak St W / Of Dixie Rd',43.73827,-79.76045,1,-1173009971
 10730,'1898','Fernforest Dr @ Kimberly Cres (S)',43.74106,-79.75390,1,-1173009883
 10740,'1899','Fernforest Dr @ Hackberry Gt',43.74394,-79.75547,1,-1173009852
-10780,'1903','Black Forest Dr @ Bramalea Rd',43.75019,-79.75249,1,-1173009728
 10820,'1907','Sunny Mdw Blvd S / Of Larkspur Rd',43.75498,-79.74654,1,-1173008953
 10830,'1908','Sunny Mdw Blvd @ Squirreltail Way',43.75423,-79.74555,1,-1173008922
 10840,'1909','Sunny Mdw Blvd @ Oatfield Rd',43.75312,-79.74406,1,-1173008891
@@ -767,7 +763,6 @@
 10855,'1912','Sunny Mdw Blvd Opp Thunderbird Trl',43.75039,-79.74124,1,-1173008855
 10857,'4060','Brampton Civic Hosp 12 SB / 35',43.74784,-79.74184,1,-1173008853
 10858,'4061','Brampton Civic Hosp 12NB',43.74787,-79.74180,1,-1173008852
-10885,'1917','Peter Robertson Blvd @ Mountainash Rd',43.76037,-79.73250,1,-1173008762
 10915,'4057','Sunny Mdw Blvd S / Of Father Tobin Rd',43.76561,-79.76134,1,-1173008018
 10918,'4056','Sunny Mdw Blvd @ Father Tobin Rd',43.76582,-79.76140,1,-1173008015
 10924,'4055','Sunny Mdw Blvd N / Of Sparhill St',43.76463,-79.76000,1,-1173007988
@@ -1891,7 +1886,6 @@
 42090,'3320','Airport Rd @ Eagle Plains Dr',43.77561,-79.73932,1,-1170186279
 42095,'3321','Airport Rd @ Sandalwood Pky E',43.76938,-79.73087,1,-1170186274
 42100,'3322','Airport Rd @ Stonecrest Dr',43.77306,-79.73584,1,-1170185597
-42130,'3325','Peter Robertson Blvd Btn Dusty Star & Sunny Mdw',43.75057,-79.74288,1,-1170185504
 42150,'3326','Peter Robertson Blvd E / Of Velvet Grass Ln',43.74865,-79.74472,1,-1170185442
 42160,'3327','Peter Robertson Blvd E / Of Dusty Star Rd',43.75068,-79.74308,1,-1170185411
 42170,'3328','Sandalwood Pky W W / Of McLaughlin Rd N',43.70641,-79.81249,1,-1170185380
@@ -2035,7 +2029,6 @@
 44950,'3461','Countryside Dr E / Of Sunny Mdw Blvd',43.76876,-79.76655,1,-1170118172
 44960,'3462','Countryside Dr @ Moldovan Dr',43.77171,-79.76376,1,-1170118141
 44995,'3463','S Torbram Rd @ Sandalwood Pky',43.76550,-79.74927,1,-1170118043
-45060,'3471','W Father Tobin Rd E / Of Torbram Rd',43.77127,-79.75619,1,-1170096999
 45070,'3472','Father Tobin Rd W / Of Torbram Rd',43.77078,-79.75665,1,-1170096968
 45080,'3473','Father Tobin Rd E / Of Tennant Dr',43.76852,-79.75817,1,-1170096937
 45090,'3474','Father Tobin Rd Opp Pape Dr (Hewson PS)',43.76685,-79.76015,1,-1170096906
@@ -2500,12 +2493,7 @@
 16090527,'2833','Squire Ellis Dr Btwn Quintette Cl & Belladonna Cir',43.81328,-79.72464,1,1607241464
 16090531,'2837','Ray Lawson Blvd E / Of Rollingwood Dr',43.64428,-79.74457,1,1607241489
 16090532,'2838','Ray Lawson Blvd E / Of Falstaff Dr',43.64544,-79.74263,1,1607241490
-16090539,'2845','Elbern Markell Dr N / Of Williams Pkwy',43.66339,-79.81227,0,1607241497
-16090547,'2853','Creditview Rd S / Of Queen St',43.65661,-79.79221,0,1607241526
 16090551,'2857','James Potter Rd S / Of Queen St',43.66311,-79.78455,1,1607241551
-16090555,'2861','Bonnie Braes Dr E / Of James Potter Rd',43.65561,-79.77979,0,1607241555
-16090559,'2865','Creditview Rd @ Queen St',43.65674,-79.79208,1,1607241559
-16090567,'2873','Elbern Markell Dr S / Of Williams Pkwy',43.66320,-79.81151,1,1607241588
 16090574,'3168','Braidwood Lk Rd S / Of Petworth Rd',43.72316,-79.80740,0,1607241616
 16090575,'3169','Kenpark Ave Opp Burtree Dr (S)',43.74338,-79.80536,0,1607241617
 16090576,'3170','Kenpark Ave N / Of Burtree Dr (S)',43.74358,-79.80553,1,1607241618
@@ -2513,7 +2501,6 @@
 16090578,'3175','Cresthaven Rd W / Of Tournament Dr',43.72585,-79.81969,0,1607241620
 16090579,'3176','Braidwood Lk Rd Opp Shadywood Dr',43.72593,-79.81118,0,1607241621
 16090580,'3177','Braidwood Lk Rd N / Of Petworth Rd',43.72323,-79.80776,0,1607241643
-16090581,'3178','U Of Toronto Mississauga Campus Stop',43.54785,-79.66483,0,1607241644
 16103101,'3286','Peel Memorial Hosp - Route 8 / 25 WB',43.69097,-79.75236,1,1627644387
 16103103,'3179','Mississauga Rd S / Of Financial Dr',43.63420,-79.78550,1,1627644389
 16103104,'3288','Peel Memorial Hosp - Route 8 EB / 24 WB',43.69104,-79.75249,1,1627644390
@@ -2842,3 +2829,8 @@
 26030200,'5015','Airport Rd @ Nls',43.79663,-79.76784,1,-950459575
 26030201,'4459','Tomken Rd N / Of Westcreek Blvd',43.68605,-79.70120,0,-950459574
 26030202,'4460','Westcreek Blvd @ Steelwell Rd',43.68335,-79.70357,0,-950459573
+26042701,'4463','S Bramalea Rd @ Duxbury Rd',43.76763,-79.77587,1,-949471666
+26042702,'4464','S Bramalea Rd N / Of Claremont Dr',43.76581,-79.77339,1,-949471665
+26042703,'4465','S Veterans Dr S / Of Mayfield Rd',43.69627,-79.86412,1,-949471664
+26042704,'4466','W Ebenezer Rd @ The Gore Rd',43.77172,-79.66391,1,-949471663
+26042705,'4467','N Creditview Rd S / Of Wanless Dr',43.69653,-79.84574,1,-949471662
