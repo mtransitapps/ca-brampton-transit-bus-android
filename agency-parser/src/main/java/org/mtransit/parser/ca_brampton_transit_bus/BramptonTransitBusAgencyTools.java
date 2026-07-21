@@ -164,9 +164,10 @@ public class BramptonTransitBusAgencyTools extends DefaultAgencyTools {
 		case 215: return "0161AB";
 		case 216: return "0161AB";
 		case 217: return "0161AB";
-		case 218: return null; // TODO?
-		case 300: return null; // TODO?
-		case 301: return null; // TODO?
+		case 218: return "9EC7AF";
+		case 300: return "9EC7AF";
+		case 301: return "9EC7AF";
+		case 302: return "9EC7AF";
 		case 501: return "EC2027";
 		case 502: return "EC2027";
 		case 505: return "EC2027";
