@@ -1,0 +1,30 @@
+{
+    "target_route_type_id": 3,
+    "default_color": "DB3935",
+    "default_color_comment": "RED (from logo)",
+    "default_color_enabled": true,
+    "default_strings_cleaner_enabled": true,
+    "to_lower_upper_case_words": true,
+    "ignore_upper_case_words": [
+        "EB",
+        "WB",
+        "NB",
+        "SB",
+        "AM",
+        "PM",
+        "BCC",
+        "CAA",
+        "CC",
+        "ETR",
+        "FCCC",
+        "GO",
+        "GSK",
+        "PS",
+        "ROP",
+        "RR",
+        "RRX",
+        "VMC"
+    ],
+    "use_stop_code_for_stop_id_TODO": true,
+    "service_id_cleanup_regex": "^\\d{6}-(MULTI)-|-\\d{2}(-|$)"
+}

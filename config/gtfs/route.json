@@ -1,0 +1,358 @@
+{
+    "route_id_cleanup_regex": "\\-\\d+$",
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_colors_comment": "https://www.brampton.ca/EN/residents/transit/plan-your-trip/Pages/Schedules-and-Maps.aspx",
+    "route_colors": [
+        {
+            "route_short_name": "1",
+            "color": "2E3092"
+        },
+        {
+            "route_short_name": "2",
+            "color": "C6168D"
+        },
+        {
+            "route_short_name": "3",
+            "color": "00AEEF"
+        },
+        {
+            "route_short_name": "4",
+            "color": "A6664C"
+        },
+        {
+            "route_short_name": "5",
+            "color": "007A5E"
+        },
+        {
+            "route_short_name": "6",
+            "color": "8B4A8A"
+        },
+        {
+            "route_short_name": "7",
+            "color": "029CAA"
+        },
+        {
+            "route_short_name": "8",
+            "color": "CF8B2D"
+        },
+        {
+            "route_short_name": "9",
+            "color": "00A88E"
+        },
+        {
+            "route_short_name": "10",
+            "color": "805281"
+        },
+        {
+            "route_short_name": "11",
+            "color": "79A342"
+        },
+        {
+            "route_short_name": "12",
+            "color": "DC5942"
+        },
+        {
+            "route_short_name": "13",
+            "color": "007F9E"
+        },
+        {
+            "route_short_name": "14",
+            "color": "AD855A"
+        },
+        {
+            "route_short_name": "15",
+            "color": "CA636C"
+        },
+        {
+            "route_short_name": "16",
+            "color": "00907F"
+        },
+        {
+            "route_short_name": "17",
+            "color": "0071BC"
+        },
+        {
+            "route_short_name": "18",
+            "color": "EC008C"
+        },
+        {
+            "route_short_name": "19",
+            "color": "BB7831"
+        },
+        {
+            "route_short_name": "20",
+            "color": "F7931D"
+        },
+        {
+            "route_short_name": "21",
+            "color": "164E87"
+        },
+        {
+            "route_short_name": "23",
+            "color": "8FAA5E"
+        },
+        {
+            "route_short_name": "24",
+            "color": "A52868"
+        },
+        {
+            "route_short_name": "25",
+            "color": "005F8C"
+        },
+        {
+            "route_short_name": "26",
+            "color": "029CAA"
+        },
+        {
+            "route_short_name": "27",
+            "color": "C8158C"
+        },
+        {
+            "route_short_name": "28",
+            "color": "ED5C22"
+        },
+        {
+            "route_short_name": "29",
+            "color": "E4A024"
+        },
+        {
+            "route_short_name": "30",
+            "color": "41827C"
+        },
+        {
+            "route_short_name": "31",
+            "color": "F48473"
+        },
+        {
+            "route_short_name": "32",
+            "color": "942976"
+        },
+        {
+            "route_short_name": "33",
+            "color": "32327B"
+        },
+        {
+            "route_short_name": "35",
+            "color": "F7931D"
+        },
+        {
+            "route_short_name": "36",
+            "color": "2E917D"
+        },
+        {
+            "route_short_name": "40",
+            "color": "56C5D0"
+        },
+        {
+            "route_short_name": "41",
+            "color": "B77832"
+        },
+        {
+            "route_short_name": "50",
+            "color": "0095DA"
+        },
+        {
+            "route_short_name": "51",
+            "color": "E4A024"
+        },
+        {
+            "route_short_name": "52",
+            "color": "0066B3"
+        },
+        {
+            "route_short_name": "53",
+            "color": "F48473"
+        },
+        {
+            "route_short_name": "54",
+            "color": "9E76B4"
+        },
+        {
+            "route_short_name": "55",
+            "color": "F16567"
+        },
+        {
+            "route_short_name": "56",
+            "color": "F26667"
+        },
+        {
+            "route_short_name": "57",
+            "color": "1E6649"
+        },
+        {
+            "route_short_name": "58",
+            "color": "009081"
+        },
+        {
+            "route_short_name": "60",
+            "color": "1B62B7"
+        },
+        {
+            "route_short_name": "81",
+            "color": "BA7832"
+        },
+        {
+            "route_short_name": "92",
+            "color": "8DC73F"
+        },
+        {
+            "route_short_name": "104",
+            "color": "DB2375"
+        },
+        {
+            "route_short_name": "115",
+            "color": "274867"
+        },
+        {
+            "route_short_name": "185",
+            "color": "04567E"
+        },
+        {
+            "route_short_name": "199",
+            "color": "04567E"
+        },
+        {
+            "route_short_name": "200",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "201",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "202",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "203",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "204",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "205",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "206",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "207",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "208",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "209",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "210",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "211",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "212",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "213",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "214",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "215",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "216",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "217",
+            "color": "0161AB"
+        },
+        {
+            "route_short_name": "218",
+            "color": "9EC7AF"
+        },
+        {
+            "route_short_name": "300",
+            "color": "9EC7AF"
+        },
+        {
+            "route_short_name": "301",
+            "color": "9EC7AF"
+        },
+        {
+            "route_short_name": "302",
+            "color": "9EC7AF"
+        },
+        {
+            "route_short_name": "501",
+            "color": "EC2027"
+        },
+        {
+            "route_short_name": "502",
+            "color": "EC2027"
+        },
+        {
+            "route_short_name": "505",
+            "color": "EC2027"
+        },
+        {
+            "route_short_name": "511",
+            "color": "EC2027"
+        },
+        {
+            "route_short_name": "561",
+            "color": "EC2027"
+        }
+    ],
+    "direction_types": [
+        1,
+        0
+    ],
+    "direction_types_comments": [
+        "1: cardinal direction",
+        "0: string"
+    ],
+    "direction_finder_enabled": true,
+    "direction_headsign_cleaners": [
+        {
+            "regex": "(^\\d+([a-z]?)((\\s+)(\\w+))+((-| - | to )(.*))?$)",
+            "ignore_case": true,
+            "replacement": "$5",
+            "comment": "keep bound"
+        }
+    ],
+    "trip_excludes": [
+        {
+            "trip_headsign_regex": "^(.*)(not in service)(.*)$",
+            "ignore_case": true
+        }
+    ],
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "(^\\d+([a-z]?)((\\s+)(\\w+))+((-| - | to )(.*))?$)",
+            "ignore_case": true,
+            "replacement": "$2 $8",
+            "comment": "keep letter and distinct"
+        }
+    ],
+    "stop_name_cleaners": []
+}
